@@ -89,7 +89,7 @@
 								<li><a href="index.php?page=analytics">Analytics</a></li>
 								<li><a href="index.php?page=recommendation">Recommendation</a></li>
 								<li><a href="index.php?page=about">About</a></li>
-								<li><a href="index.php?page=user">Users</a></li>
+								
 								<li><a href="index.php?page=contact">Contact</a></li>
 							</ul>
 						</div>

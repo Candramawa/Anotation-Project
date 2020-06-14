@@ -1,3 +1,16 @@
+<?php
+
+	session_start();
+
+//	include_once("function/koneksi.php");
+//	include_once("function/helper.php");
+
+	$page = isset($_GET['page']) ? $_GET['page'] : false;
+	$kategori_id = isset($_GET['kategori_id']) ? $_GET['kategori_id'] : false;
+
+
+?>
+
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -66,14 +79,13 @@
 						</div>
 						<div class="col-md-10 text-right menu-1">
 							<ul>
-								<li class="active"><a href="index.html">Dashboard</a></li>
-								<li><a href="data.html">Data</a></li>
-								<li><a href="analytics.html">Analytics</a></li>
-								<li><a href="new.html">New</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="user.html">Users</a></li>
-								<li><a href="contact.html">Contact</a></li>
-								<li><a href="setting.html">Settings</a></li>
+								<li class="active"><a href="index.php">Dashboard</a></li>
+								<li><a href="index.php?page=data">Data</a></li>
+								<li><a href="index.php?page=analytics">Analytics</a></li>
+								<li><a href="index.php?page=new">New</a></li>
+								<li><a href="index.php?page=about">About</a></li>
+								<li><a href="index.php?page=user">Users</a></li>
+								<li><a href="index.php?page=contact">Contact</a></li>
 							</ul>
 						</div>
 					</div>
@@ -81,23 +93,19 @@
 			</div>
 		</nav>
 
-		<section id="home" class="video-hero" style="height: 700px; background-image: url(images/cover_img_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
-		<div class="overlay"></div>
-			<a class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=vqqt5p0q-eU',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default'}"></a> 
-			<div class="display-t text-center">
-				<div class="display-tc">
-					<div class="container">
-						<div class="col-md-12 col-md-offset-0">
-							<div class="animate-box">
-								<h2>Insight Candramawa</h2>
-								<p>Under Construction</p>
-								<p><a href="" class="btn btn-primary btn-lg btn-custom">Get Started</a></p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<div id="content">
+				
+			<?php
+				$filename = "$page.php";
+				
+				if(file_exists($filename)){
+					include_once($filename);
+				}else{
+					include_once("main.php");
+				}
+			?>
+		
+		</div>
 
 <!---
 		<div class="colorlib-services colorlib-bg-white">

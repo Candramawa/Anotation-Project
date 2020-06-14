@@ -1484,3 +1484,8 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+  .chartbox{
+    padding-left: 90px;
+    margin-top: 40px;
+  }

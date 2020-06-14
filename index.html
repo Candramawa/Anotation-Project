@@ -99,14 +99,22 @@
 			</div>
 		</section>
 
-
+<!---
 		<div class="colorlib-services colorlib-bg-white">
 			<div class="container">
+				<p>Diagram 1</p>
 				<canvas id="myChart"></canvas>
 			</div>
+
+			<div class="container">
+				<p>Diagram 2</p>
+				<canvas id="myChart2"></canvas>
+			</div>
+
 			<script>
 				$(document).ready(function(){
 					var chrt = $("#myChart").get(0).getContext("2d");
+					var chrt2 = $("#myChart2").get(0).getContext("2d");
 
 					var data = [
 						{
@@ -122,10 +130,17 @@
 							label: "Negative"
 						},
 					];
+
 					var chart = new Chart(chrt).Doughnut(data);
+					var chart = new Chart(chrt2).Doughnut(data);
+					
+
 				});
 			</script>
 		</div>
+	-->
+
+	
 <!--
 		<div class="colorlib-intro">
 			<div class="container">
@@ -206,7 +221,7 @@
 			</div>
 		</div> -->
 
-		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
+	<!---	<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -241,7 +256,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 
 <!--
 		<div id="colorlib-subscribe" class="colorlib-subscribe" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">

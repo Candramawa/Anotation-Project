@@ -7,7 +7,12 @@
 
 	$page = isset($_GET['page']) ? $_GET['page'] : false;
 	$kategori_id = isset($_GET['kategori_id']) ? $_GET['kategori_id'] : false;
-
+	function getStatus($page,$key){
+		if($page == $key){
+			return true;
+		}
+		return false;
+	}
 
 ?>
 
@@ -79,10 +84,10 @@
 						</div>
 						<div class="col-md-10 text-right menu-1">
 							<ul>
-								<li class="active"><a href="index.php">Dashboard</a></li>
+								<li><a href="index.php">Dashboard</a></li> 
 								<li><a href="index.php?page=data">Data</a></li>
 								<li><a href="index.php?page=analytics">Analytics</a></li>
-								<li><a href="index.php?page=new">New</a></li>
+								<li><a href="index.php?page=recommendation">Recommendation</a></li>
 								<li><a href="index.php?page=about">About</a></li>
 								<li><a href="index.php?page=user">Users</a></li>
 								<li><a href="index.php?page=contact">Contact</a></li>

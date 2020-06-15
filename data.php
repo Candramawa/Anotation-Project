@@ -1,6 +1,7 @@
 
-		<section id="home" class="video-hero" style="height: 500px; background-image: url(images/cover_img_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
+	<section id="home" class="video-hero" style="height: 500px; background-image: url(images/cover_img_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
 		<div class="overlay"></div>
+
 			<div class="display-t display-t2 text-center">
 				<div class="display-tc display-tc2">
 					<div class="container">
@@ -11,17 +12,26 @@
 							</div>
 
 
+
+
 							
 						</div>
+
+
+
+
+
 					</div>
+
+
+
 				</div>
 			</div>
-		</section>
+	</section>
 
-		<div class="colorlib-work">
-			<div class="container">
-				<div class="row">
-					<!--CHART-->
+	<section>
+			<!--CHART-->
+				<div class="chart container">
 					<div class="col-md-12">
 						<div class="work-flex ">
 							<div class="half animate-box chartbox">
@@ -98,8 +108,23 @@
 
 						<!--END OF CHART-->
 					</div>
+				</div>
+				</section>
 
-					<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
+
+
+
+<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
+
+
+		<div class="colorlib-work">
+			<div class="container">
+				<div class="row">
+					
+
+
+
+
 						<div class="overlay"></div>
 						<div class="container">
 							<div class="row">
@@ -135,3 +160,7 @@
 							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+		</div>
+</div>

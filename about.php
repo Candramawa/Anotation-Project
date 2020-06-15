@@ -25,9 +25,9 @@
                 </div>
                 <div class="col-md-6 animate-box">
                     <h2>About Insight Candramawa</h2>
-                    <p>Insight Candramawa merupakan aplikasi Anotasi data teks pada komentar video Youtube. Latar belakang kami memilih Labelling terhadap komentar pada Youtube, disebabkan oleh banyaknya konten serta pengguna YouTube. Dilansir dari artikel milik IDN Times Jabar berjudul “Data Statistik YouTube yang Jarang Orang Tahu” pada tanggal 31 Agustus 2019, 
+                    <p align="justify">Insight Candramawa merupakan aplikasi Anotasi data teks pada komentar video Youtube. Latar belakang kami memilih Labelling terhadap komentar pada Youtube, disebabkan oleh banyaknya konten serta pengguna YouTube. Dilansir dari artikel milik IDN Times Jabar berjudul “Data Statistik YouTube yang Jarang Orang Tahu” pada tanggal 31 Agustus 2019, 
                         pengguna YouTube mencapai dua miliar per bulan dan terdapat lima ratus jam konten baru setiap menitnya. Oleh sebab itu, kami ingin mengetahui dari banyaknya konten serta pengguna YouTube ini, konten seperti apa yang menarik bagi pengguna dilihat dari komentar yang mereka berikan.</p>
-                    <p>Insight Candramawa di develop oleh kelompok 1 kelas D41B dengan bapak Wendy  Wirasta S.T., M.T. sebagai Manager kami.</p>
+                    <p align="justify">Insight Candramawa di develop oleh kelompok 1 kelas D41B dengan bapak Wendy  Wirasta S.T., M.T. sebagai Manager kami.</p>
                 </div>
             </div>
             <div class="row">
@@ -57,7 +57,7 @@
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <div class="staff-entry">
-                        <a href="#" class="staff-img" style="background-image: url(images/person2.jpg);"></a>
+                        <a href="#" class="staff-img" style="background-image: url(images/skayis.jpg);"></a>
                         <div class="desc">
                             <h3>Kayis Shalahuddin</h3> <br>
                             <span>Programmer</span>
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <div class="staff-entry">
-                        <a href="#" class="staff-img" style="background-image: url(images/spari.jpg);"></a>
+                        <a href="#" class="staff-img" style="background-image: url(images/spari.jpeg);"></a>
                         <div class="desc">
                             <h3>Fachri Dhia Fauzan</h3>
                             <span>Analis</span>

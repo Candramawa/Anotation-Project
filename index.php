@@ -89,7 +89,6 @@
 								<li><a href="index.php?page=analytics">Analytics</a></li>
 								<li><a href="index.php?page=recommendation">Recommendation</a></li>
 								<li><a href="index.php?page=about">About</a></li>
-								
 								<li><a href="index.php?page=contact">Contact</a></li>
 							</ul>
 						</div>
@@ -323,11 +322,12 @@
 						<h4>Information</h4>
 						<p>
 							<ul class="colorlib-footer-links">
-								<li><a href="#"><i class="icon-check"></i> Home</a></li>
-								<li><a href="#"><i class="icon-check"></i> About</a></li>
-								<li><a href="#"><i class="icon-check"></i> Data</a></li>
-								<li><a href="#"><i class="icon-check"></i> Contact</a></li>
-								<li><a href="#"><i class="icon-check"></i> Privacy</a></li>
+								<li><a href="index.php"><i class="icon-check"></i> Dashboard</a></li> 
+								<li><a href="index.php?page=data"><i class="icon-check"></i> Data</a></li>
+								<li><a href="index.php?page=analytics"><i class="icon-check"></i> Analytics</a></li>
+								<li><a href="index.php?page=recommendation"><i class="icon-check"></i> Recommendation</a></li>
+								<li><a href="index.php?page=about"><i class="icon-check"></i> About</a></li>
+								<li><a href="index.php?page=contact"><i class="icon-check"></i> Contact</a></li>
 							</ul>
 						</p>
 					</div>

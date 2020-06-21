@@ -1,4 +1,6 @@
-
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	
+	
 	<section id="home" class="video-hero" style="height: 500px; background-image: url(images/cover_img_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
 		<div class="overlay"></div>
 
@@ -10,26 +12,18 @@
 								<h2>Data</h2>
 								<p class="breadcrumbs"><span><a href="index.php">Home</a></span> <span>Data</span></p>
 							</div>
-
-
-
-
-							
 						</div>
-
-
-
-
-
 					</div>
-
-
-
 				</div>
 			</div>
 	</section>
 
+
 	<section>
+		<div class="judul">
+		<br><br><br>
+		<center><h1>Diagram Persentase Data Hasil Anotasi</></center>	
+		</div>
 			<!--CHART-->
 				<div class="chart container">
 					<div class="col-md-12">
@@ -116,15 +110,9 @@
 
 <div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
 
-
 		<div class="colorlib-work">
 			<div class="container">
 				<div class="row">
-					
-
-
-
-
 						<div class="overlay"></div>
 						<div class="container">
 							<div class="row">
@@ -162,5 +150,64 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>	
+</div>
+
+<br><br>
+
+<div class="judul">
+		<center><h1>Sample Data Komentar</></center>
+		<br><br><br>	
+</div>
+
+<div class="container mt-15 mb-8">
+<table class="table table-hover">
+  <thead class="thead-dark">
+    <tr>
+	  <th scope="col">#</th>
+      <th scope="col">Title</th>
+      <th scope="col">Category</th>
+      <th scope="col">Author</th>
+      <th scope="col">Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	  <th scope="col">1</th>
+      <td scope="row">Corona: Kepastian di Antara Ketidakpastian | Catatan Najwa</td>
+      <td>News & Politics</td>
+      <td>Agus Hardoyo</td>
+      <td>Suka kalimat kuncinya : "kemampuan beradaptasi"</td>
+    </tr>
+    <tr>
+	  <th scope="col">2</th>
+      <td scope="row">WARTEG FAVORIT</td>
+      <td>Entertainment</td>
+      <td>dana wijayanto</td>
+      <td>Salut sama Ria yg ga pernah pilih2 makanan yg mewah2 aja dan keliatan bgt enjoy makan diwarteg dan di pinggiran jalan karena menurut aku reviewers lain kebanyakan hanya review di tempat2 yg kategori menengah keatas tapi beda dg Ria yg tetep humble walau termasuk youtuber yg sudah mumpuni, salut dah pokoknya Salam dari Malang, kapan2 main kemalang lah Ria disini buanyak makanan yg luar biasaaa</td>
+    </tr>
+    <tr>
+	  <th scope="col">3</th>
+      <td scope="row">Yuk Lakukan Senam Aerobik Hanya 15 Menit Untuk Membakar Lemak Tubuh !</td>
+      <td>Howto & Style</td>
+      <td>Belajar bertani Petani</td>
+      <td>Wooowww luar biasa langsung tak subcribe,,,pejuang kurus angkat jempol nya</td>
+    </tr>
+	<tr>
+	  <th scope="col">4</th>
+      <td scope="row">Apa Itu Ilmu 'Kimia' Sebenarnya? Apa Gunanya Di Hidup Kita? #BelajardiRumah</td>
+      <td>Education</td>
+      <td>Leo Zodiak</td>
+      <td>Liat notif \"KIMIA\" Langsung males bukaknya akhirnya dibuka juga eh seru</td>
+    </tr>
+    <tr>
+	  <th scope="col">5</th>
+      <td scope="row">Official Trailer GUNDALA (2019) - In theatres August 29, 2019</td>
+      <td>Film & Animation</td>
+      <td>Rumah Jahit Rina</td>
+      <td>Pengambilan gambarnya keren semangat untuk film indonesia</td>
+    </tr>
+  </tbody>
+</table>
+<br><br>
 </div>

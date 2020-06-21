@@ -1483,9 +1483,16 @@ input[type="text"] {
   background: url(../images/loader.gif) center no-repeat #fff; }
 
 .js .animate-box {
-  opacity: 0; }
+  opacity: 0; 
+}
 
-  .chartbox{
+.chartbox{
     padding-left: 90px;
-    margin-top: 40px;
-  }
+    margin-top: 0px;
+}
+
+.judul{
+  font-size: 200px;
+  font-family: "Nunito", Arial, sans-serif;
+  margin-top: auto;
+}

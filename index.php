@@ -45,6 +45,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400" rel="stylesheet">
 	
+	<link rel="shortcut icon" href="images/logo.png">
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
@@ -79,10 +80,15 @@
 			<div class="top-menu">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-2">
-							<div id="colorlib-logo"><a href="index.html">Insight Candramawa</a></div>
+						<div class="col-md-4">
+							<div id="colorlib-logo"  >
+								<div class="row ">
+									<img width="100" height="100"  src="images/logo3.png" alt="">
+									<a href="index.html">Insight Candramawa</a>
+								</div>
+							</div>
 						</div>
-						<div class="col-md-10 text-right menu-1">
+						<div class="col-md-8 text-right menu-1">
 							<ul>
 								<li><a href="index.php">Dashboard</a></li> 
 								<li><a href="index.php?page=data">Data</a></li>
@@ -111,197 +117,6 @@
 		
 		</div>
 
-<!---
-		<div class="colorlib-services colorlib-bg-white">
-			<div class="container">
-				<p>Diagram 1</p>
-				<canvas id="myChart"></canvas>
-			</div>
-
-			<div class="container">
-				<p>Diagram 2</p>
-				<canvas id="myChart2"></canvas>
-			</div>
-
-			<script>
-				$(document).ready(function(){
-					var chrt = $("#myChart").get(0).getContext("2d");
-					var chrt2 = $("#myChart2").get(0).getContext("2d");
-
-					var data = [
-						{
-							value: 252,
-							color: "lightgrey",
-							highlight: "darkgrey",
-							label: "Positive"
-						},
-						{
-							value: 108,
-							color: "grey",
-							highlight: "black",
-							label: "Negative"
-						},
-					];
-
-					var chart = new Chart(chrt).Doughnut(data);
-					var chart = new Chart(chrt2).Doughnut(data);
-					
-
-				});
-			</script>
-		</div>
-	-->
-
-	
-<!--
-		<div class="colorlib-intro">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>Collaborate with your design team in a new way</h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 animate-box">
-						<span class="play"><a href="https://vimeo.com/channels/staffpicks/93951774" class="pulse popup-vimeo"><i class="icon-play3"></i></a></span>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="colorlib-work-featured colorlib-bg-white">
-			<div class="container">
-				<div class="row mobile-wrap">
-					<div class="col-md-5 animate-box">
-						<div class="mobile-img" style="background-image: url(images/mobile-2.jpg);"></div>
-					</div>
-					<div class="col-md-7 animate-box">
-						<div class="desc">
-							<h2>Real template creation</h2>
-							<div class="features">
-								<span class="icon"><i class="icon-lightbulb"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
-							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-circle-compass"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-								</div>
-							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-beaker"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
-							</div>
-							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
-						</div>
-					</div>
-				</div>
-				<div class="row mobile-wrap">
-					<div class="col-md-5 col-md-push-7 animate-box">
-						<div class="mobile-img" style="background-image: url(images/mobile-1.jpg);"></div>
-					</div>
-					<div class="col-md-7 col-md-pull-5 animate-box">
-						<div class="desc">
-							<h2>Finish template creation</h2>
-							<div class="features">
-								<span class="icon"><i class="icon-lightbulb"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
-							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-circle-compass"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-								</div>
-							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-beaker"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
-							</div>
-							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div> -->
-
-	<!---	<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
-			<div class="overlay"></div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="flaticon-ribbon"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="3875" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Youtube's video commentar we use for making this web App</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="flaticon-church"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="2735" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">From that are positive commentar</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="flaticon-dove"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="1140" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">From that are negative commentar</span>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>-->
-
-<!--
-		<div id="colorlib-subscribe" class="colorlib-subscribe" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
-			<div class="overlay"></div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-						<h2>Already trusted by over 10,000 users</h2>
-						<p>Subscribe to receive unapp tips from instructors right to your inbox.</p>
-					</div>
-				</div>
-				<div class="row animate-box">
-					<div class="col-md-6 col-md-offset-3">
-						<div class="row">
-							<div class="col-md-12">
-							<form class="form-inline qbstp-header-subscribe">
-								<div class="col-three-forth">
-									<div class="form-group">
-										<input type="text" class="form-control" id="email" placeholder="Enter your email">
-									</div>
-								</div>
-								<div class="col-one-third">
-									<div class="form-group">
-										<button type="submit" class="btn btn-primary">Subscribe Now</button>
-									</div>
-								</div>
-							</form>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div> -->
 
 		<footer id="colorlib-footer">
 			<div class="container">
@@ -332,34 +147,6 @@
 						</p>
 					</div>
 
-<!--
-					<div class="col-md-3 colorlib-widget">
-						<h4>Recent Blog</h4>
-						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);">
-							</a>
-							<div class="desc">
-								<h2><a href="blog.html">Photoshoot Technique</a></h2>
-								<p class="admin"><span>30 March 2018</span></p>
-							</div>
-						</div>
-						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);">
-							</a>
-							<div class="desc">
-								<h2><a href="blog.html">Camera Lens Shoot</a></h2>
-								<p class="admin"><span>30 March 2018</span></p>
-							</div>
-						</div>
-						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);">
-							</a>
-							<div class="desc">
-								<h2><a href="blog.html">Imahe the biggest photography studio</a></h2>
-								<p class="admin"><span>30 March 2018</span></p>
-							</div>
-						</div>
-					</div> -->
 
 					<div class="col-md-3 colorlib-widget">
 						<h4>Contact Info</h4>

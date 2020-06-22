@@ -86,7 +86,7 @@
 							<ul>
 								<li><a href="index.php">Dashboard</a></li> 
 								<li><a href="index.php?page=data">Data</a></li>
-								<li><a href="index.php?page=analytics">Analytics</a></li>
+								<li><a href="index.php?page=feature">Feature</a></li>
 								<li><a href="index.php?page=recommendation">Recommendation</a></li>
 								<li><a href="index.php?page=about">About</a></li>
 								<li><a href="index.php?page=contact">Contact</a></li>
@@ -324,7 +324,7 @@
 							<ul class="colorlib-footer-links">
 								<li><a href="index.php"><i class="icon-check"></i> Dashboard</a></li> 
 								<li><a href="index.php?page=data"><i class="icon-check"></i> Data</a></li>
-								<li><a href="index.php?page=analytics"><i class="icon-check"></i> Analytics</a></li>
+								<li><a href="index.php?page=feature"><i class="icon-check"></i> Feature</a></li>
 								<li><a href="index.php?page=recommendation"><i class="icon-check"></i> Recommendation</a></li>
 								<li><a href="index.php?page=about"><i class="icon-check"></i> About</a></li>
 								<li><a href="index.php?page=contact"><i class="icon-check"></i> Contact</a></li>

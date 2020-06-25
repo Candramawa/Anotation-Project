@@ -76,7 +76,43 @@
                         
                     </div>
                 </div>
-                
+                <br>
+                <div class="judul">
+                    <center><h1>Ini Recomendasi Untukmu</h></center>    
+                </div>
+                <div class="container mt-15 mb-8">
+                <table class="content-table">
+                    <thead>
+                        <tr>
+                            <th scope="col">No</th>
+                            <th scope="col">Title</th>
+                            <th scope="col">Category</th>
+                            <th scope="col">Link</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="col">1</th>
+                            <td scope="row">Masalah Pendidikan Indonesia</td>
+                            <td>Edukasi</td>
+                            <td>https://www.youtube.com/watch?v=0bLD6NnlDZs</td>
+                        </tr>
+                        <tr>
+                            <th scope="col">2</th>
+                            <td scope="row">Apa Itu Ilmu 'Kimia' Sebenarnya? Apa Gunanya Di Hidup Kita? #BelajardiRumah</td>
+                            <td>Edukasi</td>
+                            <td>https://www.youtube.com/watch?v=WAE3-XPclE4</td>
+                        </tr>
+                        <tr>
+                            <th scope="col">3</th>
+                            <td scope="row">Fungsi Pendidikan Selain Supaya Bisa Nyari Uang</td>
+                            <td>Edukasi</td>
+                            <td>https://www.youtube.com/watch?v=kEygGb37vwM</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br><br>
+                </div>
             
         </div>
             <br>
@@ -112,7 +148,7 @@
                     </article>
              </div>
              </section>
-<!--                <div class="col-md-4 animate-box">
+                <div class="col-md-4 animate-box">
                     <article>
                         <h2><a href="#">Building the Mention Sales Application on Unapp</a></h2>
                         <p class="admin"><span>May 12, 2018</span></p>

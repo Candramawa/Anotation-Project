@@ -18,10 +18,10 @@
 			</div>
 	</section>
 
+<br><br>
 
 	<section>
 		<div class="judul">
-		<br><br><br>
 		<center><h1>Diagram Persentase Data Hasil Anotasi</></center>	
 		</div>
 			<!--CHART-->
@@ -157,9 +157,9 @@
 
 <div class="judul">
 		<center><h1>Sample Data Komentar</></center>
-		<br><br><br>	
+		
 </div>
-
+<br>	
 <div class="container mt-15 mb-8">
 <table class="table table-hover">
   <thead class="thead-dark">

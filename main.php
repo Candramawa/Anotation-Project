@@ -7,8 +7,8 @@
                     <div class="col-md-12 col-md-offset-0">
                         <div class="animate-box">
                             <h2>Insight Candramawa</h2>
-                            <p>Under Construction</p>
-                            <p><a href="" class="btn btn-primary btn-lg btn-custom">Get Started</a></p>
+                            <p>Explore The Insight</p>
+                            <p><a href="index.php?page=feature" class="btn btn-primary btn-lg btn-custom">Get Started</a></p>
                         </div>
                     </div>
                 </div>

@@ -57,7 +57,7 @@
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <div class="staff-entry">
-                        <a href="#" class="staff-img" style="background-image: url(images/skayis.jpg);"></a>
+                        <a href="#" class="staff-img" style="background-image: url(images/skayis.jpeg);"></a>
                         <div class="desc">
                             <h3>Kayis Shalahuddin</h3> <br>
                             <span>Programmer</span>
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <div class="staff-entry">
-                        <a href="#" class="staff-img" style="background-image: url(images/spari.jpeg);"></a>
+                        <a href="#" class="staff-img" style="background-image: url(images/spari.jpg);"></a>
                         <div class="desc">
                             <h3>Fachri Dhia Fauzan</h3>
                             <span>Analis</span>

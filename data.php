@@ -211,3 +211,80 @@
 </table>
 <br><br>
 </div>
+
+<div class="judul">
+	<hr>
+		<center><h1><br>Detail Data Komentar</></center>
+		
+</div>
+<br>
+    <div class="row" style="font-size: 13px">
+        <div class="col-md-10 offset-md-1">
+            <table id="bimz" class="table table-striped table-bordered">
+                <thead>
+                    <tr>
+                    	<th style="width: 8px">No</th>
+                        <th>Judul</th>
+                        <th style="width: 15px">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                	<tr>
+		                <td>1</td>
+		                <td>Berita dan Politik-Kepastian di Antara Ketidakpastian Catatan Najwa</td>
+		                <td>
+		                	<a href="index.php?page=details1">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>2</td>
+		                <td>Berita dan Politik-Mengenal Miangas, Pulau Indonesia yang Lebih Dekat ke Filipina</td>
+		                <td>
+		                	<a href="index.php?page=details2">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>3</td>
+		                <td>Berita dan Politik-Viral Video Polisi Kejar dan Tembaki Dua Begal Bermotor di Jalan Raya Bekasi</td>
+		                <td>
+		                	<a href="index.php?page=details3">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>4</td>
+		                <td>Education-Apa Itu Ilmu Kimia Sebenarnya</td>
+		                <td>
+		                	<a href="index.php?page=details4">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>5</td>
+		                <td>Education-Fungsi Pendidikan Selain Supaya Bisa Nyari Uang</td>
+		                <td>
+		                	<a href="index.php?page=details5">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+<br>
+
+<script type="text/javascript">
+	$(document).ready(function () {
+        $('#bimz').DataTable({
+        	"paging":   false,
+	        "info":     false
+        });
+    });
+</script>

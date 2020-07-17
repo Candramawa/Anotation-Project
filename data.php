@@ -160,53 +160,39 @@
 		
 </div>
 <br>	
-<div class="container mt-15 mb-8">
+
+<?php
+ //ambil data json dari file
+  $content=file_get_contents("Proses 1 - Scraping Komentar Youtube/ListVideo.json");
+
+  //mengubah standar encoding
+  $content=utf8_encode($content);
+
+  //mengubah data json menjadi data array asosiatif
+  $result=json_decode($content,true);
+?>
+
+<div class="container text-center mt-15 mb-8">
 <table class="table table-hover">
   <thead class="thead-dark">
     <tr>
-	  <th scope="col">#</th>
       <th scope="col">Title</th>
+	  <th scope="col">Channel</th>
       <th scope="col">Category</th>
-      <th scope="col">Author</th>
-      <th scope="col">Comment</th>
+      <th scope="col">Link Video</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-	  <th scope="col">1</th>
-      <td scope="row">Corona: Kepastian di Antara Ketidakpastian | Catatan Najwa</td>
-      <td>News & Politics</td>
-      <td>Agus Hardoyo</td>
-      <td>Suka kalimat kuncinya : "kemampuan beradaptasi"</td>
-    </tr>
-    <tr>
-	  <th scope="col">2</th>
-      <td scope="row">WARTEG FAVORIT</td>
-      <td>Entertainment</td>
-      <td>dana wijayanto</td>
-      <td>Salut sama Ria yg ga pernah pilih2 makanan yg mewah2 aja dan keliatan bgt enjoy makan diwarteg dan di pinggiran jalan karena menurut aku reviewers lain kebanyakan hanya review di tempat2 yg kategori menengah keatas tapi beda dg Ria yg tetep humble walau termasuk youtuber yg sudah mumpuni, salut dah pokoknya Salam dari Malang, kapan2 main kemalang lah Ria disini buanyak makanan yg luar biasaaa</td>
-    </tr>
-    <tr>
-	  <th scope="col">3</th>
-      <td scope="row">Yuk Lakukan Senam Aerobik Hanya 15 Menit Untuk Membakar Lemak Tubuh !</td>
-      <td>Howto & Style</td>
-      <td>Belajar bertani Petani</td>
-      <td>Wooowww luar biasa langsung tak subcribe,,,pejuang kurus angkat jempol nya</td>
-    </tr>
-	<tr>
-	  <th scope="col">4</th>
-      <td scope="row">Apa Itu Ilmu 'Kimia' Sebenarnya? Apa Gunanya Di Hidup Kita? #BelajardiRumah</td>
-      <td>Education</td>
-      <td>Leo Zodiak</td>
-      <td>Liat notif \"KIMIA\" Langsung males bukaknya akhirnya dibuka juga eh seru</td>
-    </tr>
-    <tr>
-	  <th scope="col">5</th>
-      <td scope="row">Official Trailer GUNDALA (2019) - In theatres August 29, 2019</td>
-      <td>Film & Animation</td>
-      <td>Rumah Jahit Rina</td>
-      <td>Pengambilan gambarnya keren semangat untuk film indonesia</td>
-    </tr>
+  
+  	<?php foreach ($result as $value) : ?>
+			<tr>
+				<td scope="row"><a href="index.php?page=source&title=<?= $value["title"]; ?>"><?=$value['title']?></a></td>
+				<td><?=$value['channel']?></td>
+				<td><?=$value['category']?></td>
+				<td><a href="<?=$value['link']?>" target='_blank'>Watch Video</a></td>
+			</tr>
+	<?php 	endforeach; ?>
+
   </tbody>
 </table>
 <br><br>

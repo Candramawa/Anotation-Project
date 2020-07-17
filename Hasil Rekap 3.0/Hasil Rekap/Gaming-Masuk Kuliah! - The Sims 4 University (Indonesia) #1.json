@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1",
+        "context": {
+            "dalam": 78,
+            "luar": 71
+        },
+        "sentiment": {
+            "positif": 42,
+            "netral": 93,
+            "negatif": 14
+        },
+        "total": 149
+    },
+    "percentage": {
+        "dalam": "52.35%",
+        "luar": "47.65%",
+        "positif": "28.19%",
+        "netral": "62.42%",
+        "negatif": "9.4%"
+    }
+}

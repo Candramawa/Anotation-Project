@@ -1,0 +1,19 @@
+{
+    "all_recap": {
+        "total_all": {
+            "dalam": 2758,
+            "luar": 1520,
+            "positif": 2193,
+            "netral": 1513,
+            "negatif": 561,
+            "total": 4278
+        },
+        "percentage_all": {
+            "dalam": "64.47%",
+            "luar": "35.53%",
+            "positif": "51.39%",
+            "netral": "35.46%",
+            "negatif": "13.15%"
+        }
+    }
+}

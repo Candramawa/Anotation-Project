@@ -1,0 +1,8002 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 10.004,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "cBAnA1mXGk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "x36Rs1Mb9l",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pinned by Tropicana Slim",
+      "category": "Film & Animation",
+      "comment": "Dari awal, #JanjiTheSeries ini dibuat untuk kamu. Dan karena kamu, Janji bisa seperti ini. Terima kasih untuk 1.000.000 view! :)",
+      "like": "262",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 19.218,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BASCvDFuHA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "a_U_KwyPKF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dimas Novel",
+      "category": "Film & Animation",
+      "comment": "Tolong Tropicana Slim saya sudah beli Tropicana Slim 1 kardus, tolong tambah durasinya jadi 30 menit wahai admin",
+      "like": "2.9K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 9.216,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1D1Ptks0w4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3wjDEjXXEC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hanan Wijdan",
+      "category": "Film & Animation",
+      "comment": "apa yang gue pelajari dari episode 1 ini adalah pentingnya cerita ke pasangan kita. beberapa orang mungkin mikir, “kayaknya gue cerita ke cewe/cowo gue pas udah pasti aja deh.” tapi gue rasa lebih baik lo cerita dari awal, dari proses itu lagi berjalan, ga ujug2 cerita kelarnya gimana. ",
+      "like": "2.3K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 10.957,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Ai7QeJVx4P",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "L-PJd5B4rw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "snow bar",
+      "category": "Film & Animation",
+      "comment": "Gue jd dona agnesia ketar ketir liat chemistry nya darius sama ni cewe 😂",
+      "like": "1.6K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 7.286,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tRb29oBjVN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ZyfqpsbG2-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fitin Agustin",
+      "category": "Film & Animation",
+      "comment": "Siapa rindu DION WIYOKO!!!",
+      "like": "2.2K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 5.998,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "b-NRjXLeEQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "e04U37vUin",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "irsyad harfiansyah",
+      "category": "Film & Animation",
+      "comment": "Admin, tolong selama puasa uploadnya jam 5 ya buat ngabuburit :(\n\nNanti saur aku ngemil tropicanaslim deehhh",
+      "like": "1.7K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 10.679,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-9phI8DuGI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tNjPT4rINR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Akbar Basri",
+      "category": "Film & Animation",
+      "comment": "X Penonton Series Sore sama Series Eiger sama Series Mengakhiri Cinta Dalam 3 Episode Cung ? wkwk",
+      "like": "4.4K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 6.049,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6aw6hLgWED",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JIstanW62S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pandora's Box •",
+      "category": "Film & Animation",
+      "comment": "Ya ampuuun tolong itu om darius itu seperti bukan bapak 3 anak..\ntolong tolong 😻",
+      "like": "1.7K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 5.032,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tHPAT49wA3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "blQ8P4yFOP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "karel Tv",
+      "category": "Film & Animation",
+      "comment": "Dakota johnson dengan kearifan lokal...  😀😀",
+      "like": "316",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 10.401,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "G3NlkkS4dZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BmqfJAwiFS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "fina susan",
+      "category": "Film & Animation",
+      "comment": "Besok besok kalo ada series bagus kyk gini jgn kasih tau Ringgo, bikin ribet. 😂😀",
+      "like": "645",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 8.838,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qNcMNjAJQT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "wEj2ExGXnx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sarah Widyaningtiyas",
+      "category": "Film & Animation",
+      "comment": "Kebiasaan cowok tuh ya, bakal ngomong kalo semuanya udh beres. Kenapa gitu sih? 😂 Kenapa gak blg aja pas diawal? Kali bisa bantu, kali juga bisa nyiapin diri kalo ada niatan mo pergi jauh.",
+      "like": "496",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 11.288,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5KOH7c9dor",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "S2aC7Oo-n3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Samsa Bahrudin",
+      "category": "Film & Animation",
+      "comment": "Kenapa si ringgo selalu ccok kalo penokohan BACOT, mana brisik bgt annoying.",
+      "like": "292",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 5.369,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xSetP31EIY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "EU58faxjNM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Raihana Cyan",
+      "category": "Film & Animation",
+      "comment": "TOLONG GUE BUTUH TONTONAN KAYA BEGINI DURASI SATU JAM PUN GAPAPA DEH, NANTI CEMILAN MICIN GUE GANTI JADI TROPICANASLIM😂",
+      "like": "485",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 5.799,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ep82lmSK0c",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "l181BVD647",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "gilbert sahat manik",
+      "category": "Film & Animation",
+      "comment": "TOLONG ITU DARIUS SINATRIA TERLALU TAMPAN BUKAN KAYAK BAPAK ANAK 3",
+      "like": "121",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 8.975,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "LplVNAM_fz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UsZ-2TeI1h",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "kak nis",
+      "category": "Film & Animation",
+      "comment": "Nay ngasih selimut\n\n(gue dalam hati: mampus Iko tidur di luar)",
+      "like": "444",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 5.389,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "4rm0JgtYzs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SrTFtpcpdM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fieary Alkalakazie",
+      "category": "Film & Animation",
+      "comment": "Dilihat-lihat Nay mirip Anastasia Gray",
+      "like": "2.6K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 10.459,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "nEBy3WKWnp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "y3V3nDagiS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ibal Salsabil",
+      "category": "Film & Animation",
+      "comment": "Sadar gak sih mereka lagi nonton “Sore” series 😂😂",
+      "like": "25",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 5.522,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "P3wH8PvTyW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FZsGom45Td",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fidya Isti",
+      "category": "Film & Animation",
+      "comment": "Si ringgo nih tipe temen toxic yg harus di jauhin, ngeselin banget wkwkwk",
+      "like": "103",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 6.8,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "n19A0ZEdbQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-vZm1H-VQu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Firda Salsabila",
+      "category": "Film & Animation",
+      "comment": "Sumpah seneng banget liat Darius akhirnya acting lagiiii, wkwk Ringgo juga ngeselinnya dpt bgt. Apalagi garapannya Yandy Laurens, yakin gabakal ngecewain deh. Makasih udah ngasih yontonan berkualitas di youtube indonesia ya Mas Yandy",
+      "like": "129",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 8.833,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HjCBkuz3V3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "cds5ZuivOw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Feren Vini Danoza",
+      "category": "Film & Animation",
+      "comment": "4:40 they're watching SORE guyss",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 7.875,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VM1-CXprTf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "L3YnVIMwLR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ayu Kusumaningrum",
+      "category": "Film & Animation",
+      "comment": "Mba Widika mukanya mirip campuran antara Dakota Johanson (Anastasia Steele) -Henidar Amroe -Firrina (model) , cakep2 semuaa 😍",
+      "like": "83",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 9.515,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "cArIM_Dv1X",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FOrO-b1s8M",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ilham Hadi Permadi",
+      "category": "Film & Animation",
+      "comment": "Yang nanya lagu siapa pas di akhir film >>\n\nNonaria - Sebusur Pelangi",
+      "like": "140",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 9.132,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "CZOUOStZyl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "A785chpEUR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Akihiko",
+      "category": "Film & Animation",
+      "comment": "Aduuhh, Ujo ini nonchalant sekali ya 😂 Greget!!\nAnd what a cute couple Iko and Naya is, perfect chemistry. Good job to the actors 👏🏻",
+      "like": "10",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 124.707,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_Snk_lGx4k",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "K4jeQJ304k",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Jizreel Pandey",
+      "category": "Film & Animation",
+      "comment": "seperti balik ke masa lalu, kualitas \"sinetron\" lebih dipikirkan daripada kuantitas (jumlah episode)..",
+      "like": "30",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 10.033,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vynZXJK05T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Q1WHAtIwvp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gede Bujana",
+      "category": "Film & Animation",
+      "comment": "Abah udah tua, malah ganggu orang lgi bermesraan...",
+      "like": "60",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 5.195,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "t0qfiuMqnz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "5s79Nq_UA6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Diikaatr",
+      "category": "Film & Animation",
+      "comment": "YANG KESINI GARA² BANG ARIEF, MANA SUARANYA!!!",
+      "like": "62",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 9.463,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "AMw7bNV7Z5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "gYNJdCcSVf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bagus Haruman",
+      "category": "Film & Animation",
+      "comment": "Selalu suka webseries garapan Yandy Laurens (Sore, Mengakhiri cinta dalam 3 episode)",
+      "like": "41",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 8.412,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Q96wcBGbtC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7hj691bytq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bonifasius Victor Imanuel Gultom",
+      "category": "Film & Animation",
+      "comment": "Anda meremehkan kuota kami ? durasi 1 minggu pun kami jabanin",
+      "like": "2.1K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 9.439,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "b1mMgb8mYe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ferlxdNCwJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Selma Alvinea",
+      "category": "Film & Animation",
+      "comment": "reserver : “have a nice stay sir.”\n\niko : “you too”",
+      "like": "11",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 45.202,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "SXLgcrXtAn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "n68zdT00kC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Safa N",
+      "category": "Film & Animation",
+      "comment": "it's been a long time to see this kinda stong chemistry in indonesian productions",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 12.649,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_tVjfts8Y5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "r-6kSBn5os",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gery Ardian",
+      "category": "Film & Animation",
+      "comment": "Itu lima orang yang dislike tolong tulis alamatnya di bawah ini, mau saya data 👇👇👇",
+      "like": "22",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 22.16,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "X4Fc_tQeNX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "IamwzdQ0pt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "andi sudaryanto",
+      "category": "Film & Animation",
+      "comment": "setelah SORE yang bikin baper kini muncul JANJI yang sangat menarik",
+      "like": "40",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 4.571,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "TBf286kNoh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "u7HeWMMN8C",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "syafei elmahdy",
+      "category": "Film & Animation",
+      "comment": "Coba ya kualitas sinetron indonesia kayak gini 😂",
+      "like": "1.3K",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 7.702,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "sWU0PRXFmw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AH7jfzndNT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "auralia ayuningtyas",
+      "category": "Film & Animation",
+      "comment": "DARIUSSSS TOLONGGGG KENAPA MAKIN HOT SIHHHHHH😂😂😂😂😂😂",
+      "like": "14",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 6.895,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "M6zahmbync",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "oPJBbAhZVB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dewa Kamajaya",
+      "category": "Film & Animation",
+      "comment": "Kebayang BAPERRRRnya Dona (Istri Darius) kalo liat ini... wkwkwkwk 😂😂😂",
+      "like": "29",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 10.601,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "F1WF1ZOiWA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "5wdLdRLZaV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "rizza aini",
+      "category": "Film & Animation",
+      "comment": "Nonton webseries? \nInget dan pengen dion wiyoko😍😅",
+      "like": "21",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 8.371,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "QUHFzamWar",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hBZ2Xq4Bif",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ayu haritsa",
+      "category": "Film & Animation",
+      "comment": "Bjorkaaaa, susulin papa mu nihhh, jail bgt nimbrungin org mulu wkwkwk",
+      "like": "15",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 5.031,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "OZ2AJzbyYu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Q4MLTTVJDY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Erangel",
+      "category": "Film & Animation",
+      "comment": "Si ringgo emg cocok jadi org ngeselin",
+      "like": "892",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 4.607,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DlF5DdXeBu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vh7ZZ741lw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Angga Ramadhan",
+      "category": "Film & Animation",
+      "comment": "The sound is so perfect",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 20.481,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Tt8s1q1EVG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "j1PaGqy42V",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Stevanus Krisna",
+      "category": "Film & Animation",
+      "comment": "Master Yandy. Big respect!!",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 7.095,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gnosjzUvKi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XiVHfGPSIU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pretty Girls are Sleepyheads",
+      "category": "Film & Animation",
+      "comment": "Ngelike sebelum nontoooonnn,, Darius ibarat wine.. If u know what I mean ❤❤",
+      "like": "19",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 4.479,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "KZvO0rgnQq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sfc9FZp-08",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "noob philosopher",
+      "category": "Film & Animation",
+      "comment": "First thought on Widika Sidmore: Uma Thurman.",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 522.261,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JlJvJ7sQrY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "gnZPeoUuvp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ira ira",
+      "category": "Film & Animation",
+      "comment": "Tim #Janjitheseries bisa kah kalian memasukkan list sountrack di description box? Cause I love it! Soundtrack n acting nya berasa kawin gitu",
+      "like": "19",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 24.155,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Fy9RL_TDWw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "QBK67Z4kz_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "A L F I",
+      "category": "Film & Animation",
+      "comment": "Kesini karena dikabarin admin WatchmenID dah tayangggg. 😂\n\nItu tuhhh Ujo bikin ngakak terus dahhh. Suruh pake seragam SMA masa 😂😂😂",
+      "like": "16",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 16.473,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "4R0GIWkxn3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JgNbRgUIEa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Anugrah Tungke",
+      "category": "Film & Animation",
+      "comment": "Baju SMA ya ampun 😂😂😂\n\nSemoga sinetron televisi bisa begini jg kualitasnya",
+      "like": "8",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 9.065,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NghOOvQCUY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "J4Mp6o9x3Q",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yudhan M",
+      "category": "Film & Animation",
+      "comment": "\"Edho ganteng mirip iko\" From edhozell 🤣",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 5896.798,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "iOI228C0AX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-_Dx5xEmYf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dhio Dhafin Hanandra",
+      "category": "Film & Animation",
+      "comment": "Salah fokus 😭, posisi koper berubah 7:52 - 8:22",
+      "like": "29",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 10.776,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fzEhnTQ48H",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "MJJkonVxuo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Disty Maharani",
+      "category": "Film & Animation",
+      "comment": "05:50-when Janji liat Sore-",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 10.414,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NkISYQoLEZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AQvVIQ2PeP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Isti Viera",
+      "category": "Film & Animation",
+      "comment": "Sebusur pelangi- nonaria ft junior soemantri👏",
+      "like": "8",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 5.602,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Fefy9BHWJU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "phxK72o-H6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "philia turnip",
+      "category": "Film & Animation",
+      "comment": "Darius tampan TO THE MAX",
+      "like": "7",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 8.95,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "I4Nv1qKu7W",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ABhAte52iB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rossita Indah",
+      "category": "Film & Animation",
+      "comment": "Hey pak ringgo anda ngeselin sekali yaaa",
+      "like": "779",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 5.827,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0sDfV7-lJ6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "wU0FGLZY9k",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Andini Saraswati",
+      "category": "Film & Animation",
+      "comment": "Sebenarnya gamau nonton dulu sebelum end . Karena pasti penasaran. Tapi tangan gatel pengen mencett",
+      "like": "13",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 4.518,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "z_FDNhdhLP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "mkPv9xQ0Z4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rezahra Nurjannah E",
+      "category": "Film & Animation",
+      "comment": "tolong ini bagusss bagusss bagguuuusss bagggusss babggggggggggeeeeeeettttt😭😭😭 durasinya lamain lagi dong tolongggggg.dari sore dll nyentuh bangggeeetttt;'(",
+      "like": "5",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 12.54,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "QeF4gHe78V",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "QVRmD_esd_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Afyanti",
+      "category": "Film & Animation",
+      "comment": "09:39 gw yang lagi menghayati sambil makan tiba\" keseleg😂",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 7.038,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "m_qsckXhzV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "O6fVKGuKZm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nisa anisa",
+      "category": "Film & Animation",
+      "comment": "Yang gara* hanin dhiya cover langsung lari kesini ada??",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 11.799,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "D8ghDK2_4a",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "kOlj4lzWY3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hells97",
+      "category": "Film & Animation",
+      "comment": "KAMPRET, kenapa gw liat ini sekarang, mana baru eps 1 lagi.... Lama finishnya",
+      "like": "10",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 18.457,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MKXPcJbWRB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "l_CbqB-Tvl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ian arizky khoirul akbar sugianto",
+      "category": "Film & Animation",
+      "comment": "Bang edho ganteng mirip iko :v",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 22.739,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "yttmKHCK7e",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "l5owt82hgS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Oet Fahlevi",
+      "category": "Film & Animation",
+      "comment": "EDHOZELL GANTENG MIRIP RINGGO!!!!! WKWKWKWKW 😁",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 7.106,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WmapJXxu7K",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FyYqqnqi2A",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "UKY SYAH_REZA",
+      "category": "Film & Animation",
+      "comment": "Ya ampun... Si ringgo. Ampe. Ke korea juga dia nyusul\n\n\nNgeselin",
+      "like": "5",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 9.259,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "aleP0uL3IM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7qTsVwcuSj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "_sax",
+      "category": "Film & Animation",
+      "comment": "Di suruh komen ama bang edho\n\n\"Edho ganteng mirip iko\"",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 8.171,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mzXbjIeVji",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tyW3WOkRC-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "fatimah 02",
+      "category": "Film & Animation",
+      "comment": "\" edho ganteng mirip iko \"",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 5.28,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "b2oi9G5E3W",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Dz6Vt-smKO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Shes Octa",
+      "category": "Film & Animation",
+      "comment": "\"pake baju SMA\" good idea baba 😂",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 5.275,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "H1cE83n4l0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fdNBRuueob",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nicko",
+      "category": "Film & Animation",
+      "comment": "keren tropicana!👏👏, ada yang tau lagu 7:16 ?",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 6.315,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5ENgBrmy85",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "o_E2BZ_b4D",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Stevent-jeduar",
+      "category": "Film & Animation",
+      "comment": "Edhozell mirip iko uwais",
+      "like": "5",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 6.917,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "imAcgEI9YH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "GfK1FUpwcj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ensel sj",
+      "category": "Film & Animation",
+      "comment": "Kesini demi nyenengin bang edho\n\"Edho ganteng mirip iko\"",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 9.709,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gUTTs-kbfG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "n07S_rQ6h7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "hanum l",
+      "category": "Film & Animation",
+      "comment": "fokus fokus fokus fokus..",
+      "like": "8",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 37.36,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PQa6aN5uG2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iGXo2RUXy1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yudha DS",
+      "category": "Film & Animation",
+      "comment": "Another Yandy Laurens Masterpiece's !!!",
+      "like": "8",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 5.561,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IFoCXlxE8A",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ug60JZu_Y5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Reni Debora",
+      "category": "Film & Animation",
+      "comment": "Welllllll, next pleaseeeeee🤣🤣🤣",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 104.034,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0yDKQ8b2Hf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "44RzhKwewl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Xiuxiu Nii",
+      "category": "Film & Animation",
+      "comment": "ITU YANG PADA NGEDISLIKE SINI JELASIN KE GUE SELERA LO KAYA GIMANA?!",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 31.584,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IniD8xZru9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "m8B8usCPqh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "user normal",
+      "category": "Film & Animation",
+      "comment": "Edhozell ganteng mirip iko",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 9.085,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "d4KZQhZjzn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4VfNZ4oQGn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "azkabantaw",
+      "category": "Film & Animation",
+      "comment": "Aku klo liat darius inget donna agnesia. Jd ntn ini kaya darius selingkug dr donna. Sungguh pikiranku susah dimengerti 😔",
+      "like": "11",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 10.684,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6sLq1SVG3-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vv6zyyuNda",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "nadhira tasya",
+      "category": "Film & Animation",
+      "comment": "Tropicana slim > MD ent3rtainment 😂",
+      "like": "436",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 6.28,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DRFPTLVGrU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SPO3R760_O",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ola Sri Sartika",
+      "category": "Film & Animation",
+      "comment": "Edho Ganteng mirip iko ..😂😂 @edhozell",
+      "like": "7",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 12.715,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3gbZJ8l7zP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SeVm3KEX5T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Salvatore O _",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip Iko",
+      "like": "7",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 8.515,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "y1QrQ1sbAG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rJWTUpCjv9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "BabyMurya",
+      "category": "Film & Animation",
+      "comment": "Disuruh Comment Sama Edhozell\n\"edho ganteng mirip iko\"\n😂",
+      "like": "35",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 19.443,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "L_Sjju111n",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xlIehXYMhS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "endry saputra",
+      "category": "Film & Animation",
+      "comment": "\"pengen cepet hamil? pake baju sma\"\n\nringgo",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 4.326,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vOSSGrhSa_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pCujooxJuC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ajeng Asrifa",
+      "category": "Film & Animation",
+      "comment": "another series yeayyy❤️",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 14.853,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "KVQVBtzBJ-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TfwsCtkG5D",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Afif Raffie",
+      "category": "Film & Animation",
+      "comment": "Si Bang Ringgo cocok ya jdi orng ngeselin pas maen Film :v",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 8.477,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YKzaakkH3u",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3OPZysHZsx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Andra",
+      "category": "Film & Animation",
+      "comment": "\"Itu anak SMA ga direncanain jadi.\" Wkwkwkwk",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 24.528,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GeK0UoulM_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "5Kcep4njSI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ajeng evita",
+      "category": "Film & Animation",
+      "comment": "Knp sama 3 anak disalahin..  Emang cocokna suami 3 istri,,  gara2 bnyk yg dftr",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 5.107,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "q2xkwdnXvq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uKdbjhmjzS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Debby Manopo",
+      "category": "Film & Animation",
+      "comment": "Wahhh keren inii.. ini baru layak dintonton, berasa kembali ke era 90an jalan ceritanya, filmnya jelas dan ngena di hati, bukan yg kaleng2, mobil masih 2 meter kesenggol masuk RS lgsung mati. 😂",
+      "like": "497",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 4.254,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3OUZ_fBMmj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "bUoG9yKGLh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Elang Gumilang",
+      "category": "Film & Animation",
+      "comment": "Si Ringgo bangsat bener dah wkwkwkw",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 13.061,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "h0cbr3PZWD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "yCWY3Np-Hz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "paivaiva",
+      "category": "Film & Animation",
+      "comment": "\"Hey, Iko. Eyy... Iko... It's okay, it's okay.\" kalau gue ngomong mendesah gitu, jijik njir",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 117.464,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "N8ES3ey9Jj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1StG8Omh24",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Angga Labesa",
+      "category": "Film & Animation",
+      "comment": "Sumpah keren banget, the next sore",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 12.044,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2k6keHw6uT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Su9OuNw3jx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Iriyanti Rachman",
+      "category": "Film & Animation",
+      "comment": "Mb donna aq liatnya kok cemburu gitu liat bang darius 😅😅😅 duh duhhhhh serrrr",
+      "like": "9",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 13.269,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "n719usui0G",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "9bgWHwlJYy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "iman hiro",
+      "category": "Film & Animation",
+      "comment": "Gw suka film nya tapi suka nyepelein detail kecil, jadi kesel liatnya 7:36 airbus series then 7:44 jadi boeing 737 series",
+      "like": "24",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 6.869,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "sEmyWm-bTS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hWx8W3-IW5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "cγB• kíng",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip iko form edho zell",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 9.931,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3F-xCKkmaK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "m8skPUJzhJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rangga Hanggarai Mahendra",
+      "category": "Film & Animation",
+      "comment": "Yang COMENT pada DIABETES semua kek nya, 🤔 😂",
+      "like": "13",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 6.635,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "sJOuq9rrxM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Eyycqjdt0S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nur Sepryanto",
+      "category": "Film & Animation",
+      "comment": "00:51 sekilas mirip Anggika Bolsterli 😅",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 7.365,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0fozO2nRwF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "6CKUB9OPY1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Irwan Nirwansyah",
+      "category": "Film & Animation",
+      "comment": "Another Yandy Laurens project... i'm so excited..",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 8.43,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hu1j60dAr3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XjbexUDVSb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "John Wick",
+      "category": "Film & Animation",
+      "comment": "Tolong kasih tau soundtrack lagu apa pada menit 8:22 sampai 9:17\nLagu nya siapaaaa,please help....",
+      "like": "28",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 9.925,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mreAZN45b6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "h6pS2JlD_U",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "CottonCandy",
+      "category": "Film & Animation",
+      "comment": "Ahahahahaha si ringgo jadi pengganggu.. Ngeselin bgt👏",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 12.689,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Xuf2ZAqEDy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "z08KT0AzoD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sak Pin",
+      "category": "Film & Animation",
+      "comment": "Kak Edho mirip Iko = 1% yaitu sama sama laki laki",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 9.974,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RQ3EjUwhnM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BaQAL50R14",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hasna Fitriyani",
+      "category": "Film & Animation",
+      "comment": "Suka heran sama sinetron2 di tv. Kenapa coba gak masukin serial kaya gini aja ? Padahal serial2 kaya gini lebih bagus gak lebay lagi.",
+      "like": "277",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 5.175,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "m_9rnmJXB_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AtKfnAN6Q2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ci Ann",
+      "category": "Film & Animation",
+      "comment": "Duhhh ringggggooooo lu ganggu ajaaa.... \nKalo kejadian sma gue dpet temen kayak gini, ku ikattt aja di pohon kelapa. Wkwkwk",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 6.046,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "bm3U-LLB2R",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Dbb0qsVFOD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dinta Asnia Masruroh",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip iko",
+      "like": "7",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 11.104,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RwMamfRoHi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "jCJyxfg0As",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mamet Meta",
+      "category": "Film & Animation",
+      "comment": "Ih kesel kenapa gw ntn nya pas episode 1 😭😭😭😭. Lama nunggu nya ampoooon",
+      "like": "11",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 14.328,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BilED9T7VS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KR25LpmkKB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fahrian saleh",
+      "category": "Film & Animation",
+      "comment": "Bangke ringgo 😂",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 7.712,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Nxpmxo2pf1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pJQpsThnOP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bae santi",
+      "category": "Film & Animation",
+      "comment": "Udah lah gue tu lemah kalau udh nonton series beginian.. Sukak bgt ❤ parah !!",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 42.891,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "450-q36Imt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "--k976RsxX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Shinta Dwi Mustikawati",
+      "category": "Film & Animation",
+      "comment": "Please seminggu 7 kaliiii tayaaang huaaa ~~ aku tuh ikhlas kuota kalo nntn yg begini tuhhhh ~~ 😂😂",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 99
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 25.417,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oaJYY5PWGy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "yAek_CLSIo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nndo Nick",
+      "category": "Film & Animation",
+      "comment": "disuruh comment ama ko edho\n\"Edho Ganteng Mirip Eko\"",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 6.195,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HrlZdIri6j",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2vNz5GLcsQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dinda Carenina",
+      "category": "Film & Animation",
+      "comment": "Yaallah darius hot daddy bgttt aku mau dong diadopsi anak😭😭😩💖💖",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 5.18,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "kUHby-DRVw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "X7SVMvMyeR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Amara Bittaqwa",
+      "category": "Film & Animation",
+      "comment": "Yang gue suka dari ceritanya mas yandy. Script dialog dikit bet tapi gue paham mereka ngapain. gua kira si nay nyuruh iko tidur diluar dong ternyata kagak XD",
+      "like": "250",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 5.552,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "8aS-1pRC8X",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "OG--SrAyzv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hophin Frederick",
+      "category": "Film & Animation",
+      "comment": "Apa cuman gw yg kesini karena konten nya Edho Zell",
+      "like": "5",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 8.5,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "KkapCwZFJL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WGnU9NG_Lw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Tiara Martha",
+      "category": "Film & Animation",
+      "comment": "I have high expectations for this, karna sore dulu sebagus itu😄",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "id": 105001,
+        "lead_time": 4.742,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5p09wPTLe0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KkTlxKsqII",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "boom calalakaboom",
+      "category": "Film & Animation",
+      "comment": "edho ganteng mirip iko kwkwkwkw",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "id": 106001,
+        "lead_time": 8.562,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WBFLPJmI2I",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "lszHh5T9JM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dzul Ash",
+      "category": "Film & Animation",
+      "comment": "ringgo bangke ganggu😂",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "id": 107001,
+        "lead_time": 6.22,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Y1JaLOcsNe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Bkfqxm2jrn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Vahral Alfajar",
+      "category": "Film & Animation",
+      "comment": "kampret ganggu aja bang ringgo:v",
+      "like": "292",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "id": 108001,
+        "lead_time": 63.217,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qmqqZXGDgj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HJIuk1r77n",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ali Fajari",
+      "category": "Film & Animation",
+      "comment": "\"ini tivinya ngga ditonton ? ganti aja ya?\" eh pas diliatin lati nonton SORE 😂",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "id": 109001,
+        "lead_time": 7.466,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "QsiQmBUEQz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uGSix8e6Tb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nidya Ulfa",
+      "category": "Film & Animation",
+      "comment": "Darius tuh umur brp sih mashaallah😫❤❤❤",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "id": 110001,
+        "lead_time": 15.824,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gdH6ROI7_F",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_8_7zTCcLt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "dhila r",
+      "category": "Film & Animation",
+      "comment": "4:35 suara sore : \"kamu kebiasaan deh kalau buruburu lupa semuanya\" 😂",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "id": 111001,
+        "lead_time": 15.509,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fT7UvjQFNR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Zxs3-J6QX_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dania Rahma Utami",
+      "category": "Film & Animation",
+      "comment": "pemain perempuannya mirip dakota johnson dooong😭😭",
+      "like": "11",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "id": 112001,
+        "lead_time": 16.805,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0qiqIecSfp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HcArumfNiS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Indra Rahmawan",
+      "category": "Film & Animation",
+      "comment": "Anastasia Gray? Is that you?",
+      "like": "222",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "id": 113001,
+        "lead_time": 5.356,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-SOD7TLmPQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "X_py2yWChd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "gotela 123",
+      "category": "Film & Animation",
+      "comment": "yandy laurenszzsssss MEMANG TERBAIK",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "id": 114001,
+        "lead_time": 9.619,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "CbbnuAO3cZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "A8J_O4lxMn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nisrina F",
+      "category": "Film & Animation",
+      "comment": "mereka yg tatap tatapan gw yg saltinggg, help!! 😭😍",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "id": 115001,
+        "lead_time": 12.797,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "EzmCHqViHs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fSLqixinr0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kucing Ganteng",
+      "category": "Film & Animation",
+      "comment": "Rela streaming ini film ga pake kuota-kuota dengan biaya pulsa per-Kb cuung",
+      "like": "5",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "id": 116001,
+        "lead_time": 7.265,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BzYI2GXi4Y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "9ei3wlSmuE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Second Account",
+      "category": "Film & Animation",
+      "comment": "Akhirnya ku melihat kolom komentar Youtube yang isinya bukan adik-adik yang minta komennya dilike",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "id": 117001,
+        "lead_time": 13.271,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "F_z4jk8tVJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "eN1XI9SsBT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rafael Darren",
+      "category": "Film & Animation",
+      "comment": "Edho zell mirip Iko Uwais",
+      "like": "6",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "id": 118001,
+        "lead_time": 4.889,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T_RFzgH8mg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4biNY-E_j0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Febdian logis",
+      "category": "Film & Animation",
+      "comment": "Sumpah ringgo ngeselin wkwkwkwk",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "id": 119001,
+        "lead_time": 8.871,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ZDsD4j_FR6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JiVVdO0aO1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rizka Avivah",
+      "category": "Film & Animation",
+      "comment": "Akhirnyaaa setelah Sore, ada series baru lagiiiiii😭💙",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "id": 120001,
+        "lead_time": 5.8,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-9Cjt3D2h6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "I0eHCnaNED",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Cindy Loa",
+      "category": "Film & Animation",
+      "comment": "edho zell ganteng mirip iko 😂",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 120
+  },
+  {
+    "completions": [
+      {
+        "id": 121001,
+        "lead_time": 8.356,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "C3W892oJ85",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2UWNY4Q3Vg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "syafei elmahdy",
+      "category": "Film & Animation",
+      "comment": "Ehh sadar nggak si mereka lagi nonton film sore di tvnya",
+      "like": "252",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "id": 122001,
+        "lead_time": 11.214,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UoqpomuuPI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xInR77MrzX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Febisti Rahma",
+      "category": "Film & Animation",
+      "comment": "kek ny jelek nih webseries dr awal keliatan alay , eh ada ringgo . lanjut deh 😂",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "id": 123001,
+        "lead_time": 7.406,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "EeML32o0ox",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "z_xmrg2P_I",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kopi Sianida",
+      "category": "Film & Animation",
+      "comment": "Widika lebih cakep di sini dari pada di instagram haha",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "id": 124001,
+        "lead_time": 5.357,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JdA8qC90aZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "PvFZKvlSdm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bima Tri Setiawan",
+      "category": "Film & Animation",
+      "comment": "Yandy laurens emang dah perfecto",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "id": 125001,
+        "lead_time": 32.563,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mBDrrzztWd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_53qsjr9LD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hanan Laras Sabrina",
+      "category": "Film & Animation",
+      "comment": "Salfok sama lokasi hotel nya , kalo yg nonton drakor hotel king pemainnya lee dong wook pasti tau duh duh jadi mengingat kembali tiap adegan drakornya 😂",
+      "like": "14",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "id": 126001,
+        "lead_time": 5.462,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "9kJxsxm-i0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Ax_FjsxiEO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dhealova official",
+      "category": "Film & Animation",
+      "comment": "Kesini gara2 vlog bang arief muhammad, seru, jadi ketagihan nntonnya😍",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "id": 127001,
+        "lead_time": 6.416,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "clsLKToJcM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "J6XtX6pt2i",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Natasha Nala",
+      "category": "Film & Animation",
+      "comment": "I knew it. :')",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "id": 128001,
+        "lead_time": 8.969,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "flJhdgQckm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "v0Zn1WkErz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Siti Mardiah",
+      "category": "Film & Animation",
+      "comment": "Sekarang produk2 yg biasa jadi sponsor malah punya webseries sendiri ya. Keren 💞",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "id": 129001,
+        "lead_time": 11.444,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "A0rOuHUqIe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TK-weddbqs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Maghfie Firdauss",
+      "category": "Film & Animation",
+      "comment": "Dari sore sampe ni ketagihan nonton.. min gue udah beli tropicana 3 dus tolong panjangin min durasinya😥",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "id": 130001,
+        "lead_time": 22.591,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FpBcpcxfRW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Mb_R2dhSit",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Theresia Cathline Adelia",
+      "category": "Film & Animation",
+      "comment": "\"Pake seragam SMA aja\" - Ujo\n\n\n🤣🤣🤣👍👍👍",
+      "like": "244",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "id": 131001,
+        "lead_time": 15.522,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "rgKPATwkoF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SwQvTkWOMQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Khalisa Hilmia",
+      "category": "Film & Animation",
+      "comment": "Ktka Naya n Iko saling tatap abis liat Ujo dtg.. Ekspresi sdh cukup buat blg \" ya Allah.. Ngapa ada dia lagi sih 😫\"",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "id": 132001,
+        "lead_time": 7.803,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dkSc512KV0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "t0UBSHbO8J",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kirana Cinta",
+      "category": "Film & Animation",
+      "comment": "Woyy kenapa mereka yg tatap senyum senyuman tp gua yg baper:)",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "id": 133001,
+        "lead_time": 6.855,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5Hkqf4-Dyj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "31yiyWu7bg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "A. A. Ratu Hendri Trijaya Wirotami Ratu",
+      "category": "Film & Animation",
+      "comment": "Darius so handsome ❤",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "id": 134001,
+        "lead_time": 9.407,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_mdiRGkHUd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0YSf-r8YLH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dwina Apriliasari",
+      "category": "Film & Animation",
+      "comment": "Omg! You come back with another new short moviessss!! Finally!",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "id": 135001,
+        "lead_time": 10.103,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "II26WWOf_O",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ax3h63l3XD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Vespa Santun",
+      "category": "Film & Animation",
+      "comment": "Jangan lupa beli produk Tropicana Slim ya wahai netizen😁",
+      "like": "117",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "id": 136001,
+        "lead_time": 7.003,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "A3tfDCh45L",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "laXh7blOvz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Anggun Parutang",
+      "category": "Film & Animation",
+      "comment": "I feel you Naya 😭",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 136
+  },
+  {
+    "completions": [
+      {
+        "id": 137001,
+        "lead_time": 7.439,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PlgkKS58r_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "f979ZZZULx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "D e e",
+      "category": "Film & Animation",
+      "comment": "Welcome back 🤗\nYeay akhirnya ada web series lg\nJgn lama2 please episode berikutnya",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 137
+  },
+  {
+    "completions": [
+      {
+        "id": 138001,
+        "lead_time": 7.522,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1BKWoUhd4p",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2C_m9gm_Y9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Steve G",
+      "category": "Film & Animation",
+      "comment": "07:42 videografinya keren udh keren bgt tapi winglet pesawatnya beda 😁\n\n just a little miss kick",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "id": 139001,
+        "lead_time": 7.489,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "g6XZYLumvq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AZnHxnGIKA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aina Eka Rani",
+      "category": "Film & Animation",
+      "comment": "Rindu SORE :”””)",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "id": 140001,
+        "lead_time": 7.879,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3iGoSpsa2_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "F6KEtwkHwO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nova Kristiana Elmawati",
+      "category": "Film & Animation",
+      "comment": "Bagus banget aktingnya sangat mendalami peran jd feel nya berasa serta setnya ok juga, baru kali ini suka hasil karya anak bangsa 👏nyesal baru nonton, greget banget sm si ujo ganggu aja wkwk",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "id": 141001,
+        "lead_time": 4.48,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FBydsELMN_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "H0YU4vY4TM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ahmad Syamil El Islami",
+      "category": "Film & Animation",
+      "comment": "Akhirnya web series berkualitas hadir lagi :)",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "id": 142001,
+        "lead_time": 3.868,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "eR0vXxK-bv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JD5uiRZF9e",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "farida kofa",
+      "category": "Film & Animation",
+      "comment": "yandy laurens👏",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 142
+  },
+  {
+    "completions": [
+      {
+        "id": 143001,
+        "lead_time": 5.544,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RwB_x8fxNx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "QLKyYU0UPE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "bangkit nur",
+      "category": "Film & Animation",
+      "comment": "Gokiiiil ... Keren keren abis film filmnya TROPICANA SLIM   XD",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 143
+  },
+  {
+    "completions": [
+      {
+        "id": 144001,
+        "lead_time": 18.16,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fwheGknVGr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_C8E5HF3bG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "elmas ghita ladia",
+      "category": "Film & Animation",
+      "comment": "Ngeselin dah ni ringgo wkwk",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 144
+  },
+  {
+    "completions": [
+      {
+        "id": 145001,
+        "lead_time": 4.591,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VPZXigaTEo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0aSnh8_QNg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "lidia prachmadita",
+      "category": "Film & Animation",
+      "comment": "Kenapa Darius makin cakep bgt disiniiiii....:\"",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 145
+  },
+  {
+    "completions": [
+      {
+        "id": 146001,
+        "lead_time": 10.591,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IKoiDIf7s8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1SkC621DvE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "beregita rosiana",
+      "category": "Film & Animation",
+      "comment": "Ngakak bngt, pas liat Ringgo tiba\" nyusul mereka ke Korea 😂😂",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 146
+  },
+  {
+    "completions": [
+      {
+        "id": 147001,
+        "lead_time": 5.329,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jN4pHaH-2F",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "6tLeRIYSeg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Elysabeth Soeviana",
+      "category": "Film & Animation",
+      "comment": "Nyebelin ya si ringgo :”",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 147
+  },
+  {
+    "completions": [
+      {
+        "id": 148001,
+        "lead_time": 7.627,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "e3mjswy074",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "qnHn_Aj21p",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Garudea",
+      "category": "Film & Animation",
+      "comment": "Ini pasti banyak hal menggelikan dibanding series sebelumnya. Karakternya ringgo nyebelin bgt haha",
+      "like": "126",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 148
+  },
+  {
+    "completions": [
+      {
+        "id": 149001,
+        "lead_time": 22.324,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GLjewUsscm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UlxeuxcsvU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Risma Riantina",
+      "category": "Film & Animation",
+      "comment": "5:36 ringgo ngeselin bgt hahhahahahahha",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 149
+  },
+  {
+    "completions": [
+      {
+        "id": 150001,
+        "lead_time": 4.802,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Uf0YPF2EIR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ego5HwmFGW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Keluarga EL Fams",
+      "category": "Film & Animation",
+      "comment": "edho zell ganteng mirip iko wkwk",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 150
+  },
+  {
+    "completions": [
+      {
+        "id": 151001,
+        "lead_time": 40.862,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6QbvehAZuI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WAR-I3RHOD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "force majeure",
+      "category": "Film & Animation",
+      "comment": "Anggap aja awam, but serius nanya, kenapa film bagus begini ga masuk ke cinema?\nhow does Tropicana Slim collaborate with other parties? why not work with netflix or something?",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 151
+  },
+  {
+    "completions": [
+      {
+        "id": 152001,
+        "lead_time": 11.501,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ZPOASELXzc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8G2ua3pduG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Siti Nurainun",
+      "category": "Film & Animation",
+      "comment": "please, harus uploads sesering mungkin, di episode pertama udah dapet bgt feelnya...",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 152
+  },
+  {
+    "completions": [
+      {
+        "id": 153001,
+        "lead_time": 13.421,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "O-Ki8GyQ8Z",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "I_7i9bKOnU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "witda umardi",
+      "category": "Film & Animation",
+      "comment": "Min panjangin dong durasinya nnti gue beli tropicana slim deh",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 153
+  },
+  {
+    "completions": [
+      {
+        "id": 154001,
+        "lead_time": 6.597,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "nFVfq4Aku-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1AFHp-yaGN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Iin Retno Sari",
+      "category": "Film & Animation",
+      "comment": "Iko ganteng mirip Edho zellllllllll WKWKWKWK",
+      "like": "5",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 154
+  },
+  {
+    "completions": [
+      {
+        "id": 155001,
+        "lead_time": 21.162,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ThBFbLUhPh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "gNmIip786w",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dina",
+      "category": "Film & Animation",
+      "comment": "Anying beneer si Ujo. Haha 😂 ganggu orang ae",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 155
+  },
+  {
+    "completions": [
+      {
+        "id": 156001,
+        "lead_time": 11.095,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "pL4Y3BC7WR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "CfgY0mibYa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Siac Jayakarta",
+      "category": "Film & Animation",
+      "comment": "Baru inget klo bang Darius itu aktor ya bukan manajer timnas doang wkwk",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 156
+  },
+  {
+    "completions": [
+      {
+        "id": 157001,
+        "lead_time": 11.869,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "U7yYPQy8dR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "42isiz7Gji",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "WHF Chanel",
+      "category": "Film & Animation",
+      "comment": "Pake seragam sma aja pasti langsung jadi. By ujo\nWkwk kampret bener ngeselin",
+      "like": "112",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 157
+  },
+  {
+    "completions": [
+      {
+        "id": 158001,
+        "lead_time": 5.358,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "iCd-H31qwi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ml8K_czMbv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "JD VideoTM",
+      "category": "Film & Animation",
+      "comment": "Semoga Yang Like dan Subscribe chanel aku yg review video ka edho zell 9 th lalu.  Di terima amal ibadahnya aamiin...",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 158
+  },
+  {
+    "completions": [
+      {
+        "id": 159001,
+        "lead_time": 10.01,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Q1eqTpLCGp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2pA_rSXiv3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Shafa Jamila",
+      "category": "Film & Animation",
+      "comment": "Plis buat yg bareng sma dion wiyoko pasti bakalan lebih baper😭",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 159
+  },
+  {
+    "completions": [
+      {
+        "id": 160001,
+        "lead_time": 5.721,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "LJVraFjvVJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "yLy36_3wLk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mutiara Raa",
+      "category": "Film & Animation",
+      "comment": "YA ALLAH TOLONG ITU MUKA OM DARIUS DIUNYEL UNYEL GITUUUUUHHHH UWUUUUU😭😭😭😭😭😭😭😭",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 160
+  },
+  {
+    "completions": [
+      {
+        "id": 161001,
+        "lead_time": 14.82,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gZfihwUsuL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "CNnUlpUi-b",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "heyElle",
+      "category": "Film & Animation",
+      "comment": "Nge klik gegara kirain tulisannya “#jumanjitheseries” 😭",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 161
+  },
+  {
+    "completions": [
+      {
+        "id": 162001,
+        "lead_time": 5.219,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "F9Qv6H7JVH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "6f9dAcBnuW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fullture King",
+      "category": "Film & Animation",
+      "comment": "EDHO GANTENG MIRIP IKOOO!",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 162
+  },
+  {
+    "completions": [
+      {
+        "id": 163001,
+        "lead_time": 24.795,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dXSRI_XoOr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "PXAxa4zbbm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Carissa Samosir",
+      "category": "Film & Animation",
+      "comment": "Malah jadi diabetes nonton yang manisnya kelewatan kayak gini🤦🏼‍♀️",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 163
+  },
+  {
+    "completions": [
+      {
+        "id": 164001,
+        "lead_time": 7.276,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NIObin3Qzu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2VWEqW4OJn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Haikal Nsh",
+      "category": "Film & Animation",
+      "comment": "terbaik pingin magang:')",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 164
+  },
+  {
+    "completions": [
+      {
+        "id": 165001,
+        "lead_time": 5.303,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YIpx_Fipoy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "u80V6ErdEw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Franka",
+      "category": "Film & Animation",
+      "comment": "finally !",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 165
+  },
+  {
+    "completions": [
+      {
+        "id": 166001,
+        "lead_time": 5.373,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "pUxc2rMRP_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "cYq5OJE_73",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Melinda Novianna",
+      "category": "Film & Animation",
+      "comment": "Si Ringgo ganggu kemesraan aja ni 😂",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 166
+  },
+  {
+    "completions": [
+      {
+        "id": 167001,
+        "lead_time": 4.037,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "n0MLV5eCHM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Pdu0rIWHBp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dessy Adinda",
+      "category": "Film & Animation",
+      "comment": "Siapa yg kesini gara2 nonton vlog nya Jovi Adhiguna?😂😂😂",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 167
+  },
+  {
+    "completions": [
+      {
+        "id": 168001,
+        "lead_time": 7.128,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Ka-_fSqkYv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "NcTPRSDowc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Abdurrahman Zuhri",
+      "category": "Film & Animation",
+      "comment": "Yandy laurens emang gapernah salah 🔥🔥🔥",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 168
+  },
+  {
+    "completions": [
+      {
+        "id": 169001,
+        "lead_time": 33.866,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ClBon_31ey",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2GzxFvP5mH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "radith",
+      "category": "Film & Animation",
+      "comment": "Wah, ada seri selanjutnya. Gak sabar nunggu episode selanjutnya. Semoga menyentuh seperti seri sebelumnya",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 169
+  },
+  {
+    "completions": [
+      {
+        "id": 170001,
+        "lead_time": 24.651,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "AQYAWk_1OO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HxPa5yZc3P",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Elsa Tiara",
+      "category": "Film & Animation",
+      "comment": "Bener2 selalu gak ngecewaiiinnn.. Woooy kalian jgn lupa beli tropicana slim biar makin giat bikin webseries wkwkwk",
+      "like": "69",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 170
+  },
+  {
+    "completions": [
+      {
+        "id": 171001,
+        "lead_time": 5.345,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xrvScufrn1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tkRlaFJtjt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "fernanda winda",
+      "category": "Film & Animation",
+      "comment": "WAAAH ADA MAS DARIUSSSS!",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 171
+  },
+  {
+    "completions": [
+      {
+        "id": 172001,
+        "lead_time": 6.642,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GQfBOs8DY2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JB7OHVMOys",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "AWG Zachary",
+      "category": "Film & Animation",
+      "comment": "YESS ANOTHER WEB SERIES!",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 172
+  },
+  {
+    "completions": [
+      {
+        "id": 173001,
+        "lead_time": 9.562,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "rkb9nB6FCQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3SOd0wGEJk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "elsaloekito",
+      "category": "Film & Animation",
+      "comment": "\"Pakai baju SMA..\" 🙈🙈 pengen ketawa sekaligus marah krn menciptakan stereotip negatif terhadap siswa-siswi SMA. Meski begitu, aku suka sama  alur cerita dan actingnya. 😍😍😍",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 173
+  },
+  {
+    "completions": [
+      {
+        "id": 174001,
+        "lead_time": 193.622,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-oIm5Sx3q-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "cB01By5tgr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sonny Mochamad",
+      "category": "Film & Animation",
+      "comment": "jadi inget you, me and dupree",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 174
+  },
+  {
+    "completions": [
+      {
+        "id": 175001,
+        "lead_time": 2560.858,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "W2rmTxnScL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xA84yaHVCg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Amelia Nur",
+      "category": "Film & Animation",
+      "comment": "Keren acting ringgo, ngeselinnya dapey banget 😂 widika sama darius nya juga chemistry nya dapet banget",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 175
+  },
+  {
+    "completions": [
+      {
+        "id": 176001,
+        "lead_time": 62.069,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PCddvd5Pza",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HmeIB0i-ED",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Merthy Yohana",
+      "category": "Film & Animation",
+      "comment": "Gemes yaa.. Lg dinner romantis, eh ada nyamuk dateng hahahahaha",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 176
+  },
+  {
+    "completions": [
+      {
+        "id": 177001,
+        "lead_time": 4.92,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "h7IbgSQUfF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1vXvBtQbwn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Salsabila Project",
+      "category": "Film & Animation",
+      "comment": "Lucu bgt ceritanya di ending kwkwkw😂😂❤",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 177
+  },
+  {
+    "completions": [
+      {
+        "id": 178001,
+        "lead_time": 3.735,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1HZyaz_dkX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Vo7DhtGMgg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Veronica Natalia",
+      "category": "Film & Animation",
+      "comment": "Emang T.O.P dah bang yandy laurens 👍👍👍",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 178
+  },
+  {
+    "completions": [
+      {
+        "id": 179001,
+        "lead_time": 7.779,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "uGigoYYc8C",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "L1D_VtrNT0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Septiara Iqra",
+      "category": "Film & Animation",
+      "comment": "OMG akhirnya ada web series yg ditunggu2 lagi tiap minggunya 😍😍",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 179
+  },
+  {
+    "completions": [
+      {
+        "id": 180001,
+        "lead_time": 8.556,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oN_diHcQ1D",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Jk_tT73ccH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "rizki adha",
+      "category": "Film & Animation",
+      "comment": "Damn😭",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 180
+  },
+  {
+    "completions": [
+      {
+        "id": 181001,
+        "lead_time": 5.374,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tGWFyRnjou",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "73J6mxpbjm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hiro Wibowo",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip iko",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 181
+  },
+  {
+    "completions": [
+      {
+        "id": 182001,
+        "lead_time": 5.888,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "pJlPTjGqCR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1kdhtfcVNc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "BOCH GAMING",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip iko",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 182
+  },
+  {
+    "completions": [
+      {
+        "id": 183001,
+        "lead_time": 4.32,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mGeStcX0vD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "dGdZ-cweoN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aisyah Khafifah Ilnisa",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip iko",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 183
+  },
+  {
+    "completions": [
+      {
+        "id": 184001,
+        "lead_time": 5.13,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "z3Tsi7Umwa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tsLmU-qtE4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Prischila Pinatik",
+      "category": "Film & Animation",
+      "comment": "Chainel Deviena, bawa gw sampe kesini😅",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 184
+  },
+  {
+    "completions": [
+      {
+        "id": 185001,
+        "lead_time": 3.756,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "nHFCr7RlVi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0ZThnD3F7P",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "King Solomon",
+      "category": "Film & Animation",
+      "comment": "4:23 lagi nonton Sore",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 185
+  },
+  {
+    "completions": [
+      {
+        "id": 186001,
+        "lead_time": 4.318,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NsPecHs7_x",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ms5AbCbqb1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "susilowati 22",
+      "category": "Film & Animation",
+      "comment": "Nungguin bgt episode 2 😆",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 186
+  },
+  {
+    "completions": [
+      {
+        "id": 187001,
+        "lead_time": 9.88,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "eF3H5a7yBr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "qA6GpkrWVd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Lisna",
+      "category": "Film & Animation",
+      "comment": "Semoga Bjorka ga kayak baba pas gangguin Naya sama Iko\n\nBTW \"I SEE DARIUS, I CLICK & WATCH\" MANA NIH",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 187
+  },
+  {
+    "completions": [
+      {
+        "id": 188001,
+        "lead_time": 7.296,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dbYeE1r27G",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "MBw5g1WOwv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "sang perindu",
+      "category": "Film & Animation",
+      "comment": "Ringgo watados banget 😆😆\n\nTpi agak ngantuk aja dengerin ngomong nya lama banget 😅\nTpi syukak... 😍",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 188
+  },
+  {
+    "completions": [
+      {
+        "id": 189001,
+        "lead_time": 4.871,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XtGav_26NT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TMs139yCQe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "KaniskaHD",
+      "category": "Film & Animation",
+      "comment": "Siapa Kesini Lewat Linknya Kak EDHOZELL",
+      "like": "10",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 189
+  },
+  {
+    "completions": [
+      {
+        "id": 190001,
+        "lead_time": 7.744,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Z-0_DUhRAB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "H0y4hp4wzR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zahiya Lubna Rahman",
+      "category": "Film & Animation",
+      "comment": "Duh baru episode pertama ya. Keduanya... Troppp... Sangat ditungguuu 💐💐💐",
+      "like": "3",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 190
+  },
+  {
+    "completions": [
+      {
+        "id": 191001,
+        "lead_time": 8.334,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "uT3crmDSCz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "yyfFTex-Zz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ludwig S",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip Iko. Wkwkwk",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 191
+  },
+  {
+    "completions": [
+      {
+        "id": 192001,
+        "lead_time": 17.954,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hfuv-X4zSU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "6NWR5vUDWY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Coline Asita",
+      "category": "Film & Animation",
+      "comment": "Kalo series banyak model kayak gni, tv makin ditinggalkan",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 192
+  },
+  {
+    "completions": [
+      {
+        "id": 193001,
+        "lead_time": 5.401,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_8u0NHeMc6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rxfWXRNOQq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dina Situmorang",
+      "category": "Film & Animation",
+      "comment": "Ringgo selalu buat kesal dengan wajah tak bersalah🤣😂.",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 193
+  },
+  {
+    "completions": [
+      {
+        "id": 194001,
+        "lead_time": 4.667,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5L8vGgmew2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "wbNIrWCJGc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Distatiani S",
+      "category": "Film & Animation",
+      "comment": "Ringgo ngeselinnya alami gitu ya",
+      "like": "2",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 194
+  },
+  {
+    "completions": [
+      {
+        "id": 195001,
+        "lead_time": 5.835,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "TMEZmKKaXi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JKvnHdnRtZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Maria Santosa",
+      "category": "Film & Animation",
+      "comment": "Ga sukaaaa ahhhh \n.\n.\n.",
+      "like": "59",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 195
+  },
+  {
+    "completions": [
+      {
+        "id": 196001,
+        "lead_time": 5.808,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "y-yrPqz_EZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "wOjSX5w_eE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Lugiyanti Sri",
+      "category": "Film & Animation",
+      "comment": "Edho ganteng mirip iko",
+      "like": "4",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 196
+  },
+  {
+    "completions": [
+      {
+        "id": 197001,
+        "lead_time": 5.68,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "eBbkT2mEhe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "qR8gkrZWtg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Resistance Vx",
+      "category": "Film & Animation",
+      "comment": "gw paling seneng yang Sore :v",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 197
+  },
+  {
+    "completions": [
+      {
+        "id": 198001,
+        "lead_time": 3.775,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "LcKfEbxLnm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vV9c3WQ0uK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Enriq Christian",
+      "category": "Film & Animation",
+      "comment": "akhirnyaaa ada series lagi wkwkwk",
+      "like": "1",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 198
+  },
+  {
+    "completions": [
+      {
+        "id": 199001,
+        "lead_time": 6.108,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Qx8JInjK0N",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hoteRRz0NB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Lita Rahmasari",
+      "category": "Film & Animation",
+      "comment": "ngeselin banget si ringgo... pgn nimpuk pake bantal😂🤣",
+      "like": "",
+      "title": "#JanjiTheSeries - episode 01"
+    },
+    "id": 199
+  }
+]

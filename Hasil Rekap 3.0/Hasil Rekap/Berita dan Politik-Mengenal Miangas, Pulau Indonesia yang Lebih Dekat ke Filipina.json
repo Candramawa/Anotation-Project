@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Mengenal Miangas, Pulau Indonesia yang Lebih Dekat ke Filipina",
+        "context": {
+            "dalam": 161,
+            "luar": 39
+        },
+        "sentiment": {
+            "positif": 142,
+            "netral": 33,
+            "negatif": 25
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "80.5%",
+        "luar": "19.5%",
+        "positif": "71.0%",
+        "netral": "16.5%",
+        "negatif": "12.5%"
+    }
+}

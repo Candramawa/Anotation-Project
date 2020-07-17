@@ -1,0 +1,7991 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 8.229,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_IovOq6NQf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "q2KKRaMsIa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pinned by Screenplay Films",
+      "category": "Film & Animation",
+      "comment": "Terima kasih teman-teman udah lihat trailer Gundala dan ninggalin komen-komen yang bikin kami tambah semangat dan nggak sabar rilis filmnya. :)",
+      "like": "10K",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 4.465,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "AAIbL-4Ca4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "d6vBYYipCt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rumah Jahit Rina",
+      "category": "Film & Animation",
+      "comment": "Pengambilan gambarnya keren 👍 semangat untuk film indonesia",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 5.141,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FEd_zhjJy8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rAufC1xl8s",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Alicya Putcya",
+      "category": "Film & Animation",
+      "comment": "WAAAHHH",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 3.981,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lFcj3X9dIh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "OrFVp4KV6F",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Syahrul Aqil Ilham",
+      "category": "Film & Animation",
+      "comment": "Actionnya ga sesuai ekspektasi",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 10.858,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YXCEL2FJi2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ei3LUfFtSf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "hendrian adi",
+      "category": "Film & Animation",
+      "comment": "Saya baru saja melihat film gundala yang jadi pertanyaan.kenapa setting waktu film gundala di awal adalah tahun 98an saat kerusuhan. Tetapi sudah ada tv flat, smartphone dan gedung2 yang megah apalagi saat cerita dpr mau mengesahkan uu vaksin nya kok pas berita tv nya diambil video2 jamn dlu tp ya kembali lagi sudah ada smartphone dan tv flat. Trus alur cerita film yang membingungkan dan tidak runtut.semoga film gundala yang besok ditata lg untuk setting waktu dll agar alur ceritanya enak dipahami.",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 5.813,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "pvd0m_qSxF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "5sf-AvNKWK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ANANDU",
+      "category": "Film & Animation",
+      "comment": "Love from Kerala blasters fan😌",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 5.05,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "F7pzleT6Rs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ltLsoeGQK4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zacky",
+      "category": "Film & Animation",
+      "comment": "saya dh nonton film ny dan bikin merinding nya pas petir ny ke gundala ny keren bangettt 😃😃",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 22.822,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JZFw6FCMlb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KwGJtJpMni",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mia Rasmiati",
+      "category": "Film & Animation",
+      "comment": "Coba deh ka tolong bikin film action Kya film Holly gtu tpi Kya membasmi kejahatn Poko nya ad berantm nya ad jga baik nya trs ad rencana blm trselesai kn Kya film James Bond atau GK film action yang lain coba deh bikin film sprti itu Kya nya menrk klo indo bikin film Kya gtu alur crta hrs bikin pensrn gtu tpi tema nya hrs beda",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 7.208,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GJHlWvHwIa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Lg1pMsChNY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "vulpecula ziho",
+      "category": "Film & Animation",
+      "comment": "Gini baru film",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 4.5,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gUma4zGP_S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fl_E2mfZEd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ranjith Kpz",
+      "category": "Film & Animation",
+      "comment": "It is realy nice to see a superhero movie, all the best from India \nWe love you",
+      "like": "11",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 9.059,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WKf0ZwZIS0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "zKG1EaawAR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Altezza Andre",
+      "category": "Film & Animation",
+      "comment": "Gara\" Covid-19 film Virgo dan Sri Asih di undur Tahun Depan 😭",
+      "like": "7",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 5.351,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oqEpilNLxx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ciIgKc_kFk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Natalino Rocha",
+      "category": "Film & Animation",
+      "comment": "quem e brasil",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 3.768,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jD2tsEtgTc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KBzEkmYf0n",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Greogrop Greo",
+      "category": "Film & Animation",
+      "comment": "Masha Allah keren banget nih Film alur ceritanya, efek, koreografinya dan dibintangi oleh Artis2 ternama pula, mantap jiwa. terima kasih pada semua yg terlibat dalam pembuatan film GUNDALA, sy bangga dengan kalian, Indonesia Bangga dengan Kalian.",
+      "like": "7",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 5.78,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "g6i2uyf2Vl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "LolxhcbxCd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rafael Brea",
+      "category": "Film & Animation",
+      "comment": "gk ada blueraynya gitu? pingin nonton lagi :(",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 6.089,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RxafE3051H",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "PRBXdZwTC0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "mother hell",
+      "category": "Film & Animation",
+      "comment": "Ini mah masih kalah sama film'nya x.jo",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 3.728,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5ngW5NG0y2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1Q3Kr_CjEn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ahmat Aryanto",
+      "category": "Film & Animation",
+      "comment": "Semoga di Gundala 2 nanti costum nya udah keren",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 6.184,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xiHy8jt1s1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Y-1d_rq3h8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ilvan Wardhana",
+      "category": "Film & Animation",
+      "comment": "Film nya bagus",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 3.616,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-z4FI234a7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tDkGyaSDT9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Alvin Kips",
+      "category": "Film & Animation",
+      "comment": "Alur critanya menyentil pemerintah saya suka",
+      "like": "9",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 4.395,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "S4nsiRZmcb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KjmFZczpsq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "EPIC BATTLE",
+      "category": "Film & Animation",
+      "comment": "Bagus gak filmnya?",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 5.605,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "LTAQsbXrr-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7yopnTZmEb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Edik Taka",
+      "category": "Film & Animation",
+      "comment": "Kayak film horor cuk.. Lokasi kebanyakan di tempat gelap alias remang2.. Tambahin suara srigala baru mantap..",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 4.355,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "G3CSXYV45L",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hu8iV1ufTX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Tri Lakseto",
+      "category": "Film & Animation",
+      "comment": "Film Sri Asih kayanya digarap di tahun 2021...",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 3.929,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "zjMqacHWBf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "kTgFF0dLhj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ady Araya",
+      "category": "Film & Animation",
+      "comment": "George Orwell 1984",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 4.409,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "OSoGkQC4sw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "YOOc64vRCs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Harris Alfiano",
+      "category": "Film & Animation",
+      "comment": "Baru kali ini gua, Nonton film Superhero Indonesia yang bener2 epic, terimakasih",
+      "like": "9",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 3.527,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6mFWCS_yPU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "wlDmwWjD2X",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ade Ydr2001",
+      "category": "Film & Animation",
+      "comment": "Ditunggu gundala 2 nya",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 3.804,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5tD_Dj5WPR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HrgX8HYz6s",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dani Adi Prasetiyo",
+      "category": "Film & Animation",
+      "comment": "Gw akuin lumayan ini film .",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 4.625,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WP-0F2qCIq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hUZtDQrgNt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dantezspy kenya",
+      "category": "Film & Animation",
+      "comment": "Bangkok release",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 7.657,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "y-BxBxbmxJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HEvPymGDMu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Muhammad Irfan candra",
+      "category": "Film & Animation",
+      "comment": "Yg full nya gk ada ya",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 12.41,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tCJHSJmRFp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WhsRuZviir",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Duddy Pr",
+      "category": "Film & Animation",
+      "comment": "Filmnya bagus. Yang ga nyambung di film ini rasa gua cuman satu. Mobil pembawa vaksin yang ditebas sama Sri Asih... Ini mobil kenapa bisa jauh banget sama rombongannya? Sopirnya ketiduran apa gimana wkwk.",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 4.401,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FDpdl_Y4x1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tWVFbzgH6G",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ramadhani fathurachman",
+      "category": "Film & Animation",
+      "comment": "Saya senag di film bayak pesan moral nya",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 142.829,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WsxsPVZq_t",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "NEZaH6hdNh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Castle",
+      "category": "Film & Animation",
+      "comment": "You should've make this into a series too much lore into one film",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 3.773,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IyLKHg5y_9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AiAGWcG1x9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nopita Astina Yulendi05",
+      "category": "Film & Animation",
+      "comment": "Nungguin cempaka",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 4.095,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hR-Q1-l1q7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sandhykrisna _",
+      "category": "Film & Animation",
+      "comment": "Habis gundala apa lagi yaa yg bakal tayang?",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 3.578,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tFkjyL_JME",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AyqgfaUSp-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ricardo anes",
+      "category": "Film & Animation",
+      "comment": "lixo",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 247.298,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5F46MZxlmy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "kllTd_NU9k",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Victor Van Dawt Hnin",
+      "category": "Film & Animation",
+      "comment": "Look amazing",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 105.319,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5l6hA0mIEv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ybSrMgD9vi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Денис Даш",
+      "category": "Film & Animation",
+      "comment": "Там наверное да но у нас в России не официальный трейлер, не хрена на русском нет.",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 6.694,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FzdGJF5LcO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fMaO8IOvIn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "cyrus almighty",
+      "category": "Film & Animation",
+      "comment": "SickdmebwbsixklcnrbwhshxjclelahVdjwisj wkjxhxkdoakzhdjej wakzjxjxlwlzzhhsuzodk jwjajsodkdkwhw yeahhhh. I just said nothing but I feel accomplished and a part of this convo.",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 8.462,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "CDeJXjNvgT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "lARxLIYVCB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Xzy",
+      "category": "Film & Animation",
+      "comment": "Bayangin ada credit scene yang kaya gini, \nSaat gundala lagi tes kekuatan petirnya tiba2 thor muncul :v",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 5.284,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GEGbzcZAh8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "k_9LWn2Xy8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mohamad huda Fajar setia",
+      "category": "Film & Animation",
+      "comment": "film.nya bagus.. andai yg jadi pemeran utamanya RIO D, mungkin lebih bagus lagi",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 5.85,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "m-EqPhkvx6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "jKR94C0bYe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nipu Hasan",
+      "category": "Film & Animation",
+      "comment": "Very good effort",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 5.147,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ZS3DQQD_po",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fFC3ErEf3o",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Muhammad Zulfan",
+      "category": "Film & Animation",
+      "comment": "Tayang nya kapan ya",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 5.198,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "c1yUPfKxt3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "9RLDi0AnFg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rock Holmes",
+      "category": "Film & Animation",
+      "comment": "https://youtu.be/vz76W3NSF3E\n\nGundala with anime opening version",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 47.317,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "pvaGu_BaZy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "VJypUQzW_W",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "RIZKING",
+      "category": "Film & Animation",
+      "comment": "Semoga editannya yang ke 2 bisa lebih bagus dan lebih nyata lagi film nya bagus khas Indonesia semoga sukses terus!!",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 4.288,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HPA5EohZLn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "GjpgE0U9IV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "fiqi production",
+      "category": "Film & Animation",
+      "comment": "ditunggu gundala 2nya ya bagus filmnya : )",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 5.194,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "bCqbofHQjB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pBCcV0g5O1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "SUBSCRIBE PROJEK",
+      "category": "Film & Animation",
+      "comment": "Bang subscribe chnl ku juga",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 13.172,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GEXprFq65f",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ctJYXVD9IN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sarwani",
+      "category": "Film & Animation",
+      "comment": "Filmnya sangat bagus sekali, mungkin jika ada hero2 lain di Indonesia di filmkan ane beralih nntn film hero national.",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 42.442,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "c37sT2anRB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "yh22QR4r2Q",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Jabber Work",
+      "category": "Film & Animation",
+      "comment": "Mesti ada sambungan nya",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 4.979,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "cTRyfR0eaM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "i96_KDANeN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Eko Hariyadi",
+      "category": "Film & Animation",
+      "comment": "MANATPP",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 10.161,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "rw40T2WyFf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "9eDPBkyvxQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Diana Official",
+      "category": "Film & Animation",
+      "comment": "Ada zara nya nggk sih",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 4.549,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "e8wtPe3F_a",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ICXw3-Hnh2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sandy Barker",
+      "category": "Film & Animation",
+      "comment": "terlalu keren gila ini film",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 7.376,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0XL2p_Qpem",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TICLcru_mT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gyaso Gyadi",
+      "category": "Film & Animation",
+      "comment": "Everything was looking so awesome until he got struck by a lightning",
+      "like": "7",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 16.107,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jjEQ3YFd5b",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "U7iYm8XsUp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "MR . ssnn ssn",
+      "category": "Film & Animation",
+      "comment": "Kirain action nya bagus tau2 nya biasa aja. Trus penjahat2 nya keren2 tau2 action cm bberapa pukulan uda pada tewas. Tlalu simpel action ending nya.. n satu lagi asal usul gundala bs d ikutin petir gmn sh????? Mesti d film kan donk d flm pertama ini..",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 4,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ClzypLEaKE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "U3eyfzLZbn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "I hope So",
+      "category": "Film & Animation",
+      "comment": "💩",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 5.48,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hwYDJwoE3i",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sRaUdPStJ0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nabil Ammar",
+      "category": "Film & Animation",
+      "comment": "Yg full mana filmnya",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 3.741,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JuT8hSPeaf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WMkEKwVvPS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Trian Myrepublic",
+      "category": "Film & Animation",
+      "comment": "sumpah kereeeeeeeeeen",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 9.024,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "d_4bRlyLev",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "LnLBYAfUJJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ENTERTAINMENT MASALA",
+      "category": "Film & Animation",
+      "comment": "Best of chaina \n  Par korena virus tum log nhi chodenga janwar ki sharp tum logo ko",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 3.596,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hQzIEX967Z",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UkiI7xciIS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "angel Alfonso",
+      "category": "Film & Animation",
+      "comment": "Alguien tiene el link",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 4.515,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vDj3xJmGgf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JDQ_4bbvyy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Justice Jester",
+      "category": "Film & Animation",
+      "comment": "LOL",
+      "like": "LOL",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 6.582,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "rbQv0-ykHV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "drK3z4-dj_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Henry Adomako",
+      "category": "Film & Animation",
+      "comment": "That guy is the next generation Raiden from Mortal Kombat",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 4.945,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NUCYs9NgSl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "NQbaS-ZFgS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "BTL Chanell",
+      "category": "Film & Animation",
+      "comment": "https://youtu.be/gxgFqtBKvgg REAL Vidio GUNDALA 2019",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 5.714,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xjL9_cj4Sm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xIRVuky6HK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hüseyin Demirer",
+      "category": "Film & Animation",
+      "comment": "Hintli değilmi hepsi aynı ögşdşhşşvvşşbşh",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 7.51,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gMZfbnu1x4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "T3Fak5daP_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "DELE Corporate",
+      "category": "Film & Animation",
+      "comment": "hebat indonesia bisa buat film super hero, tapi sayang kualitas effectnya buruk (pake teknik effect murahan) bagi saya nilainya masih 6/10.\ntapi ini kritikan. saya masih berharap lebih di film selanjutnya. nice",
+      "like": "12",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 4.463,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qGjbhOjlX3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4P42tpCHj2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Chalez 17",
+      "category": "Film & Animation",
+      "comment": "Gila Filmnya mantap jiwa sekali.\nDi tunggu lanjutannya....",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 7.551,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "w2L_AQAiWr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "oLH1qPAi7K",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Garamatana",
+      "category": "Film & Animation",
+      "comment": "1:09 Gua teringat sama scene Batman Begins saat Bruce Wayne masuk ke sarang kelelawar.....",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 5.897,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tosb4b3DTF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "d8zTutDQyH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "zalfacantikbaiksekali unyuu",
+      "category": "Film & Animation",
+      "comment": "kutunggu sri asih tahun ini",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 4.835,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lhHzUT-LaW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "adJOza3CTf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "eastern2western",
+      "category": "Film & Animation",
+      "comment": "Another crazy Indonesian film.",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 6.285,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "EFBaZe-t4Y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "17-L6puJaz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "mercy kalia",
+      "category": "Film & Animation",
+      "comment": "this film remembers me in the afterlife",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 13.917,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vkBSixeUxx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "74NGUl_bmU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "absalon Santos",
+      "category": "Film & Animation",
+      "comment": "Se tem Wolverine é sucesso e total....",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 3.789,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "s_lp4_TmLs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "u4a5msQRvC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kamil Ciezak",
+      "category": "Film & Animation",
+      "comment": "niezly film - pozdrowienia-",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 6.838,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Z69a1fDlUH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "aOfsA4EBNh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Blue Shark",
+      "category": "Film & Animation",
+      "comment": "Gundala vs cikcak man dong hahaha",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 5.947,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hGtB1yPkiE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tNBhJSNlgy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "kurniawan Dhe",
+      "category": "Film & Animation",
+      "comment": "GUNDALA 2 MATI SURI",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 270.091,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JJPYS-y6X5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "v-XEvqdF8Z",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "zaky 1150",
+      "category": "Film & Animation",
+      "comment": "Katanya awang akan jadi godam digundala 2",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 206.644,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fqb50nEWUN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vQVa0IBXyh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Esa Nochtis",
+      "category": "Film & Animation",
+      "comment": "Kak Saras 008 dong diadain lagi",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 5.78,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Adw66KBO5x",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iXOmehPyhD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Daffa Rayyan Saputra",
+      "category": "Film & Animation",
+      "comment": "Nunggu film berikutnya. Lama bgt rilis nya ya. Pdhal gak sabr bgt menanti seluruh rangkaian bumi langit universe",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 446.805,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "buclPpYsmk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "NnVzAGHKAU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sholikhul Fajar",
+      "category": "Film & Animation",
+      "comment": "FILM ini kekurangannya hanya 1. SUTRADARA.",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 5.938,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WL-i_rmxFN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "DPzVs9BDHQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "TECH D.S.E",
+      "category": "Film & Animation",
+      "comment": "Here Can i watch this movie online please",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 8.571,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Uf-WrARxvy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "L59jXcDHvS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "YouTheReal",
+      "category": "Film & Animation",
+      "comment": "Sounds like future of India.... As per present situation",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 5.756,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1sPeacRi16",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "oC0YannCFy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "dino dee",
+      "category": "Film & Animation",
+      "comment": "It is already death",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 8.637,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dX_eCkP6uo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "cL-UWj8v4c",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Elda Marwah",
+      "category": "Film & Animation",
+      "comment": "Kak anwar filem setelah gundala apa sri asih atau si buta dari goa hantu yang tau komenya",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 962.036,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lOBxpP4TtM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hwldU60gxE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rifqy Snt",
+      "category": "Film & Animation",
+      "comment": "https://youtu.be/P4E6XPmpmas\n\nTolong di tonton cuy 🙏",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 731.702,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "wUFx54gGh9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JyGlB9tySs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "a'lla alafidha",
+      "category": "Film & Animation",
+      "comment": "Ada yang sama ga sih pas nonton Gundala bawaannya pengen nangis karena bangga gitu. Gue pribadi bangga dan suka banget sama Gundala ini. Bang Joko dan team terimakasih banyak sehat selalu biar bisa bikin karya\" sebagus ini lagi. Great job!",
+      "like": "17",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 3.468,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YM2gBbVs8T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SbqzIzmo7p",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Shri Mhiranti",
+      "category": "Film & Animation",
+      "comment": "Di tunggu yg 2 nya",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 7.777,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NTY926S-Zb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "LE_FisJ3U0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "bjird",
+      "category": "Film & Animation",
+      "comment": "Prediksi gue sri asih bakal jauh lebih baik dibanding film ini karena sutradaranya UPI",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 161.448,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lsP7I4ILqT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xBeeDxloHI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "WeCare Connections",
+      "category": "Film & Animation",
+      "comment": "https://youtu.be/HKF03FbkwRs\nEducational motivational film\nChildren must watch",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 6.522,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "i4x9vqUwiP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rnGytB08p6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fat Thor",
+      "category": "Film & Animation",
+      "comment": "Someone give me this location",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 6.847,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "cZMCGZQFwl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0Db8iignRK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Best Clip Movie",
+      "category": "Film & Animation",
+      "comment": "Mampir ke chanel saya ada deteled scene actor indonesia di film marvel serius bukan hoaks",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 6.546,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6vujA9IbQo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3iSkNNyAXv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Andronie Gheorghe",
+      "category": "Film & Animation",
+      "comment": "Name film plz",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 27.799,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "9Ia_wVaTDB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "htIykNMk4m",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rommy Gunawan",
+      "category": "Film & Animation",
+      "comment": "hmm...sudah nonton, dan pengen kritik, tapi netijen +62 bar2 smua... kan eike jd atut.. wkwkwkw.. btw score 6/10 penilaian ane.",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 16.637,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "7M4WuqhIGg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hfBjSi3r4E",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "The Мангал",
+      "category": "Film & Animation",
+      "comment": "So literally we have mixed-up movie from marvel and DC stories and our hero kinda looks like ant man dressed like homemade version of deadpool I even recognize \"inspired\" from sokovia scene well....",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 13.32,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "M-4m-qTQ-2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tvbQVkkf6B",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "rsasikumar kumar",
+      "category": "Film & Animation",
+      "comment": "Please make tamil dub",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 258.621,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WP4zqE5r_j",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xjUTH3q8XG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Labanda Reymond",
+      "category": "Film & Animation",
+      "comment": "Thor?",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 4.88,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "u1190u3TSZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "lCsEq9WnGF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "hyundai 220sh",
+      "category": "Film & Animation",
+      "comment": "Gundala 2 pasti bakal lebih bagus ..gk sabar ni pengen lihat super hero lainnya!!",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 35.496,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "nJR5DYRI81",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BcLh4CjAfj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Duddy Pr",
+      "category": "Film & Animation",
+      "comment": "Komennya bnyk yang ngeluh karena gaya berantemnya ga sekeren iko uwais dkk. Awalnya juga gua berpikir kaya gitu. Kenapa gaya berantemnya ga dibikin sesadis the raid atau TNCFU? Pedahal itu kan lagi jadi peluru kita di kancah perfileman dunia. Sampai akhirnya gua sadar, kalo ini film manusia super. Terus gua mikir, kalo gaya berantemnya sesadis film2 itu ya aneh juga sih. Ntar malah si manusia supernya yang ga keliatan jago :). Lanjutkan film2mu bumi langit, mumpung film2 marvel lagi ga jelas tahun ini hehe.",
+      "like": "12",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 603.436,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dBvOpXzu5B",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "YPFk4vho0e",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Naga Nusantara",
+      "category": "Film & Animation",
+      "comment": "nice film...salam bersatu dari malaysia",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 25.506,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gEo2hGUCkK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1rwzaDmqUr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "the judicious",
+      "category": "Film & Animation",
+      "comment": "I'm from Philippines. I don't why this was recommended to me.",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 72.808,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VIBibaUv_9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_RIymB8F9H",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Wahyu Stefan",
+      "category": "Film & Animation",
+      "comment": "Dh bisa didownload mntp",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 4.398,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "f02Uh_oz4B",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "aRF5DPilVs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kowel Lexi",
+      "category": "Film & Animation",
+      "comment": "Pengen nonton film ini",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 7.371,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "kl6bePHYNw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sUB5IRbFZX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zal Ahamd",
+      "category": "Film & Animation",
+      "comment": "Ayoh kita angkat filem2 yg setaraf filem Hollywood.",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 249.253,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ljAeqyGoGZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "O5EflFR11r",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zal Ahamd",
+      "category": "Film & Animation",
+      "comment": "Terbaik bron palare ..teruskan usaha mu ..",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 6.951,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UXopmAUAYc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "l1KqVtVsRq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pagi Ginanjar",
+      "category": "Film & Animation",
+      "comment": "Kenapa ya film sebagus ini.. jumlah penonton nya bisa kalah sama film si dilan... Cerdas lah wahai penonton..",
+      "like": "7",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 15.677,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HOz8JTRukO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fea7UE5Iqu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Justme Pachenko",
+      "category": "Film & Animation",
+      "comment": "Ada Bront palare aku ngga sabar mau nonton 👏🏻👏🏻👏🏻",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 99
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 8.38,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DvPZ-JnjXx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "k32ItU1_oO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yusril Nation",
+      "category": "Film & Animation",
+      "comment": "trailer Sri Asih Kapan Rilis Minnn!!! Mohon Jawab",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 14.34,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jjrBSKuRhN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "jpJIT_n-m6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ENT.",
+      "category": "Film & Animation",
+      "comment": "Already watch.. 4 star from 5.Best build up film..actor was very good..pengkor and the hero was outstanding. .only flaw in the last scence. A bit less epic especially the fighting scene.",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 230.586,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "U8OWJzmsZy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UofW7ITvVC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Asad lion",
+      "category": "Film & Animation",
+      "comment": "Any English speakers?\nHow good is this movie",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 4.713,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T2XmiuMFay",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Tz21F90cyL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hape Samsung",
+      "category": "Film & Animation",
+      "comment": "Film nya ndk jelas alurnya. 🙄🙄",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 135.475,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mBkYAq5GGE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "zEwJUjl6Qh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Guna Sarthak",
+      "category": "Film & Animation",
+      "comment": "ಹುಡುಗನ ಕ್ಯಾರೆಕ್ಟರ್",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "id": 105001,
+        "lead_time": 4.867,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "4eqT6Q3Jqo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_GVdZ3-CiS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ayu Dimy",
+      "category": "Film & Animation",
+      "comment": "Nggak sabar nunggu film selanjutnya😄",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "id": 106001,
+        "lead_time": 4.393,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "boSoNVumxl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "QkfvEBRHhp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Muhammad Aldi",
+      "category": "Film & Animation",
+      "comment": "trailer Sri Asih dong ❤️",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "id": 107001,
+        "lead_time": 8.104,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_sWBkJDc-C",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WIQk5nyr-k",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aishwa farash",
+      "category": "Film & Animation",
+      "comment": "Gua berharap si jaka ketemu lg ama awang,, temen masa kecilnya Tp ga ada, tp anaknya pengkor ada yg melarikan diri 1 laki laki, msh ada kemungkinan itu si awang..",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "id": 108001,
+        "lead_time": 35.009,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "K00H8LVKBb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8BKihzi-kd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arifandy Ifan",
+      "category": "Film & Animation",
+      "comment": "Satu hal yg ga saya mengerti dari film2 Indonesia, yaitu kenapa gambarnya selalu gelap??? Pusing nontonnya.. Film2 luar biar set malam di hutan aja pencahayaannya enak buat di tonton",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "id": 109001,
+        "lead_time": 4.202,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BRGMkPiU7w",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sIGI82KHwY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Jefriyanto Hanafi",
+      "category": "Film & Animation",
+      "comment": "Bagus filmnya tapi ceritanya muter2 gak jelas",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "id": 110001,
+        "lead_time": 13.125,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MS_GoerQq6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "35B8RrtmiF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Muryo Retno",
+      "category": "Film & Animation",
+      "comment": "50:10 \"jadi kamu berantem sama 30 preman pasar,premanya anak-anak,punya kaki semua,nenek-nenek\" this is joke from wkwk land...keren",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "id": 111001,
+        "lead_time": 14.345,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GWaFqTJe9m",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KNNdSAi-38",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "henryst19",
+      "category": "Film & Animation",
+      "comment": "Film India???",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "id": 112001,
+        "lead_time": 6.105,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gVS8v25n9h",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0YQrtJAWb9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zein Saiba",
+      "category": "Film & Animation",
+      "comment": "Salut buat editing video nya, serasa nonton filmnya michael bay. Dari satu frame ke frame laennya, hingga menjadi satu kesatuan alur cerita. Hingga tidak menjadi monoton..",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "id": 113001,
+        "lead_time": 9.303,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "O_SQUYlU2A",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SQ7CxgtaHN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mia Rasmiati",
+      "category": "Film & Animation",
+      "comment": "Tolong bikin lgi pahlawn tpi di bwa film gpp mau ainet tdk apa apa yg penting kuakits jln crta itu hrs nyambung dn bgs akting jngn lupa",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "id": 114001,
+        "lead_time": 8.951,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MivOXxDB4b",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ZTswgfPSWi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "RIVAL NURDIANSYAH",
+      "category": "Film & Animation",
+      "comment": "Srii Asihh Gak Sabarrr",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "id": 115001,
+        "lead_time": 9.759,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VH99JQVr6N",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "nONLkpuSBV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Apih mohd",
+      "category": "Film & Animation",
+      "comment": "Kah kah kah",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "id": 116001,
+        "lead_time": 12.303,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "eDLMO5vwEt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "d-o3-G0DD7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "oreo lulu",
+      "category": "Film & Animation",
+      "comment": "abang saya mau hadir di gundala!",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "id": 117001,
+        "lead_time": 4.936,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "I8tjBtETKW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "GixL3YaDYN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "AFNER DAULAY",
+      "category": "Film & Animation",
+      "comment": "Ni pilimponp",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "id": 118001,
+        "lead_time": 4.91,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "LWEEwiRaA6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2rlNkFW-f1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Criz Negro",
+      "category": "Film & Animation",
+      "comment": "link ?",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "id": 119001,
+        "lead_time": 5.025,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "QxwyYyrfQK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "aJ5pESecP6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "paisal fr",
+      "category": "Film & Animation",
+      "comment": "Gaya berkelahinya gak cakep kaya aktinya iko uwais",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "id": 120001,
+        "lead_time": 25.938,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jwvC6OpAgP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4P2mpuHwe2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Jihan Official",
+      "category": "Film & Animation",
+      "comment": "Kesini lagi buat flashback dan persiapan sri asih wkwkw",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 120
+  },
+  {
+    "completions": [
+      {
+        "id": 121001,
+        "lead_time": 7.254,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0vPuwSwPcV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hUIYYK-kRL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bianca F Ardhani",
+      "category": "Film & Animation",
+      "comment": "Saya tggu cerita gundala 2... Saat musuh gundala  pendekar, kayanya ada ilmu rawa rontek,,,yg sudah d bangkitkat,,, hebat filmya hbungan super hero modern vs pendekar rawarontek.   Maju terus perfilmam Indonesi",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "id": 122001,
+        "lead_time": 4.891,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GsAuRyMpkR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "r_7T3h1xkc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "MAS KEWOD",
+      "category": "Film & Animation",
+      "comment": "25:00 bikin greget",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "id": 123001,
+        "lead_time": 8.379,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YsvHJLz6RZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ZnqkiSeQK5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Black Boxer",
+      "category": "Film & Animation",
+      "comment": "This movie have a soul! Love it",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "id": 124001,
+        "lead_time": 4.256,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "akRK8Nm16T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "f0AlE8P5fC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Noufal Mohamed",
+      "category": "Film & Animation",
+      "comment": "ഞങ്ങളെ വിനയൻ സാറിന്റെ അത്ര വരൂല.. 🤪",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "id": 125001,
+        "lead_time": 720.07,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Tu8bssaD7K",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "D5d-WccYSR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Thopan Thopan",
+      "category": "Film & Animation",
+      "comment": "Bang yg full ada gk bang,,\nBagus bgt ni film jdi penasaran bang,,,\nPlease bang d tunggu yg full ya bang",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "id": 126001,
+        "lead_time": 409.548,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BkyUTODDHI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KKmPcdUxNj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Farhan Abdillah",
+      "category": "Film & Animation",
+      "comment": "Adegan fighting nya terlalu lambat mungkin amatiran",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "id": 127001,
+        "lead_time": 88.425,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "CJo7acwIz-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "6JkKUwPJzR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kartika Mulyanti",
+      "category": "Film & Animation",
+      "comment": "terus. maju. Gundala putra petir",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "id": 128001,
+        "lead_time": 856.247,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VRJaM3Z2At",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7OiIfe3k8Z",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "thiyageswaran waran",
+      "category": "Film & Animation",
+      "comment": "Haha",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "id": 129001,
+        "lead_time": 4357.086,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "OTBcNy0Hrw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "i3JV9SF9_G",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Terra B.",
+      "category": "Film & Animation",
+      "comment": "Akhirnya saya sudah bisa tidur nyenyak skarang, karena sudah bisa ditonton via streaming video :D btw tempat ane ga ada bioskop dan di web bajakan ga nemu ane ni film haha..",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "id": 130001,
+        "lead_time": 82.251,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "p0ZZVcKtAV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "QDGDgcqnUi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ilham Jekate",
+      "category": "Film & Animation",
+      "comment": "Setelah gua nonton ini gua baru sadar kalo alur film yg sebenernya baru mulai di endingnya !!!",
+      "like": "9",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "id": 131001,
+        "lead_time": 311.644,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "llgDbGAQAo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UB5VSOv4n2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Defender football",
+      "category": "Film & Animation",
+      "comment": "Filmnya sudah ada di youtube atau belum ???\nKalau sudah ada yg tau linknya bagi dong",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "id": 132001,
+        "lead_time": 11.417,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5hzVaiSjO6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "q7-J-bLzEw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "SimonikoPurukan",
+      "category": "Film & Animation",
+      "comment": "untuk film kayak gini buatan indonesia, the best lah. ini masih awal, jadi jika ada kekurangan di film ini, pasti akan di koreksi di film selanjutnya.. maju perfilman indonesia.",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "id": 133001,
+        "lead_time": 8.551,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0bNpisuqfJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "GkXAYOdP2i",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "azizu 00",
+      "category": "Film & Animation",
+      "comment": "Ga seru apaan ngga nyambung alur cerita nya",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "id": 134001,
+        "lead_time": 1929.128,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "M0STZBgY-Y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UgfN7IArN8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mahdi brb007",
+      "category": "Film & Animation",
+      "comment": "Film nya bagus . apa lg pas adegan cewe mukul mobil pembawa serum itu . nah itu siapa ya nama nya . gak sabar liat akting nya nanti",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "id": 135001,
+        "lead_time": 496.375,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "S-q6mxxFgx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "CAghFvQu2S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Eet Miftahul Haq",
+      "category": "Film & Animation",
+      "comment": "Terbaik memang Gundala, gua sampe merinding pas scene Awang Ama sancaka latihan bela diri,memang klo dilihat tanpa mengetahui seluk beluk bcu universe GK bakalan ngaruh,tapi harus Lo tau klo Awang itu nantinya bakal jadi Godam,bisa bayangin GK pas Sancaka Ama Awang ketemu lagi bakal epik pasti,spoiler😅",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "id": 136001,
+        "lead_time": 29.782,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "48oJBvD8hl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KW_5Hq1V84",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arrivia Azzalia Maulana",
+      "category": "Film & Animation",
+      "comment": "SLB SEKOTA BANDUNG",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 136
+  },
+  {
+    "completions": [
+      {
+        "id": 137001,
+        "lead_time": 9.736,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dWsIOzAl_G",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rvY3Tr4-aC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Baim Gree",
+      "category": "Film & Animation",
+      "comment": "Seru kaya the flas",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 137
+  },
+  {
+    "completions": [
+      {
+        "id": 138001,
+        "lead_time": 36.308,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "QYvCdH1xWA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4MjGSopQVR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Baim Gree",
+      "category": "Film & Animation",
+      "comment": "saya udah pernah nonton di bioskop jakarta dan indoneia 2 kali",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "id": 139001,
+        "lead_time": 6.618,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-HlUlg1JnM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JYvhQLXBxd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arrivia Azzalia Maulana",
+      "category": "Film & Animation",
+      "comment": "2019-2020",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "id": 140001,
+        "lead_time": 24.968,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "npUfXlEi7u",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FgtmRfjH9m",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arrivia Azzalia Maulana",
+      "category": "Film & Animation",
+      "comment": "2019",
+      "like": "2019",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "id": 141001,
+        "lead_time": 5.564,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NCDP-zCOks",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "U4L4nfF3_a",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ocky da lima",
+      "category": "Film & Animation",
+      "comment": "alur ceritanya gak jelas...",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "id": 142001,
+        "lead_time": 6.303,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2UeQykAu2V",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iHUrwNwW7s",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yeti Hunter",
+      "category": "Film & Animation",
+      "comment": "Hurmm.. Filem merepek.. Bercelaru.",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 142
+  },
+  {
+    "completions": [
+      {
+        "id": 143001,
+        "lead_time": 4.307,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ul0SmchKFv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iaXG8jRikz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "fatah hasan",
+      "category": "Film & Animation",
+      "comment": "Mampir ke chanel sya sya upload  yg fullnya",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 143
+  },
+  {
+    "completions": [
+      {
+        "id": 144001,
+        "lead_time": 5.25,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "bciPgTPlmV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-kPAFrquAZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Wahyu Stefan",
+      "category": "Film & Animation",
+      "comment": "Sudah bisa didownload",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 144
+  },
+  {
+    "completions": [
+      {
+        "id": 145001,
+        "lead_time": 4.653,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Wsp0-LqgUd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "gVKDj6Zz_I",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Super Ferguson",
+      "category": "Film & Animation",
+      "comment": "Semoga gundala bisa masuk ke marvel",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 145
+  },
+  {
+    "completions": [
+      {
+        "id": 146001,
+        "lead_time": 19.593,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6Pv1ijrv16",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "54OwXdxJs7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nick Nick",
+      "category": "Film & Animation",
+      "comment": "👎",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 146
+  },
+  {
+    "completions": [
+      {
+        "id": 147001,
+        "lead_time": 6.026,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Id45wjZd3i",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0BXDTqm_52",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Andrey Walandouw",
+      "category": "Film & Animation",
+      "comment": "Besok gundala rilis di vidio.com",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 147
+  },
+  {
+    "completions": [
+      {
+        "id": 148001,
+        "lead_time": 7.858,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "a5vaX0mnh7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "zJBDFXfWQ2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "SYBIL ARSYUHA 2014",
+      "category": "Film & Animation",
+      "comment": "GUNDALA full movie! Tonton skarang broo!!!!\n\n——————————————————————————————————————\nWatch film >>>  https://new-play-flixtors-fr.blogspot.com/tt8237172",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 148
+  },
+  {
+    "completions": [
+      {
+        "id": 149001,
+        "lead_time": 4.454,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "931W15j_2T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pUqS1HdG8S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mochammad Farhan",
+      "category": "Film & Animation",
+      "comment": "Kamu hebat Bung !",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 149
+  },
+  {
+    "completions": [
+      {
+        "id": 150001,
+        "lead_time": 31.048,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "v83yHCMkYB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "A_IiXLtnkt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "anjas moro",
+      "category": "Film & Animation",
+      "comment": "Whole movie just bored",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 150
+  },
+  {
+    "completions": [
+      {
+        "id": 151001,
+        "lead_time": 4.999,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "8EWpeLK_zU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_MFjLrLf9q",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Irfan Haziq",
+      "category": "Film & Animation",
+      "comment": "Thor versi Indonesia",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 151
+  },
+  {
+    "completions": [
+      {
+        "id": 152001,
+        "lead_time": 5.614,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "A3xsvKhdco",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "s60OGV3fPN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "rh3medy",
+      "category": "Film & Animation",
+      "comment": "Looks amazing",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 152
+  },
+  {
+    "completions": [
+      {
+        "id": 153001,
+        "lead_time": 8.487,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GskuIcG6yh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SNfTo5ukY2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hamdan Hazari",
+      "category": "Film & Animation",
+      "comment": "bront palarea thaimisaoma",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 153
+  },
+  {
+    "completions": [
+      {
+        "id": 154001,
+        "lead_time": 13.086,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qeTqFOVQLu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ikBCzJpiMO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Slash CC",
+      "category": "Film & Animation",
+      "comment": "Hakan muhafız daha iyi amk :D",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 154
+  },
+  {
+    "completions": [
+      {
+        "id": 155001,
+        "lead_time": 10.447,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PgxOyk3pNP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2G7Lj_RBmk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Febrian",
+      "category": "Film & Animation",
+      "comment": "Epic moments: BAPAK NELPON!!",
+      "like": "9",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 155
+  },
+  {
+    "completions": [
+      {
+        "id": 156001,
+        "lead_time": 4.71,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mZNbrpNZ_T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "eOPnyMftw8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Melky Adam",
+      "category": "Film & Animation",
+      "comment": "Wowowwwww😀😀😀",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 156
+  },
+  {
+    "completions": [
+      {
+        "id": 157001,
+        "lead_time": 5.099,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "i_glfifmR-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "eLRHuYIJPM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Snowingjam Gamer pro",
+      "category": "Film & Animation",
+      "comment": "Wowwwwwwwww amaizing😮😮😮😮😮😮😮😮😮😮😮😮 from malaysia",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 157
+  },
+  {
+    "completions": [
+      {
+        "id": 158001,
+        "lead_time": 16.852,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FDt0eW6R7t",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "dFwA1LJiTu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Roslie Bin Mohd Din Roslie",
+      "category": "Film & Animation",
+      "comment": "Xbest langsung,, cam taik",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 158
+  },
+  {
+    "completions": [
+      {
+        "id": 159001,
+        "lead_time": 6.752,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "SLzmPnCpWe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "RzETDbpzi2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "hiroki wada",
+      "category": "Film & Animation",
+      "comment": "Why its on my recommendation ?",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 159
+  },
+  {
+    "completions": [
+      {
+        "id": 160001,
+        "lead_time": 7.382,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Zh1j4W9f5C",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SE5BbFF7H3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Razz zley",
+      "category": "Film & Animation",
+      "comment": "Gundala gundolo 🤣🤣🤣🤣🤣🤣",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 160
+  },
+  {
+    "completions": [
+      {
+        "id": 161001,
+        "lead_time": 7.481,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XzH9EaRvne",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WcLtdP7SbC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "pushkaraj ahire",
+      "category": "Film & Animation",
+      "comment": "public la gundala",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 161
+  },
+  {
+    "completions": [
+      {
+        "id": 162001,
+        "lead_time": 14.005,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "wtr98aqy-1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Ziyn9NqzkK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Meth",
+      "category": "Film & Animation",
+      "comment": "I’d watched it already, good to see your film industry is getting better 👍🏻 fan from europe 🖤",
+      "like": "18",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 162
+  },
+  {
+    "completions": [
+      {
+        "id": 163001,
+        "lead_time": 7.615,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hsk-xIoiDQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pUSm1lZ0MG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "SADENK CHANEL",
+      "category": "Film & Animation",
+      "comment": "saya sudah nonton di malaysia cerita di awal awal memang bagus tapi waktu sudah jadi gundala sangat membosankan apa lagi adegan berkelahinya sangat lambat mudah mudahan kedepanya akan lebih baik",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 163
+  },
+  {
+    "completions": [
+      {
+        "id": 164001,
+        "lead_time": 7.802,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0wEvzxQyZo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BGUlFKMXKZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ray",
+      "category": "Film & Animation",
+      "comment": "Hmmm this reminds me of THE FLASH was expecting the character to be a speedster",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 164
+  },
+  {
+    "completions": [
+      {
+        "id": 165001,
+        "lead_time": 79.035,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "g7g7bzhuj4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WTkTkiPJZw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Phase Variance",
+      "category": "Film & Animation",
+      "comment": "I'm guessing he rides a camel and his enemies are called \"infidels\"",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 165
+  },
+  {
+    "completions": [
+      {
+        "id": 166001,
+        "lead_time": 7.367,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PxcH3KbHAL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "qv7XEmuq8J",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mimi Skamal",
+      "category": "Film & Animation",
+      "comment": "Wow",
+      "like": "Wow",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 166
+  },
+  {
+    "completions": [
+      {
+        "id": 167001,
+        "lead_time": 4.363,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mTZ5W1Zjcd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "kVEzR9Wt_d",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bhanu Vamshi",
+      "category": "Film & Animation",
+      "comment": "I loved it ..\nWhich language or which region movie belongs to?",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 167
+  },
+  {
+    "completions": [
+      {
+        "id": 168001,
+        "lead_time": 3.633,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MoV2d74gwp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "i2i4TJRncu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rakib Bhuiyan",
+      "category": "Film & Animation",
+      "comment": "I Love Indonesian Movie-😍😍\nfrom Bangladesh -😍😍",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 168
+  },
+  {
+    "completions": [
+      {
+        "id": 169001,
+        "lead_time": 10.064,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Xc9yrAeKv_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "g4KFSttJdH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sally Lemon",
+      "category": "Film & Animation",
+      "comment": "Ow ni cerita yg macam Ejen Ali tu yer.. Cuma live action",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 169
+  },
+  {
+    "completions": [
+      {
+        "id": 170001,
+        "lead_time": 82.701,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BX1ZBg8OLP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "mTzSK1vhCU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ahmad Muhammad yusri",
+      "category": "Film & Animation",
+      "comment": "Bagi yg mau gabung groub fan berteori tentang bumilangit gundala silahkan\nhttps://chat.whatsapp.com/LRaNIMow6l2JCA5lg8jKZa",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 170
+  },
+  {
+    "completions": [
+      {
+        "id": 171001,
+        "lead_time": 73.139,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "SeoMyctnUM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "B9A6garuyC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Shelli J Margasari",
+      "category": "Film & Animation",
+      "comment": "I saw so many people judged this movie copied Thor or another Hollywood superheroes movies, what a moron, I just watched it today and no scenes in this movie similar to those Hollywood movies scenes or even the ideas, watch first then judge, so disappointed with people nowadays cause still judging the book by its cover without reading it first, come on its 2020 already, CHANGE",
+      "like": "34",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 171
+  },
+  {
+    "completions": [
+      {
+        "id": 172001,
+        "lead_time": 4.393,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qRPM0JraKK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "K9fc-RT4oP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "saba tinar",
+      "category": "Film & Animation",
+      "comment": "kapan versi digitalnya rilis??",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 172
+  },
+  {
+    "completions": [
+      {
+        "id": 173001,
+        "lead_time": 6.133,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mW2fy8vosr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "x5i0EmXi7Y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Google Google",
+      "category": "Film & Animation",
+      "comment": "Btw kata bgst di mana ya?",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 173
+  },
+  {
+    "completions": [
+      {
+        "id": 174001,
+        "lead_time": 4.996,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "8kYlLExQv4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "a396a4gp4J",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Raihan 24",
+      "category": "Film & Animation",
+      "comment": "Btw, dimana kata itu nya?",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 174
+  },
+  {
+    "completions": [
+      {
+        "id": 175001,
+        "lead_time": 6.406,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xDU_VNFt_c",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "H2Xa5tUxog",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Varif Aprianto",
+      "category": "Film & Animation",
+      "comment": "Kok inget the raid ya?",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 175
+  },
+  {
+    "completions": [
+      {
+        "id": 176001,
+        "lead_time": 201.032,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ZSM4ogzt8D",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "90oY9Pb0AX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fadli Husni",
+      "category": "Film & Animation",
+      "comment": "terbaek! <3",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 176
+  },
+  {
+    "completions": [
+      {
+        "id": 177001,
+        "lead_time": 6.65,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "wX46drIXOE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "a5fMjAvv3i",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "DL HS",
+      "category": "Film & Animation",
+      "comment": "Nice poland movie",
+      "like": "5",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 177
+  },
+  {
+    "completions": [
+      {
+        "id": 178001,
+        "lead_time": 10.502,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VOYoyU2cet",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "9jKhVrqtxE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "bang moya",
+      "category": "Film & Animation",
+      "comment": "lebih baik nonton filmnya lipiceng... jelas2 udah menembus holiwud dan masuk nominasi oscar oscar oscar dan oscar",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 178
+  },
+  {
+    "completions": [
+      {
+        "id": 179001,
+        "lead_time": 39.857,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ML3tafkYYH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "N_PzyBu1GV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "luqman rani",
+      "category": "Film & Animation",
+      "comment": "Badang movie is the greatest movie in decade 🇲🇾",
+      "like": "7",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 179
+  },
+  {
+    "completions": [
+      {
+        "id": 180001,
+        "lead_time": 25.438,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5MUZfGyYbi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "a6esiuMCpv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "I r",
+      "category": "Film & Animation",
+      "comment": "slum peoples marvel 😂",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 180
+  },
+  {
+    "completions": [
+      {
+        "id": 181001,
+        "lead_time": 8.342,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DIEzU2zutQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "l0oEFfUgzO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kian Guzman",
+      "category": "Film & Animation",
+      "comment": "is there english caption or subs in the cinema??",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 181
+  },
+  {
+    "completions": [
+      {
+        "id": 182001,
+        "lead_time": 3.873,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "goOhLXpbNX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BmGlPIvL8t",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ryuji Yuruzawa",
+      "category": "Film & Animation",
+      "comment": "Filem Nya memang bagus teruskan Indonesia Salam Dari malaysia",
+      "like": "9",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 182
+  },
+  {
+    "completions": [
+      {
+        "id": 183001,
+        "lead_time": 5.786,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1qkQUSDN_v",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "88BdlObEDK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Amzar Iman",
+      "category": "Film & Animation",
+      "comment": "Bila nak release di Malaysia? Macam best...",
+      "like": "8",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 183
+  },
+  {
+    "completions": [
+      {
+        "id": 184001,
+        "lead_time": 5.187,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "S1pFsDbafE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "dyMH4Ez9h5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Amelia Wahyu",
+      "category": "Film & Animation",
+      "comment": "Kayaknya baru trailer film Indonesia ini yg gua liat views ny lebih dari 10 jt...",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 184
+  },
+  {
+    "completions": [
+      {
+        "id": 185001,
+        "lead_time": 15.732,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MIISnG1yWU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BIOt5EKhx_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nike Official",
+      "category": "Film & Animation",
+      "comment": "Hero nya abg si sinar .. sinetron favorit ku d malaysia hahhaha",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 185
+  },
+  {
+    "completions": [
+      {
+        "id": 186001,
+        "lead_time": 72.011,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qqgvLlsH6K",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3E3YRLCRXX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mudiri Fatmi",
+      "category": "Film & Animation",
+      "comment": "Gundala yg tempo lawas pun best juga....",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 186
+  },
+  {
+    "completions": [
+      {
+        "id": 187001,
+        "lead_time": 3.46,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "k_xGuY03Ai",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "u7gSiP1bXz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "jem 91",
+      "category": "Film & Animation",
+      "comment": "0:41 chidori nagashi",
+      "like": "6",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 187
+  },
+  {
+    "completions": [
+      {
+        "id": 188001,
+        "lead_time": 113.7,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3ewQRC2XfV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iFwLHue0t6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "LaaNii",
+      "category": "Film & Animation",
+      "comment": "Bront palarae pelakon malaysia",
+      "like": "4",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 188
+  },
+  {
+    "completions": [
+      {
+        "id": 189001,
+        "lead_time": 30.364,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "B7fdNQdFvd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "x3c2FPZevP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Entahla Labu",
+      "category": "Film & Animation",
+      "comment": "jalan crita bagus tapi semua adingan pendek2 mcm dipotong",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 189
+  },
+  {
+    "completions": [
+      {
+        "id": 190001,
+        "lead_time": 7.037,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "df4r5akHcn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0V4yGqh1XJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Justin Fekker",
+      "category": "Film & Animation",
+      "comment": "Nak menangis aku tengok costume hero ni.  Kesian.  Standard belum ke tahap itu.",
+      "like": "2",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 190
+  },
+  {
+    "completions": [
+      {
+        "id": 191001,
+        "lead_time": 4.506,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-h21Y3uebb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "YXFoFLEhv1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ramil Shah",
+      "category": "Film & Animation",
+      "comment": "Kali ini film adi wira indonesia memang mantap...👍",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 191
+  },
+  {
+    "completions": [
+      {
+        "id": 192001,
+        "lead_time": 64.329,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "rSeJ00pKr-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FBV887PztV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Retro917",
+      "category": "Film & Animation",
+      "comment": "Looks like a homeless revolt plot line film and amazing worth checking out ..",
+      "like": "",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 192
+  },
+  {
+    "completions": [
+      {
+        "id": 193001,
+        "lead_time": 6.844,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "7-LQC4LY17",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8KqsXCpz0w",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ahmadi Style",
+      "category": "Film & Animation",
+      "comment": "Nonton 1 kali gak akan paham ni film.\nNonton 2 kali teros sharing tentang gundala baru tau semua seluk beluk nya😂",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 193
+  },
+  {
+    "completions": [
+      {
+        "id": 194001,
+        "lead_time": 4.781,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Z_y5-EDhBt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KFiOtf7ev3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "RAZ deKing",
+      "category": "Film & Animation",
+      "comment": "Kapan gundala bluray ditayangkan a/ dipasarkan?? Mau beli nih karya indonesia",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 194
+  },
+  {
+    "completions": [
+      {
+        "id": 195001,
+        "lead_time": 12.32,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T35gyHQMWn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "zDlX4xyKCC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Black Kaiser",
+      "category": "Film & Animation",
+      "comment": "Dari segi film..indonesia memang sudah kehadapan..tapi dari segi film Animasi 3d malaysia sudah kehadapan..oleh itu semua ada kelebihan dan kekurangan..sokong lah karya Nusantara",
+      "like": "12",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 195
+  },
+  {
+    "completions": [
+      {
+        "id": 196001,
+        "lead_time": 5.005,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xuYWZW8Qne",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "nnQMFmJbpP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hanan Malaysia",
+      "category": "Film & Animation",
+      "comment": "I am from Malaysia...this movie very fantastic even Malaysian movie can't fight it!!!",
+      "like": "10",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 196
+  },
+  {
+    "completions": [
+      {
+        "id": 197001,
+        "lead_time": 6.695,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "z7F_CEtAjJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "r0-3-kygQ-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "zaigozeng",
+      "category": "Film & Animation",
+      "comment": "sudah lepas? Aduh baru tau",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 197
+  },
+  {
+    "completions": [
+      {
+        "id": 198001,
+        "lead_time": 9.181,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-oGSAC6Ti_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AiERn4HxvH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "arv arc",
+      "category": "Film & Animation",
+      "comment": "Woi jangan overproud, dan jangan provokasi kalo gk mau negara malu.",
+      "like": "1",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 198
+  },
+  {
+    "completions": [
+      {
+        "id": 199001,
+        "lead_time": 5.14,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gj1a1EQFiK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-Vqk6H_RxE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Loh kok",
+      "category": "Film & Animation",
+      "comment": "Kok banyak orang Malaysia kepanasan disini? 😂😂😂 iri level 999..",
+      "like": "3",
+      "title": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019"
+    },
+    "id": 199
+  }
+]

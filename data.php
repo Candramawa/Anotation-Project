@@ -65,28 +65,34 @@
 			
 								var data2 = [
 									{
-										value: 252,
+										value: 2193,
 										color: "#F7464A",
 										highlight: "darkgrey",
 										label: "Positive"
 									},
 									{
-										value: 108,
+										value: 561,
 										color: "rgb(72, 167, 221)",
 										highlight: "black",
 										label: "Negative"
+									},
+									{
+										value: 1513,
+										color: "rgb(0, 255, 0)",
+										highlight: "grey",
+										label: "Neutral"
 									},
 								];
 
 								var data = [
 									{
-										value: 252,
+										value: 2758,
 										color: "#FDB45C",
 										highlight: "darkgrey",
 										label: "Relatable"
 									},
 									{
-										value: 108,
+										value: 1520,
 										color: "#46BFBD",
 										highlight: "black",
 										label: "UnRelatable"
@@ -121,7 +127,7 @@
 										<div class="counter-entry">
 											<span class="icon"><i class="flaticon-ribbon"></i></span>
 											<div class="desc">
-												<span class="colorlib-counter js-counter" data-from="0" data-to="3875" data-speed="5000" data-refresh-interval="50"></span>
+												<span class="colorlib-counter js-counter" data-from="0" data-to="4278" data-speed="5000" data-refresh-interval="50"></span>
 												<span class="colorlib-counter-label">Youtube's video commentar we use for making this web App</span>
 											</div>
 										</div>
@@ -130,7 +136,7 @@
 										<div class="counter-entry">
 											<span class="icon"><i class="flaticon-church"></i></span>
 											<div class="desc">
-												<span class="colorlib-counter js-counter" data-from="0" data-to="2735" data-speed="5000" data-refresh-interval="50"></span>
+												<span class="colorlib-counter js-counter" data-from="0" data-to="2193" data-speed="5000" data-refresh-interval="50"></span>
 												<span class="colorlib-counter-label">From that are positive commentar</span>
 											</div>
 										</div>
@@ -139,7 +145,7 @@
 										<div class="counter-entry">
 											<span class="icon"><i class="flaticon-dove"></i></span>
 											<div class="desc">
-												<span class="colorlib-counter js-counter" data-from="0" data-to="1140" data-speed="5000" data-refresh-interval="50"></span>
+												<span class="colorlib-counter js-counter" data-from="0" data-to="561" data-speed="5000" data-refresh-interval="50"></span>
 												<span class="colorlib-counter-label">From that are negative commentar</span>
 											</div>
 										</div>

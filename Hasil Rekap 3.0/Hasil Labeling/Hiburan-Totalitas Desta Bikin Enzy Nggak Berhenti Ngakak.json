@@ -1,0 +1,8002 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 6.635,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GfQAVNTSBY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "6F3sdNbzx9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Angga Surahman",
+      "category": "Entertainment",
+      "comment": "Kameramennya vangsat 😂",
+      "like": "716",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 7.394,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XUhJkAKqxx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TWviUixaCD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Tetew Dewi",
+      "category": "Entertainment",
+      "comment": "Moodbooster kala hati gundah karena kondisi saat ini, khawatir sma kesehatan, finacial yg mulai gk tentu... ah love bgt ❤\nBuat yg masih harus ttp keluar rumah buat kerja, semangatttt karena gk ada pilihan lain, kalo gk kerja gmn mau ada pemasukan buat biaya sehari2, di lain sisi keluar rumah jg khawatir, takut resiko kesehatan. Semangat buat aku dan kalian yg ada di posisi yg sama 🤗💪❤",
+      "like": "628",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 6.123,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fINFp0B2sD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Dku0sz_Ff8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Babamnet net",
+      "category": "Entertainment",
+      "comment": "Masih berharap nanti Ramadhan ada tonight show, atau minimal di re run lah:(((",
+      "like": "704",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 11.587,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3gEGGcOELN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7ahzlLSYWv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Febriandi Fauzi",
+      "category": "Entertainment",
+      "comment": "Megumi,  mishka, miguel,  besok kamu bakal geleng2 liat kelakuan bapak kamu. \n\nHost ter gho kelll masa kini",
+      "like": "1K",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 120.92,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tdSb3wAA6B",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iTz56204iL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pratiwi Fauzan",
+      "category": "Entertainment",
+      "comment": "Teruntuk Megumi dan adik adiknya.\nJangan malu ya nak liat bapak kalian kek gini,, bapak kalian ini hebat loh bisa menghibur banyak orang tanpa mengubar aib orang 👍🏻👍🏻👍🏻👍🏻 kalian yang bangga ya punya bapak kayak gini 😊♥️😘",
+      "like": "292",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 1183.009,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1uiyJgSpwn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xnteQTAUnQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ari Yustika Arofatu",
+      "category": "Entertainment",
+      "comment": "\"Celana rafael\"\nUda jadi jokes tetap tns skrng wkwkk",
+      "like": "468",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 11.921,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1rrUGnXvXj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "z03S-ZfcLN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "VAN DOOM",
+      "category": "Entertainment",
+      "comment": "Teh Hesti lip sync-in lg lagu \"Gita Gutawa Harmoni Cinta\", Lagu yg buat teh Hesti menang dari lawan beratnya. Hahaha",
+      "like": "105",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 5.913,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jv_530_HDf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TOU6RDkpts",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Windy Amelia",
+      "category": "Entertainment",
+      "comment": "Gemes pengen nampol om desta nya , hahahaaaa 😂😂😂😂😂",
+      "like": "211",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 5.026,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RqUSfbx1xJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3o5lAEQIiC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "fajar pradista142",
+      "category": "Entertainment",
+      "comment": "STROONGGGG;!!!",
+      "like": "378",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 7.546,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_0TiSSvAQn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "btMhg3j0vN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "wahyu renaldi",
+      "category": "Entertainment",
+      "comment": ":'v Dalem Hati desta (G.A.C.D) \"Gini Amat Cari Duid!!!\" 😂😂",
+      "like": "82",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 10.855,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oKePpAa6az",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3rBApsijJh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "lien sihotang",
+      "category": "Entertainment",
+      "comment": "masa masa psbb gini, tns nguji mata kaum rebahan -_- biasa nya masih tidur memang wkekek",
+      "like": "308",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 5.196,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "EZAUQfjs6p",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-mXjh2G-wU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Abel Peppi",
+      "category": "Entertainment",
+      "comment": "Apa yg ada dibenak anak2nya desta ya, liat bapanya kaya gini😅",
+      "like": "146",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 9.245,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UsvqmiyaRn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "nhcD--s7Kc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "NOPERA",
+      "category": "Entertainment",
+      "comment": "semoga covid-19 cepet selesai yah :(",
+      "like": "128",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 23.556,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "S_2O_-I2fh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Er5GEjpV-e",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Jansen Fernando",
+      "category": "Entertainment",
+      "comment": "Mata ngantuk habis dinas malam, eh lihat botuna jadi ketawa gak ngantuk...\n\nRafael smes pernah di udang ,dia pakai celana pendek",
+      "like": "68",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 11.982,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YMD5aQUkRH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "VVzRxNMlwk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kaiz Anha",
+      "category": "Entertainment",
+      "comment": "Serius nanya..\nDikalian ada gak. Yang udah subscribe tonight show dan Uda nyalain notifikasi Nya\n tapi kadang ada upload-an yang gk ada notifikasi Nya",
+      "like": "56",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 38.787,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WJw63ZioBl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ydqWvv19sY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "bangbangtut",
+      "category": "Entertainment",
+      "comment": "request desta-candy candy extended version 10 jam😂😂😂",
+      "like": "852",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 6.36,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "exh3PxRzQW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3_n-nFtXq6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kreasi Tanzila",
+      "category": "Entertainment",
+      "comment": "Tontonan pembangkit imunitas di saat pandemi seperti ini. Makasih tonight show. Asli guyonnya berkualitas gak nyakitin orang lain 👍 teh hesti selalu totalitas 🤣",
+      "like": "61",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 3.95,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "D-NsWo2wu8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Qq4RocYST4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ela erliana",
+      "category": "Entertainment",
+      "comment": "YaAllah botunaaaaaaaaaa🤣🤣🤣🤣",
+      "like": "261",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 9.908,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lwFhb2hZM6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AVHPw7bSsU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nur Widi Hastuti",
+      "category": "Entertainment",
+      "comment": "Ekspresi caca liat kelakuan suaminya: “bapaknya anak2 cari duit sampe segininya ya” 🤣",
+      "like": "28",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 6.822,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "B_6fPgwGif",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "nsD6rebQL1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "RAJA JOKER",
+      "category": "Entertainment",
+      "comment": "Serius Kacau banget Desta !!\"\nSebenernya Lho mau Nyanyi lipsing atau Mau Ngondek hahahahaaa 😂😂😂,",
+      "like": "24",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 5.377,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "l92Y7FsjRu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "B8dJKbJJ97",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yones Guntoro Aji",
+      "category": "Entertainment",
+      "comment": "9:35 \"ini celananya Rafael pak\" WKWKWK kaco dicall back terus",
+      "like": "56",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 5.964,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "X-ghUvyKsm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "nABC8bgUo5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arani Anastika",
+      "category": "Entertainment",
+      "comment": "Ya Allah TNS ini sangat mengocok perutku. Desta Desta..",
+      "like": "18",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 13.509,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "n-2rv4sxBR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "LSQT4lS_5T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "bobby yenny",
+      "category": "Entertainment",
+      "comment": "Kaku bed penontonnya kaya kanebo dianginin haha 😝",
+      "like": "82",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 21.369,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "iRWCsJXyuh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "lAjQhhvbU-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Lanisa Usup",
+      "category": "Entertainment",
+      "comment": "hoho 1 selera sma om des🤣 dlu gw ngoleksi komik candy2",
+      "like": "50",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 4.953,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "nV8wbqn6Gg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "9lpsh4ZzlU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Minrin Cecilia Ranve .F.",
+      "category": "Entertainment",
+      "comment": "Wagelaseh bikin ketawa pagi pagi:)",
+      "like": "22",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 5.294,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jcHSOegEUs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "t3C-kDoF17",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bayu Krismantoro",
+      "category": "Entertainment",
+      "comment": "7:35 Botuna masuk \n8:17 Mulai performe",
+      "like": "103",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 8.666,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VM0yVJZAOh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "zlsvIZ54WU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Deandra Sgt",
+      "category": "Entertainment",
+      "comment": "Gmna sih caranya dftar zulu, nulis pasword aja gk bener\", emosi saya..",
+      "like": "43",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 10.501,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3aAUG1aIps",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "oE5zImpE8i",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Halo BlueSky",
+      "category": "Entertainment",
+      "comment": "1:11 vibra suara gita gutawa bibirnya goyang goyaang hahahahahahaha",
+      "like": "37",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 7.936,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GxA-gCKtTF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "a5qlo8hNwx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Achmad Prayogi",
+      "category": "Entertainment",
+      "comment": "8:19\n\"NAIKKAN GAJII CAMERAMEN\"\n...\n..",
+      "like": "107",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 6.651,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MnDOdMdd-D",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Ti4s8_Cm6g",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mig33",
+      "category": "Entertainment",
+      "comment": "CIMOY HILANG SEBELUM RAMADHAN AMIN",
+      "like": "45",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 8.987,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Xb7NdK2gFC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "kbMAMbVtay",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arik pradewi",
+      "category": "Entertainment",
+      "comment": "Kak Vincent potong rambutnya kayak dulu dong",
+      "like": "106",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 157.514,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "EoItI9AIKP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uDzGuZfF9_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Anna Rahma",
+      "category": "Entertainment",
+      "comment": "penghibur ketika hati sedang kacau.",
+      "like": "115",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 12.874,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Ws7dr123xP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BS7tbyRK7S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Annisa Rianti",
+      "category": "Entertainment",
+      "comment": "Gue hapal lagu Candy-Candy 😭 why Desta whyyy 😭",
+      "like": "9",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 12.205,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BCaoeSDcFr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "mIqbPALnkG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dina Destianti",
+      "category": "Entertainment",
+      "comment": "Penonton yang depan rambutnya pendek pake kemeja coklat mukanya kek sedikit mirip kek BCL iya gak si😬",
+      "like": "61",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 7.724,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ejNlmQdICr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "RyWr4WCGJ7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bima Bayu",
+      "category": "Entertainment",
+      "comment": "19 menit yang lalu coba😂",
+      "like": "30",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 8.753,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "wQPslfDrcV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Zz2Jtdtv7W",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Revi Ammah",
+      "category": "Entertainment",
+      "comment": "Liat ini tambah sedih ngga ada tns pas ramadhan 🤦🏻‍♀️🤦🏻‍♀️",
+      "like": "14",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 3.906,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Z5QuOYCkzQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "k85eSkCipo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dede Mulyana",
+      "category": "Entertainment",
+      "comment": "Semoga covid-19 segera berakhir",
+      "like": "18",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 7.4,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "TM9zCbDTVV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "18kGPH1Hh6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ciao jien",
+      "category": "Entertainment",
+      "comment": "TNS pas puasa lagi lebaran klo harus libur dulu gpp deh \n\n\nYg penting host dan crew nya sehat2 ",
+      "like": "42",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 8.525,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IoN8oO91K2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "w3QrbiFJdv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Govinda Telajan",
+      "category": "Entertainment",
+      "comment": "7:35 MASHA Nyalain ULTInya...",
+      "like": "23",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 7.296,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "V1N9rqrY5D",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "McfDMw-JBY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "nipereed",
+      "category": "Entertainment",
+      "comment": "9:35 Celana Rafael masih dibahas 😭😭",
+      "like": "40",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 9.064,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "nTnZDaj-p6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2PLLf-HfPd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Introvert Expert",
+      "category": "Entertainment",
+      "comment": "1:10 detik-detik enzim lipase ku terbahak-bahak",
+      "like": "34",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 24.072,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lwL8dFXSJD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ksGLhSwmfS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fake Pilot",
+      "category": "Entertainment",
+      "comment": "Desta balik lagi ke jaman dulu? Gw pikir dah sembuh",
+      "like": "23",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 13.725,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "SIjgAQ5GBi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SHzNCpeA0n",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "say hello",
+      "category": "Entertainment",
+      "comment": "9:46 tau rasa lu Botuna, sempet ngeyel, tetep aja masih kena dikerjain sama Vincent 🤣🤣🤣",
+      "like": "125",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 7.804,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0QwxUEfF5O",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uV6xeX1xNu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "This is Chaniago!",
+      "category": "Entertainment",
+      "comment": "Me: Mom, can we have candy candy?\nMom: We have candy candy at home.\nCandy candy at home:",
+      "like": "245",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 13.798,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "4DOJBTnd_4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "YbUGsUzbhM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Henaya Naya",
+      "category": "Entertainment",
+      "comment": "tns ga tayang ramadhan:(",
+      "like": "153",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 19.766,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UIyTMM16rB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "h00_oexrqy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hasanah Uswatun",
+      "category": "Entertainment",
+      "comment": "PLIS DONG TNS SBLM OFF SYUTING UNDANG GIRLBAND NYA ENZY DLU, PASTI SERU.. *sorry capslok",
+      "like": "31",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 18.964,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0DofSRknqM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "d24uvTRSbu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Muhammad Sodiq",
+      "category": "Entertainment",
+      "comment": "Kurang bucin apa lagi sama TNS? ",
+      "like": "38",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 52.092,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "uWBZrCZgjW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "i6EMjnXeJy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Takahasi Last",
+      "category": "Entertainment",
+      "comment": "Gara gara \" la botuna \" gw cari tu anime dan tanpa di sadari lsng hafal liriknya ...",
+      "like": "58",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 9.804,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UFyUVevvkk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XzDoPALSoB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Novi Anggraini",
+      "category": "Entertainment",
+      "comment": "Gua ketawa liat enzy ketawa 😂",
+      "like": "40",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 6.439,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "X2QXp39CfM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "u2qLBPlyru",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "siti solehati",
+      "category": "Entertainment",
+      "comment": "Mangtap komen masih sepi",
+      "like": "36",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 5.489,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NHjRJqRPaK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "nlj6n0zb41",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Riswan Hanafyah Harahap",
+      "category": "Entertainment",
+      "comment": "Celana Rafael... 😂",
+      "like": "67",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 11.659,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5WH1j38xy6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AtlgHqP2oX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "supriyanto Hutapea cannel",
+      "category": "Entertainment",
+      "comment": "Ngakak lihat kak desta.... \n\nSehat terus kak semuanya,  semakin semangat buat konten yang lucu-lucu biar menghibur kaum-kaum rebahan ini.. 😂😂",
+      "like": "39",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 5.196,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "X7GXeYAPKx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xF6eyuKD18",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rizky Riswanda",
+      "category": "Entertainment",
+      "comment": "Mba Hestiii😂😂😂😂😂",
+      "like": "5",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 14.149,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "m4AW57UU5d",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vFL1NXwcWa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nurul Dewi Aslamiah",
+      "category": "Entertainment",
+      "comment": "baca ada “Enzy” jadi lgsg kesini",
+      "like": "32",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 8.412,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "skFXE6hcmL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rCNR0_a9ci",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hanya Sebuah Nama",
+      "category": "Entertainment",
+      "comment": "7:36...manusia jadi2an muncul....🤣🤣🤣🤣",
+      "like": "34",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 6.018,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ll42VGJKAl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iljPWg7Bbd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "DIRCHANNEL",
+      "category": "Entertainment",
+      "comment": "6:58 ada Mei Mei tuh",
+      "like": "15",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 8.283,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "zrTx4PTnA9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FUPMKfQZ2U",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zaskia Rahma",
+      "category": "Entertainment",
+      "comment": "10:40 muka BOTUNA yang ga terima kekalahan",
+      "like": "47",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 13.46,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "kKQA51GZZC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HoSmqz1-CB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Siddiq Wicaksono",
+      "category": "Entertainment",
+      "comment": "Buat anak-anak Desta, inilah gambaran ayahmu bahwa sulitnya mencari nafkah untuk keluarga",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 9.17,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "X63VBbSqbd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "64JlxGi31a",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "myajun1",
+      "category": "Entertainment",
+      "comment": "gw aja yg ngikutin candy2 justru apal lagu kbh. Desta emang lebih wanita drpd wanita pd umumnya.",
+      "like": "32",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 9.937,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "AD46tku9dE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "v73AgwyrID",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "samlekom mamang",
+      "category": "Entertainment",
+      "comment": "Gabisa bayangin desta lypsinc lagunya JKT48 yang Heavy Rotation wahahahahaha 😂😂",
+      "like": "9",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 226.396,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "U0B2jnWreU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uauxE8NNp4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Doni Afrijal",
+      "category": "Entertainment",
+      "comment": "7:41 duh duh duh jangan lompat\"",
+      "like": "70",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 4.296,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "iNnw-HFHW6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FJpq4ZmBqM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Imas Anjum",
+      "category": "Entertainment",
+      "comment": "DESTAAAAAAAAA 🤣😅😭😭🤣🤣",
+      "like": "12",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 16.171,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "CZKRkHxQRW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_TceeGA1Gk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "rahmi zahra",
+      "category": "Entertainment",
+      "comment": "Semok bgt ka destaaa 🤣",
+      "like": "31",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 9.388,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IYpbo1csd1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WO52mtdjyS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Senja Kelabu",
+      "category": "Entertainment",
+      "comment": "Gausah nonton, liat tamneilnya aja uda ngakak😭",
+      "like": "8",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 9.091,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "V8dAl_aXt2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "AyIAt3rpz1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ANDRI WICAKSONO",
+      "category": "Entertainment",
+      "comment": "7:35 - 7:47 ketawanya NZ kek motor mau mogok kehabisan bensin anjir wkwkwk",
+      "like": "24",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 8.997,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "kWaBVTekh-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fUf7Uek9F-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Wildan Ardian",
+      "category": "Entertainment",
+      "comment": "Teh hesti mirip yona ex jkt48 ,sama sama produkan bogor duh cakep bener dah",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 12.575,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_pazN2omx6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "GFQOUea-0U",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Frederick Osmond",
+      "category": "Entertainment",
+      "comment": "DESTA GILAAA, gw aja anime lover kaga tau ada anime candy candy itu wkwkwkwk",
+      "like": "9",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 14.621,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "boSbl47-ci",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "yLYmW0aHC3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mahluk Bumi",
+      "category": "Entertainment",
+      "comment": "Amit\" jabang bayik 🤣🤣🤣",
+      "like": "11",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 10.771,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-pkaLMuJQI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0Q69TOpHvO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "rose larosa",
+      "category": "Entertainment",
+      "comment": "Akhirnya d upload juga ,botuna mah always totalitas..selalu bikin ngakak hahhahaha",
+      "like": "35",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 12.775,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WkpQWQGLy7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "gNhsd7cyqb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Endraaay",
+      "category": "Entertainment",
+      "comment": "Talitha agak mirip emma stone yah😂",
+      "like": "8",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 7.096,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2h-Y3z5iUN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FXWxrM4mP5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dewi Ayu",
+      "category": "Entertainment",
+      "comment": "Gaada 5 menit tapi menghibur bgt.. makasih pak Desta <3",
+      "like": "11",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 7.568,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IfcLW8vY0N",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "PCF0uYY9kV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "thean SP",
+      "category": "Entertainment",
+      "comment": "Min, bener ga slama puasa g ada tayangan tns? Duh sedihnyaaaa",
+      "like": "5",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 8.165,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RFFpwB24F9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BoOsK_cGNS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dex Vender",
+      "category": "Entertainment",
+      "comment": "Penasaran sma reaksi mba cacha liat suaminya gini...🤣🤣",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 4.509,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "4wju_ZSu5o",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vNXqNzF1Ur",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Svcker RS",
+      "category": "Entertainment",
+      "comment": "Candy candy orang jaman dulu banget",
+      "like": "21",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 17.86,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HKJgZPrt4c",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8cBOanyAoG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "nana nanana",
+      "category": "Entertainment",
+      "comment": "Salute sm desta apal bgt lagu jepang... Tepuk tangan... 👏👏",
+      "like": "11",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 15.048,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vVp7Rl0vs2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "dbCch-Fdbd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Surya Habibi Sitompul",
+      "category": "Entertainment",
+      "comment": "The real show of entertainment, keep it up TNS <3",
+      "like": "428",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 9.943,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gHi580X3Nt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "lJ-B5lXiJP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "MJ Sammy",
+      "category": "Entertainment",
+      "comment": "\"Silakan duduk di sana.\" \"Saia di sini aja.\" malah ngeyel. Awokawok😆",
+      "like": "9",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 6.904,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "KiD7MKmUVa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "c83WiqvQ8t",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Angga Surahman",
+      "category": "Entertainment",
+      "comment": "08:15 Buat yg pgn skip langsung liat penampilan utama 😂",
+      "like": "30",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 8.357,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "SwCGFPo9GB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0_JOs3op_Y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Andreans Bratanata",
+      "category": "Entertainment",
+      "comment": "Tolong youtube kasih fitur HAHA REACT woy! 😂",
+      "like": "9",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 4.331,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "aWat8JUrhL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-S5GzViBlq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bacharudin Yusup",
+      "category": "Entertainment",
+      "comment": "8:16 candy-candy",
+      "like": "54",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 6.324,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tV1Y1ibX4y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JkyuNbmib7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rapiqatul Husna",
+      "category": "Entertainment",
+      "comment": "AKHIRNYA diupload juga min. dah emosi nungguin lama banget 😭🤣",
+      "like": "10",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 10.805,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HW2DfhFDEm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "jDzYOJL5o_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yolla Rizkika",
+      "category": "Entertainment",
+      "comment": "7:36 asli gua keselek coyyyy sakit banget🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+      "like": "21",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 11.595,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "J1oYSQoxsC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "5qbzvLBzQd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Otoy",
+      "category": "Entertainment",
+      "comment": "Wkwkwk CandyCandy 😅😂 salahsatu film kartun favorit 90an 🤭 selain sailormoon",
+      "like": "26",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 4.342,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "V1txgybVAt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "exkfUDq8Mx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Lim David",
+      "category": "Entertainment",
+      "comment": "Sering\" Om Desta seperti ini. Lucu....",
+      "like": "17",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 5.803,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WKR81PaUSB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "oqbBo7XPZN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "godfriend's enthusiast.",
+      "category": "Entertainment",
+      "comment": "liat thumbnail nya udah ngakak liat kelakuan botuna satu ini. 😂",
+      "like": "12",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 19.943,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NXKQ2brXDZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "bBmYewMmk9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Raihan Bima",
+      "category": "Entertainment",
+      "comment": "Tolong lah ketawa enzy jangan satu frame sama mumu, bingung mau fokus ke mana",
+      "like": "8",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 5.559,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "x9GWKb7faG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "jqu3veg1MW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mu Zadith",
+      "category": "Entertainment",
+      "comment": "0:47 nyopotnya kalem bu 🤣",
+      "like": "25",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 5.559,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2GK04ALJ0e",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "MzTYcMlkbq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Firman Syah",
+      "category": "Entertainment",
+      "comment": "Terima kasih untuk para hods TNS dan crewnya telah menghibur kami walaupun dalm kondsi sprti ini..\nSemoga tetap sehat semuanya",
+      "like": "30",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 11.305,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oqEcDRoQAN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "bQJJf7vACW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Matcha Addict",
+      "category": "Entertainment",
+      "comment": "yaallah, bakal kangen sama kalian grgr nanti pas bulan puasa gak tayang :(",
+      "like": "41",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 5.606,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qnLz4lP2Pt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "33YEhCNVVL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "D'couple Garage",
+      "category": "Entertainment",
+      "comment": "Nggu eps ini lma bgt kluar ny.. kocak bgt ka dstaaaaa.. hburan bgt",
+      "like": "5",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 7.478,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fcu_0PTXj3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3GnFLD_D7U",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Anan Almuchari",
+      "category": "Entertainment",
+      "comment": "Undang denden gonjales min buat tanding nyanyi sama desta😂",
+      "like": "29",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 10.276,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "TpGV9pyA-K",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vgmhJRy2jW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Abi Victory",
+      "category": "Entertainment",
+      "comment": "Aku hampir taip hari nonton TONIGHT SHOW apalagi semenjak ada Covid-19 kalian yang bisa ngehibur kita yang lagi DIRUMAH AJA , semoga kalian tetep sehat ya vindest hesty Enzy ..",
+      "like": "8",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 9.207,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "H0h_gDmbas",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xwC_n3oZWn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gabby Imelda",
+      "category": "Entertainment",
+      "comment": "Pagi\" udah 3rb views😂",
+      "like": "11",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 478.105,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "9hrZaSQ0db",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "O0_QpkGCG5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ricky arikson",
+      "category": "Entertainment",
+      "comment": "anjir lahhh \"OM OM INGAT UMURRRRR ANDA HEY\" wkwkwwkwkwwkwkwkwwkwkwwk Thanks TNS selalu menghibur diriku XD",
+      "like": "9",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 5.988,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tnIw0-dxyH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-fuiTIIS8H",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Tohani 27",
+      "category": "Entertainment",
+      "comment": "Walaupun udah nonton di TV tapi demi apapun liat lagi tetep lucu anjir😂",
+      "like": "5",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 7.008,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-3f4kYyFSV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "g-RWi1J0vo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rizky Ardiansyah",
+      "category": "Entertainment",
+      "comment": "Secantik apapun bintang tamunya, enzy tetap yang terdepan",
+      "like": "13",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 5.395,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PdW-1iZ98r",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "qe64cNhaA4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "stephen paul",
+      "category": "Entertainment",
+      "comment": "Njir si Hesti cantik bener dah 😍😍",
+      "like": "4",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 5.804,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "CmAGD5NZ64",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7FEL41rrIH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "pingke isra wahyuni",
+      "category": "Entertainment",
+      "comment": "ngakak banget desta ya Allah 😂😂",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 14.412,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VNldnzH7H7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "i2QMtDBWnA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Laura KLee",
+      "category": "Entertainment",
+      "comment": "Kangen TNS dengan penonton2 unpredictable nya, hahahha, kadang penonton lebih uhuy drpada bintang tamunya soalnya",
+      "like": "18",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 6.17,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UdBR8vSqD3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-Vd8zSl9Pg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yones Guntoro Aji",
+      "category": "Entertainment",
+      "comment": "6:59 icon penonton yang selalu ada wkwkwk",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 99
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 6.849,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "n6Pu-csa_D",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ZrA_J78ujr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rahayu Efendi",
+      "category": "Entertainment",
+      "comment": "Kak hesti cantik bangeeeet tapi lucu sumpah pas lipsying",
+      "like": "12",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 5.499,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JQ8yxkixss",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "40KuhIzUL0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aheng Sing",
+      "category": "Entertainment",
+      "comment": "gila hesti cantik banget...",
+      "like": "4",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 5.346,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "uCmxRvuEDV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XeoH-UDCJF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Saiful Anam",
+      "category": "Entertainment",
+      "comment": "SERIUSAN ?? Selama Ramadhan TNS libur ??? :'(",
+      "like": "19",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 16.299,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gJn_ecAH7_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "EJAo78yyfJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "fajar nugross",
+      "category": "Entertainment",
+      "comment": "Hesti cakep bgt siii!!",
+      "like": "12",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 8.864,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "QPA640mWSH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KBJoXbgYXs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dek Oma",
+      "category": "Entertainment",
+      "comment": "09:21 asupan mimpi buruk\n\nUntuk anak\" mohon tidak ditiru 😂🤣",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "id": 105001,
+        "lead_time": 6.22,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IahdMNUhfl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "x7uWwcIySj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hijrah Ira",
+      "category": "Entertainment",
+      "comment": "Banyakin segmen Lipsing nya yah..\nSeru bikin ngakak..",
+      "like": "8",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "id": 106001,
+        "lead_time": 14.643,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6lgdXQMrXU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XcbCFMjAaP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "iWant",
+      "category": "Entertainment",
+      "comment": "Desta mirip bgt kelakuaan kek karakter cowo di film thailand romantic comedy : atm error , hello stanger hahahaha",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "id": 107001,
+        "lead_time": 7.79,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "AAEnhAISgd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Elp01UcF8-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Uzumaki Naruto",
+      "category": "Entertainment",
+      "comment": "Betapa hepinya pagi2 udh dihibur TNS :')",
+      "like": "11",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "id": 108001,
+        "lead_time": 46.91,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "J-vd6EAqqv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "bnE3lZESWF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Abay Seventeen",
+      "category": "Entertainment",
+      "comment": "Gw malah penasaran sama tulisan-tulisan di belakangnya :D",
+      "like": "29",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "id": 109001,
+        "lead_time": 20.802,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MfHGAvnaWB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hvM19iqjgV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "HookKing #I",
+      "category": "Entertainment",
+      "comment": "Ko jadi gua yg malu liat nya yaa,,,geliiiiii ajihggg wkwkwkkw😂😂😂",
+      "like": "14",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "id": 110001,
+        "lead_time": 7.605,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oUc6WuC-c1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WVJSDZQFIS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "isna anggiani",
+      "category": "Entertainment",
+      "comment": "7:40 😂😂😂 pas keluar auto ngakak emg",
+      "like": "12",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "id": 111001,
+        "lead_time": 80.316,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "msXZBYWvYF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Sc-xyixXRG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ayu Eniy",
+      "category": "Entertainment",
+      "comment": "Gemusnya liat destaaa super ngakak w loh 😆😂😂🤣",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "id": 112001,
+        "lead_time": 123.365,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2PX1eJNKts",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XuBPAvW22-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "GANANG MLBB",
+      "category": "Entertainment",
+      "comment": "Teruntuk Desta\n\nNasib manusia emang tak selamanya akan pagujrud\nNamanya juga hidup,,kadang di atas kadang digulung kulobaan",
+      "like": "4",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "id": 113001,
+        "lead_time": 40.625,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0bOeEVX3d-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "egGGX2y3g-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ummi Ummi",
+      "category": "Entertainment",
+      "comment": "Yang setuju tonight show undang lyodra, like",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "id": 114001,
+        "lead_time": 7.163,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "z30Xvj72gD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "YizhKwCfAV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ilham brilian",
+      "category": "Entertainment",
+      "comment": "7:35 Raja simba keluarr wkwkwk",
+      "like": "202",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "id": 115001,
+        "lead_time": 77.907,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "kWANLslcp1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FdrH9i6fV0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aniyb",
+      "category": "Entertainment",
+      "comment": "Ketawa nya enzy nularr 😂",
+      "like": "24",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "id": 116001,
+        "lead_time": 7.893,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-uQ8gNv4HE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "N6fM_sV0Zr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Abigail Vania Herliyati",
+      "category": "Entertainment",
+      "comment": "Persiapan nonton ini : Jangan sambil makan maupun minum 😂 bisabisa keselek liat pas Om Desta nyanyi",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "id": 117001,
+        "lead_time": 6.244,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oYcQylgDV_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JszbLvHyJJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Danu Christianto",
+      "category": "Entertainment",
+      "comment": "Wakakaka kok bisa kepikiran candy candy,lawas banget mas dedi.\n\nWetengku loro ngakak terosssss",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "id": 118001,
+        "lead_time": 7.729,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Fk0zIRAvBM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "mxFzof4O3K",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Evas Eko",
+      "category": "Entertainment",
+      "comment": "Ini sahur adakah tahun ini?",
+      "like": "26",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "id": 119001,
+        "lead_time": 8.759,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WYL4EeEnm0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "IdEuefemKZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yakub Nuhari",
+      "category": "Entertainment",
+      "comment": "sakit perut aku tengok bang desta ahhahah mantuk btol hahaha\n\ngara\" bang desta aku langsung putar lagu nya kendy\" hahaha",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "id": 120001,
+        "lead_time": 84.303,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ure5bXwuS7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "s5-dBv4fb6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "vind's Journey",
+      "category": "Entertainment",
+      "comment": "7:42 ketawa enzy berasa lagi manasin PTS gue njir.... Hahahaha",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 120
+  },
+  {
+    "completions": [
+      {
+        "id": 121001,
+        "lead_time": 34.311,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dG-MnTxNu2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BCcOkxABTF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sexy Shadow",
+      "category": "Entertainment",
+      "comment": "Gak lagi\" makan sambil nonton Tns, Nasi kek masuk ke idung njir hadeh",
+      "like": "25",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "id": 122001,
+        "lead_time": 68.883,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "EOGbuwPdOU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pnAXKPpWl9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dicky TaffareaL",
+      "category": "Entertainment",
+      "comment": "Hesti mau di gimanain juga tetep aja cakep😅",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "id": 123001,
+        "lead_time": 9.202,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "rQzRpz3HbJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "aJMgMUNT3T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "2QMIN",
+      "category": "Entertainment",
+      "comment": "Akhirnya candy candy diupload juga 😁😁",
+      "like": "12",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "id": 124001,
+        "lead_time": 4.491,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "imBFfDn819",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4X7c3Ap8kx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Michelle Diva Miranda",
+      "category": "Entertainment",
+      "comment": "Moodboster kuuu ❤❤",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "id": 125001,
+        "lead_time": 30.352,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YRh3m17qdy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JvuczMJpQE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "NAD TEAM",
+      "category": "Entertainment",
+      "comment": "6:57 \"saya kira kameranya hampir dimakan tadi\" cukup menggetarkan pankreas 😂",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "id": 126001,
+        "lead_time": 6.854,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "8KQO88IQ_p",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "bW2nMlHJW1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Juliyus Iyus",
+      "category": "Entertainment",
+      "comment": "Tiap ada yg pake celana pendek, pasti bilangnya terinspirasi dri rafael smash 😂😂😂",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "id": 127001,
+        "lead_time": 6.972,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "oErpRJQtol",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "l9BwwvD26T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "R45T4 WBC",
+      "category": "Entertainment",
+      "comment": "7:36 mimiperi langsung nongol🙏🙏🙏",
+      "like": "4",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "id": 128001,
+        "lead_time": 6.295,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "7SnTiqDnoI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0NUN0N996A",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dede Rahma",
+      "category": "Entertainment",
+      "comment": "6:20 seheboh itu Thalita Latief 😂 kocak bet wkwk",
+      "like": "5",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "id": 129001,
+        "lead_time": 7.045,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jSjyIU7FlO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "YR438FLMVW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "wong cilik",
+      "category": "Entertainment",
+      "comment": "Cantiknya mba hesti masyaAllah bngeett.....  Gw suka ngakak si enji, wkwkwkwk....., mba hesti, enji, desta dan vincen mmg gak ada matinya dlm ngibur orang 👍👍😍😍",
+      "like": "14",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "id": 130001,
+        "lead_time": 11.136,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "pnd3yGFGj8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Y__mE1XfNR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "MHadi Prayoga",
+      "category": "Entertainment",
+      "comment": "Keren lipsync nys hesti",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "id": 131001,
+        "lead_time": 17.93,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mWmnQmF3_3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4kVek2nOlE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Vins Karinda",
+      "category": "Entertainment",
+      "comment": "omg hesty 😻",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "id": 132001,
+        "lead_time": 36.899,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "qRkyGJlm-v",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HYjKQrN2fl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "febri Intan",
+      "category": "Entertainment",
+      "comment": "6:59 ,  penonton itu selalu ada, baju yng sm kacamata yng sm kalo ketawa pun sm,  🤔",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "id": 133001,
+        "lead_time": 7.891,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "C29k1lEsui",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fmYBehi8Ay",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rom Empire",
+      "category": "Entertainment",
+      "comment": "11:25 duit hadiah masih bisa saja digimmickin wkwkwk",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "id": 134001,
+        "lead_time": 5.554,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "99oL7b0brr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "yHxRsUzSw7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dwi Nur Annisa",
+      "category": "Entertainment",
+      "comment": "Anjriiit anjriit wkwkwk, lumayan lah ya buat nambah nambah imun :')",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "id": 135001,
+        "lead_time": 9.304,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Q1_5I-BsH2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SVTpnKbRFC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yoki Ardiyanto",
+      "category": "Entertainment",
+      "comment": "Perpanjang durasi tonightshow, hapus acara tiktokan, pleasee",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "id": 136001,
+        "lead_time": 10.703,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RK-sJe5VXA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "EQNSmFPRB_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sulistiyono Atmowijono",
+      "category": "Entertainment",
+      "comment": "6:58 min pliss itu siapa sih? Manis banget kek gula. Sering banget ngeliat di beberapa video TNS dan selalu terselip. Bukan sekali gue liat dia di video TNS.",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 136
+  },
+  {
+    "completions": [
+      {
+        "id": 137001,
+        "lead_time": 7.951,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IN-c8ml-kJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "NQbKlpswIk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "yf bio",
+      "category": "Entertainment",
+      "comment": "Lebih mirip Kunto aji dibanding Nidji anjir 😂😂",
+      "like": "2",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 137
+  },
+  {
+    "completions": [
+      {
+        "id": 138001,
+        "lead_time": 19.454,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "wLmL5rTbsq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "PoGtBTRjzD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fadril Yusuf",
+      "category": "Entertainment",
+      "comment": "Botuna kelakuannya dah... Sarapnya gak nanggung2 dan Tolong KPI pahanya di blur, campersnya nafsu bet nyorot mulu... 🤣",
+      "like": "27",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "id": 139001,
+        "lead_time": 8.759,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "H5ubktJD34",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "t2TTyquTCL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Desy Kurniawati",
+      "category": "Entertainment",
+      "comment": "ASTAGAAAAA.... BETISSNYA om desta kayak cakwe... 🤣🤣🤣🤣🤣🤣😭😭😭😭😭 astagfirulloh 🤦🏻‍♀️🤦🏻‍♀️🤭🤭😭😭",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "id": 140001,
+        "lead_time": 5.232,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "t2ZoHYs54y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8Ku4cSkWgN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hendi HR",
+      "category": "Entertainment",
+      "comment": "gagal fokus sama cowok yg pake kaos DWP 2019 😅😅😅",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "id": 141001,
+        "lead_time": 6.748,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T9eAUmuvw2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "jcuPn6ErUs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "dina review",
+      "category": "Entertainment",
+      "comment": "Desta sampe hafal liriknya tu lalaguan jejepangan 😂 emejing sekali",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "id": 142001,
+        "lead_time": 6.177,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XKHfNNrYbg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Zel_LEBjwN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Si Jamet Tapir",
+      "category": "Entertainment",
+      "comment": "7:35 kegoblogan haqiqi dimulai 🤣🤣🤣",
+      "like": "7",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 142
+  },
+  {
+    "completions": [
+      {
+        "id": 143001,
+        "lead_time": 7.37,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T329IPicVl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "NNe-05umRp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dez North Exe",
+      "category": "Entertainment",
+      "comment": "8:35 kameramennya sangean, liatnya bawahannya desta trus wkwk",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 143
+  },
+  {
+    "completions": [
+      {
+        "id": 144001,
+        "lead_time": 7.725,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6GYw2aW9cs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "YZgiNiNCwC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "adhi ahmad",
+      "category": "Entertainment",
+      "comment": "1:58 allahu akbar ,-hesty 2020",
+      "like": "2",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 144
+  },
+  {
+    "completions": [
+      {
+        "id": 145001,
+        "lead_time": 99.695,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HdBYoTepU0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ZUO5_e9zeC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dian Arofah",
+      "category": "Entertainment",
+      "comment": "Gokillll.. Hapal Candy-Candy..",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 145
+  },
+  {
+    "completions": [
+      {
+        "id": 146001,
+        "lead_time": 17.757,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DTE8ou54re",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WZFpggseQL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Amri Stone",
+      "category": "Entertainment",
+      "comment": "Totalitas tanpa batas,salut sama kak DESTA💪🏿\nsemangat terus,semoga sehat terus kak desta",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 146
+  },
+  {
+    "completions": [
+      {
+        "id": 147001,
+        "lead_time": 6.567,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jE6r7FwcL_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3HI-ZigY7s",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "toto setiawan",
+      "category": "Entertainment",
+      "comment": "Biar saja biar wajahku begini\nTak peduli oh tak oh tak oh tak\nPerlu ku tangisi",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 147
+  },
+  {
+    "completions": [
+      {
+        "id": 148001,
+        "lead_time": 5.456,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hpCn-E-Djy",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0B-Ky4kTvU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "INTAN JUNITA SARI",
+      "category": "Entertainment",
+      "comment": "njirrrrrrrr 07:36",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 148
+  },
+  {
+    "completions": [
+      {
+        "id": 149001,
+        "lead_time": 12.67,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "zch1HKeLco",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rTKGB9OA5a",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Marwah Islami",
+      "category": "Entertainment",
+      "comment": "TNS Ramadhan tetep ada doonggggg 😭😭😭",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 149
+  },
+  {
+    "completions": [
+      {
+        "id": 150001,
+        "lead_time": 67.985,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "4IMbPKeQBO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "GAiOEVpr5a",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Akun Game21",
+      "category": "Entertainment",
+      "comment": "DESTAAAAAAAAAA YA AMPUUNNNN 😂😂😂😂😂😂😂",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 150
+  },
+  {
+    "completions": [
+      {
+        "id": 151001,
+        "lead_time": 6.529,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vdwkJPrdaj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xY3RDM25IK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ridwan Zul Fathi",
+      "category": "Entertainment",
+      "comment": "4:35 enzy salfok 🙃",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 151
+  },
+  {
+    "completions": [
+      {
+        "id": 152001,
+        "lead_time": 18.975,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fKb0eQJNrA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Wuq__yqJ3k",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ciccak Isra",
+      "category": "Entertainment",
+      "comment": "Karma seorang botuna terhadap sule 🤣",
+      "like": "67",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 152
+  },
+  {
+    "completions": [
+      {
+        "id": 153001,
+        "lead_time": 49.503,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "U1CelCzRJc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "y5GWML4BpQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ansr Official",
+      "category": "Entertainment",
+      "comment": "Coba dong enzy bawain lagu lollypop yg kamseupay itu wkwk pasti seru tuh",
+      "like": "4",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 153
+  },
+  {
+    "completions": [
+      {
+        "id": 154001,
+        "lead_time": 33.564,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hVRwBrt49A",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XAIhPpo61y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Khoirul Umah",
+      "category": "Entertainment",
+      "comment": "teh Hesti makin syantikk",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 154
+  },
+  {
+    "completions": [
+      {
+        "id": 155001,
+        "lead_time": 15.718,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "iG-TaJXwXs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "QYo6UwYiXd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Marius Yunior",
+      "category": "Entertainment",
+      "comment": "gw selalu lupa like abis nonton. tapi ini blm kelar nonton udh gw like karna desta candy candy. WKWKWKWK",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 155
+  },
+  {
+    "completions": [
+      {
+        "id": 156001,
+        "lead_time": 6.852,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "8YyNZrMdwM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7MGDHK2XQk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ir Ma",
+      "category": "Entertainment",
+      "comment": "V: silahkan duduk\nD: enggak saya mau disini aja\nV:duduk aja dulu\nBeberapa detik kemudian..",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 156
+  },
+  {
+    "completions": [
+      {
+        "id": 157001,
+        "lead_time": 7.493,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fkhXI5jgOZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "FgiTjeqnq1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "kamar gelap",
+      "category": "Entertainment",
+      "comment": "Desta nursayahya + celana Rafael kocak bgt 😂😂😂",
+      "like": "7",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 157
+  },
+  {
+    "completions": [
+      {
+        "id": 158001,
+        "lead_time": 24.649,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3cJaPV2PDp",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "mWO8tFtZDX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "El Botuna",
+      "category": "Entertainment",
+      "comment": "Cameramen nya sagne bgst wkwkwk 🤣🤣🤣",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 158
+  },
+  {
+    "completions": [
+      {
+        "id": 159001,
+        "lead_time": 7.086,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IuC2udr2is",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fONsfYQ0uf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gerardus Firman Yudha",
+      "category": "Entertainment",
+      "comment": "Ini desta niru konsep host dude perfect ya😂",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 159
+  },
+  {
+    "completions": [
+      {
+        "id": 160001,
+        "lead_time": 8.268,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "zV_ckS0KLB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "p7ES5tYEGU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ir Ma",
+      "category": "Entertainment",
+      "comment": "V: sebenernya kamu pake celana gaksi?\nD: pakek, celananya rafel\n🤣🤣🤣🤣",
+      "like": "🤣🤣🤣🤣",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 160
+  },
+  {
+    "completions": [
+      {
+        "id": 161001,
+        "lead_time": 77.416,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2foWIV-DoC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "U0MBAjUgZI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ЕЯЯОЯ",
+      "category": "Entertainment",
+      "comment": "Full di playlist gw",
+      "like": "22",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 161
+  },
+  {
+    "completions": [
+      {
+        "id": 162001,
+        "lead_time": 20.593,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lXY3HI0hhO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "IibniNm1_v",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Cepot DA",
+      "category": "Entertainment",
+      "comment": "Puas puasin Nonton TNS Sebelum Ramadhan:'v",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 162
+  },
+  {
+    "completions": [
+      {
+        "id": 163001,
+        "lead_time": 26.835,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Mw9ExqMhBm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1YPGfS1S5E",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "etrine 126",
+      "category": "Entertainment",
+      "comment": "ngakak sumpah gw , anjirr aduh , paha nya dessta mulus jg yaa wkwkkwkkw",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 163
+  },
+  {
+    "completions": [
+      {
+        "id": 164001,
+        "lead_time": 14.701,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JL6NMgZC-d",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hthU9fm12B",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Wawan Tampan",
+      "category": "Entertainment",
+      "comment": "Anjay salfok yg pake kaos hitam dwp 2019 wkwkwk",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 164
+  },
+  {
+    "completions": [
+      {
+        "id": 165001,
+        "lead_time": 7.267,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_BSuKBd_Iq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "urcUAirke9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Novia Humairoh",
+      "category": "Entertainment",
+      "comment": "hesti sm desta totalitas banget 😂😂",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 165
+  },
+  {
+    "completions": [
+      {
+        "id": 166001,
+        "lead_time": 5.678,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "iHaMstRrYi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "LVUS05Hu0v",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Deva Ria",
+      "category": "Entertainment",
+      "comment": "Tns itu totalitas bgt\nDan 1 untuk net TV\nSemoga sukses sllu dan terus jaya Jaya jaya \nSalam buat Vincent 🥰🤗 tns kalian dihatiku",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 166
+  },
+  {
+    "completions": [
+      {
+        "id": 167001,
+        "lead_time": 3.745,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6k9S70roJ8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "NDxhBgOXCc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hana siahaan",
+      "category": "Entertainment",
+      "comment": "Desta masuk Stage, langsung Ngikik : D",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 167
+  },
+  {
+    "completions": [
+      {
+        "id": 168001,
+        "lead_time": 82.322,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BlJNi6Yibk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JZ6g86vo-9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "sth_InneArmy BTSot7",
+      "category": "Entertainment",
+      "comment": "Kak caca sabar ya, aku tau mba perasaan mu pas liat suami pasti ngakak guling guling",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 168
+  },
+  {
+    "completions": [
+      {
+        "id": 169001,
+        "lead_time": 4.411,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ueE-HYpIiI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2eO3yZidbk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "gitry wulanjani",
+      "category": "Entertainment",
+      "comment": "Desta masha Allah niatnya 🤣🤣🤣",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 169
+  },
+  {
+    "completions": [
+      {
+        "id": 170001,
+        "lead_time": 4.932,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "LUdB7GIvG-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JHSc_qHHvx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "lintang ak",
+      "category": "Entertainment",
+      "comment": "astaga hesti cantik banget~",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 170
+  },
+  {
+    "completions": [
+      {
+        "id": 171001,
+        "lead_time": 6.855,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WlTuoju_sD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Lx0kwloY17",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Estu Ayu Ragil",
+      "category": "Entertainment",
+      "comment": "08:18 yang ditunggu tunggu nih wkkwkwkw",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 171
+  },
+  {
+    "completions": [
+      {
+        "id": 172001,
+        "lead_time": 5.672,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fCAGvtdRKJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BDI-h-bgJ-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Saiful Muhjab",
+      "category": "Entertainment",
+      "comment": "Ngakak parah anjir, haha",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 172
+  },
+  {
+    "completions": [
+      {
+        "id": 173001,
+        "lead_time": 19.125,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ps88MX4DBM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UXOEXZ8PMD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dika Andika",
+      "category": "Entertainment",
+      "comment": "Keren om Desta bawain Candy Candy, anime yg populer banget era 80an dan di Indonesia era 90an...",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 173
+  },
+  {
+    "completions": [
+      {
+        "id": 174001,
+        "lead_time": 48.801,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XftSuPNJlj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Igylt8JHuz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ummi Tanzila",
+      "category": "Entertainment",
+      "comment": "Bener-bener humor yang asli menghibur. Seru gak pake nyindir-nyindir, gak pake menjatuhkan yang lain. Semua personilnya totalitas. Semua lucu 😂",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 174
+  },
+  {
+    "completions": [
+      {
+        "id": 175001,
+        "lead_time": 6.081,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "SJbYA5RsFb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_olwg-zQTG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Winda Inggri",
+      "category": "Entertainment",
+      "comment": "Kangen acara inii adain lagi dongg neet😭",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 175
+  },
+  {
+    "completions": [
+      {
+        "id": 176001,
+        "lead_time": 5.445,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6dJhKHQgl6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_W3BOz9xAa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pradipta Gagah",
+      "category": "Entertainment",
+      "comment": "Sapa yg habis lihat ini langsung nyari lagu ny candy candy",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 176
+  },
+  {
+    "completions": [
+      {
+        "id": 177001,
+        "lead_time": 5.824,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XWXaaesjWS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "i6qtqiuUNs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hanifah Ar",
+      "category": "Entertainment",
+      "comment": "Love tonight show.. Semoga acaranya ada sampe lamaaa banget.. Ku usaha in pulang kerja langsung nonton TNS di TV biar ga bungkus ❤️❤️",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 177
+  },
+  {
+    "completions": [
+      {
+        "id": 178001,
+        "lead_time": 5.349,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UAvTZinJxf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WSegHHR4B2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "rcntfrds",
+      "category": "Entertainment",
+      "comment": "mirip acara di jepang wawww nice team tns! :))",
+      "like": "25",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 178
+  },
+  {
+    "completions": [
+      {
+        "id": 179001,
+        "lead_time": 4.156,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VL4kQtXuar",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ZHjEmTISRF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bang Sigit Chanel",
+      "category": "Entertainment",
+      "comment": "ketawanya enzy.. 💕❤",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 179
+  },
+  {
+    "completions": [
+      {
+        "id": 180001,
+        "lead_time": 7.261,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tsd-4Edyi_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Ih7SGhSvQQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sutee Ae",
+      "category": "Entertainment",
+      "comment": "7:39 luwes sekali nih kartika loncat² nya wkwkwk",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 180
+  },
+  {
+    "completions": [
+      {
+        "id": 181001,
+        "lead_time": 4.18,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XTLh5wWHOI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0Wxc8MzJh7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yuliani Citra Dewi",
+      "category": "Entertainment",
+      "comment": "Lge stress nonton TNS lngsung happy",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 181
+  },
+  {
+    "completions": [
+      {
+        "id": 182001,
+        "lead_time": 6.45,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NQf7FOPIOw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "CfeqkxyFFe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nopose",
+      "category": "Entertainment",
+      "comment": "Gwe yakin msti ada yang comen tentang ketawanya enzi yangggggggggg yang apa yahhhhh",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 182
+  },
+  {
+    "completions": [
+      {
+        "id": 183001,
+        "lead_time": 7.488,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "8p5_DyVl8h",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "epFoYNqe8n",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hotibul Um",
+      "category": "Entertainment",
+      "comment": "7:36 ketawa Enzy yg kayak ini niiihhh",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 183
+  },
+  {
+    "completions": [
+      {
+        "id": 184001,
+        "lead_time": 4.663,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xVAiQr84dD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "EVuOS61F8W",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ashleyy",
+      "category": "Entertainment",
+      "comment": "9:19 Merlin Monroe versi indo.",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 184
+  },
+  {
+    "completions": [
+      {
+        "id": 185001,
+        "lead_time": 3.473,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2Nw8Dg6trZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "L-i-exjVWm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Muhammad Ade Rezky",
+      "category": "Entertainment",
+      "comment": "9:07 naikkan gaji kameramen! HAHAHA",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 185
+  },
+  {
+    "completions": [
+      {
+        "id": 186001,
+        "lead_time": 3.939,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "h7-_AFZh3C",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XQSlErQrha",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "BOA Magic",
+      "category": "Entertainment",
+      "comment": "Sehat selalu punggawa TNS",
+      "like": "2",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 186
+  },
+  {
+    "completions": [
+      {
+        "id": 187001,
+        "lead_time": 4.237,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XqkaNM9y94",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "D_IN1JDMDJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Grace'in kadını",
+      "category": "Entertainment",
+      "comment": "Miiin.. makasih banget min udah upload. Sehat2 terus kita semua :)",
+      "like": "5",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 187
+  },
+  {
+    "completions": [
+      {
+        "id": 188001,
+        "lead_time": 4.35,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BkyQ5jZKrZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "eL35XpgJH5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pratama Wahyu",
+      "category": "Entertainment",
+      "comment": "anying dwp 2019",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 188
+  },
+  {
+    "completions": [
+      {
+        "id": 189001,
+        "lead_time": 3.72,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "EBFYE4dzRX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XgXVodKIui",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sahrularifadli",
+      "category": "Entertainment",
+      "comment": "Mau nangis liatnya😭😭🤣🤣🤣",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 189
+  },
+  {
+    "completions": [
+      {
+        "id": 190001,
+        "lead_time": 4.871,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Desq0hpWYS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UyTBj6gwm9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Widya Nilam",
+      "category": "Entertainment",
+      "comment": "Kangen segment kamis misteri 🙃🙃",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 190
+  },
+  {
+    "completions": [
+      {
+        "id": 191001,
+        "lead_time": 4.492,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "phU5fKEDWn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4ZGtYMzjpT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Lia Haryanti",
+      "category": "Entertainment",
+      "comment": "07:36 botuna keluarrrr haha",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 191
+  },
+  {
+    "completions": [
+      {
+        "id": 192001,
+        "lead_time": 4.299,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6RURf3ad6S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "plnyKcyxjG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "IZALL WP",
+      "category": "Entertainment",
+      "comment": "Kok kocakk😂",
+      "like": "1",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 192
+  },
+  {
+    "completions": [
+      {
+        "id": 193001,
+        "lead_time": 5.784,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "R_vPurK6mM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-uQqvBGuNz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yunni Silviani",
+      "category": "Entertainment",
+      "comment": "((celana rafael))\nlangsung terngiang joke itu bikin gue ngakak sekebon😭",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 193
+  },
+  {
+    "completions": [
+      {
+        "id": 194001,
+        "lead_time": 4.433,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Fjr1xarb0T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "mw5V3mGWh9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gobang",
+      "category": "Entertainment",
+      "comment": "08:17 😅😂 👍desta terepik masi hapal aja lagunya",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 194
+  },
+  {
+    "completions": [
+      {
+        "id": 195001,
+        "lead_time": 4.789,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "OzsEP5gAoI",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "lAjTbz8rxf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Siti Fathonah",
+      "category": "Entertainment",
+      "comment": "1:23 bibir gue ikutan dong😭😭",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 195
+  },
+  {
+    "completions": [
+      {
+        "id": 196001,
+        "lead_time": 3.223,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UCVJMVTXev",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pPWvI3NEHB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Alin Oksa",
+      "category": "Entertainment",
+      "comment": "Botuna ya Allah, gak ngerti lagi whahahahaaa\n\nDemi anak istri hahahaa",
+      "like": "6",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 196
+  },
+  {
+    "completions": [
+      {
+        "id": 197001,
+        "lead_time": 12.192,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GTRwHLl_Gu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "N4GNo-X4Zz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "sachi Ackal",
+      "category": "Entertainment",
+      "comment": "Cuma iklan rejoice yg ga aku skip....🤣🤣",
+      "like": "3",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 197
+  },
+  {
+    "completions": [
+      {
+        "id": 198001,
+        "lead_time": 6.848,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "INw9Vn7BWO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3Cumv8zFuF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Safrianto Apiel",
+      "category": "Entertainment",
+      "comment": "07:24 Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 198
+  },
+  {
+    "completions": [
+      {
+        "id": 199001,
+        "lead_time": 3.442,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "SPmkcEpqTL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "i8d2gcBCjk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Safrianto Apiel",
+      "category": "Entertainment",
+      "comment": "07:24 Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak",
+      "like": "",
+      "title": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak"
+    },
+    "id": 199
+  }
+]

@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Official Trailer GUNDALA (2019) - In theatres August 29, 2019",
+        "context": {
+            "dalam": 151,
+            "luar": 49
+        },
+        "sentiment": {
+            "positif": 95,
+            "netral": 70,
+            "negatif": 34
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "75.5%",
+        "luar": "24.5%",
+        "positif": "47.74%",
+        "netral": "35.18%",
+        "negatif": "17.09%"
+    }
+}

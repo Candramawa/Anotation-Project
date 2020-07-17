@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Ternyata Ini Cara Menambah Berat Badan",
+        "context": {
+            "dalam": 170,
+            "luar": 1
+        },
+        "sentiment": {
+            "positif": 38,
+            "netral": 55,
+            "negatif": 76
+        },
+        "total": 171
+    },
+    "percentage": {
+        "dalam": "99.42%",
+        "luar": "0.58%",
+        "positif": "22.49%",
+        "netral": "32.54%",
+        "negatif": "44.97%"
+    }
+}

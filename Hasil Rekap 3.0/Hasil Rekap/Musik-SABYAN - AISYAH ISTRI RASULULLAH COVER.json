@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "SABYAN - AISYAH ISTRI RASULULLAH | COVER",
+        "context": {
+            "dalam": 110,
+            "luar": 105
+        },
+        "sentiment": {
+            "positif": 178,
+            "netral": 33,
+            "negatif": 4
+        },
+        "total": 215
+    },
+    "percentage": {
+        "dalam": "51.16%",
+        "luar": "48.84%",
+        "positif": "82.79%",
+        "netral": "15.35%",
+        "negatif": "1.86%"
+    }
+}

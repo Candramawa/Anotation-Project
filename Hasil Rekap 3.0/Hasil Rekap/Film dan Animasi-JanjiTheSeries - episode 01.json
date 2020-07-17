@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "#JanjiTheSeries - episode 01",
+        "context": {
+            "dalam": 148,
+            "luar": 52
+        },
+        "sentiment": {
+            "positif": 108,
+            "netral": 53,
+            "negatif": 39
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "74.0%",
+        "luar": "26.0%",
+        "positif": "54.0%",
+        "netral": "26.5%",
+        "negatif": "19.5%"
+    }
+}

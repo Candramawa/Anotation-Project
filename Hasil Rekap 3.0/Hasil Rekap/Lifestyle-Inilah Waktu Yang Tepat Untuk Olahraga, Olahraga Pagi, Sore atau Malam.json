@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Inilah Waktu Yang Tepat Untuk Olahraga | Olahraga Pagi, Sore atau Malam ?",
+        "context": {
+            "dalam": 134,
+            "luar": 34
+        },
+        "sentiment": {
+            "positif": 41,
+            "netral": 95,
+            "negatif": 32
+        },
+        "total": 168
+    },
+    "percentage": {
+        "dalam": "79.76%",
+        "luar": "20.24%",
+        "positif": "24.4%",
+        "netral": "56.55%",
+        "negatif": "19.05%"
+    }
+}

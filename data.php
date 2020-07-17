@@ -1,7 +1,4 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-countto/1.2.0/jquery.countTo.min.js"></script>
 	
 	
 	<section id="home" class="video-hero" style="height: 500px; background-image: url(images/cover_img_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
@@ -37,13 +34,9 @@
 										<div class="display-t desc">
 											<div class="display-tc">
 												<div >
-													<p>Respon Audiens</p>
+													<p>Respon Audience</p>
 													<canvas id="myChart2"></canvas>
 												</div>
-												<p>Keterangan : </p>
-												<p>Biru : Komentar Positif</p>
-												<p>Kuning : Komentar Negatif</p>
-												<p>Hijau : Komentar Netral</p>
 											</div>
 										</div>
 									</div>
@@ -58,9 +51,6 @@
 													<p>Kesesuaian dengan Isi Konten</p>
 													<canvas id="myChart"></canvas>
 												</div>
-												<p>Keterangan : </p>
-												<p>Merah : Komentar Dalam Konteks (sesuai)</p>
-												<p>Ungu : Komentar Luar Konteks (tidak sesuai)</p>
 											</div>
 										</div>
 									</div>
@@ -76,36 +66,36 @@
 								var data2 = [
 									{
 										value: 2193,
-										color: "rgb(72, 167, 221)",
+										color: "#F7464A",
 										highlight: "darkgrey",
-										label: "Positif"
+										label: "Positive"
 									},
 									{
 										value: 561,
-										color: "#FDB45C",
+										color: "rgb(72, 167, 221)",
 										highlight: "black",
-										label: "Negatif"
+										label: "Negative"
 									},
 									{
 										value: 1513,
-										color: "rgb(13, 150, 80)",
-										highlight: "brown",
-										label: "Netral"
+										color: "rgb(0, 255, 0)",
+										highlight: "grey",
+										label: "Neutral"
 									},
 								];
 
 								var data = [
 									{
-										value: 2753,
-										color: "#F7464A",
+										value: 2758,
+										color: "#FDB45C",
 										highlight: "darkgrey",
-										label: "Dalam Konteks"
+										label: "Relatable"
 									},
 									{
 										value: 1520,
-										color: "rgb(191, 0, 255)",
+										color: "#46BFBD",
 										highlight: "black",
-										label: "Luar Konteks"
+										label: "UnRelatable"
 									},
 								];
 			
@@ -135,19 +125,19 @@
 								<div class="col-md-12">
 									<div class="col-md-4 col-sm-4 text-center animate-box">
 										<div class="counter-entry">
-											<span class="icon"><i class="flaticon-church"></i></span>
+											<span class="icon"><i class="flaticon-ribbon"></i></span>
 											<div class="desc">
-												<span class="colorlib-counter js-counter" data-from="0" data-to="2193" data-speed="5000" data-refresh-interval="50"></span>
-												<span class="colorlib-counter-label">Komentar berisi komentar positif</span>
+											<span class="colorlib-counter js-counter" data-from="0" data-to="4278" data-speed="5000" data-refresh-interval="50">4278</span>
+												<span class="colorlib-counter-label">Youtube's video commentar we use for making this web App</span>
 											</div>
 										</div>
 									</div>
 									<div class="col-md-4 col-sm-4 text-center animate-box">
 										<div class="counter-entry">
-											<span class="icon"><i class="flaticon-ribbon"></i></span>
+											<span class="icon"><i class="flaticon-church"></i></span>
 											<div class="desc">
-												<span class="colorlib-counter js-counter" data-from="0" data-to="1513" data-speed="5000" data-refresh-interval="50"></span>
-												<span class="colorlib-counter-label">Komentar berisi komentar netral</span>
+												<span class="colorlib-counter js-counter" data-from="0" data-to="2193" data-speed="5000" data-refresh-interval="50">2193</span>
+												<span class="colorlib-counter-label">From that are positive commentars.</span>
 											</div>
 										</div>
 									</div>
@@ -155,8 +145,8 @@
 										<div class="counter-entry">
 											<span class="icon"><i class="flaticon-dove"></i></span>
 											<div class="desc">
-												<span class="colorlib-counter js-counter" data-from="0" data-to="561" data-speed="5000" data-refresh-interval="50"></span>
-												<span class="colorlib-counter-label">Komentar berisi komentar negatif</span>
+												<span class="colorlib-counter js-counter" data-from="0" data-to="561" data-speed="5000" data-refresh-interval="50">561</span>
+												<span class="colorlib-counter-label">From that are negative commentars.</span>
 											</div>
 										</div>
 									</div>
@@ -205,7 +195,7 @@
 				<td scope="row"><a href="index.php?page=source&title=<?= $value["title"]; ?>"><?=$value['title']?></a></td>
 				<td><?=$value['channel']?></td>
 				<td><?=$value['category']?></td>
-				<td><a href="<?=$value['link']?>" target='_blank'>Tonton Video</a></td>
+				<td><a href="<?=$value['link']?>" target='_blank'>Watch Video</a></td>
 			</tr>
 	<?php 	endforeach; ?>
 
@@ -213,3 +203,80 @@
 </table>
 <br><br>
 </div>
+
+<div class="judul">
+	<hr>
+		<center><h1><br>Detail Data Komentar</></center>
+		
+</div>
+<br>
+    <div class="row" style="font-size: 13px">
+        <div class="col-md-10 offset-md-1">
+            <table id="bimz" class="table table-striped table-bordered">
+                <thead>
+                    <tr>
+                    	<th style="width: 8px">No</th>
+                        <th>Judul</th>
+                        <th style="width: 15px">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                	<tr>
+		                <td>1</td>
+		                <td>Berita dan Politik-Kepastian di Antara Ketidakpastian Catatan Najwa</td>
+		                <td>
+		                	<a href="index.php?page=details1">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>2</td>
+		                <td>Berita dan Politik-Mengenal Miangas, Pulau Indonesia yang Lebih Dekat ke Filipina</td>
+		                <td>
+		                	<a href="index.php?page=details2">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>3</td>
+		                <td>Berita dan Politik-Viral Video Polisi Kejar dan Tembaki Dua Begal Bermotor di Jalan Raya Bekasi</td>
+		                <td>
+		                	<a href="index.php?page=details3">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>4</td>
+		                <td>Education-Apa Itu Ilmu Kimia Sebenarnya</td>
+		                <td>
+		                	<a href="index.php?page=details4">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>5</td>
+		                <td>Education-Fungsi Pendidikan Selain Supaya Bisa Nyari Uang</td>
+		                <td>
+		                	<a href="index.php?page=details5">
+		                		<button type="button" class="btn btn-primary">Details</button>
+		                	</a>
+		                </td>
+		            </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+<br>
+
+<script type="text/javascript">
+	$(document).ready(function () {
+        $('#bimz').DataTable({
+        	"paging":   false,
+	        "info":     false
+        });
+    });
+</script>

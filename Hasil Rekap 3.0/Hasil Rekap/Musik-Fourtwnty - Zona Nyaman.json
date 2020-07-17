@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Fourtwnty - Zona Nyaman OST. Filosofi Kopi 2: Ben & Jody (Lyric Video)",
+        "context": {
+            "dalam": 104,
+            "luar": 116
+        },
+        "sentiment": {
+            "positif": 93,
+            "netral": 107,
+            "negatif": 20
+        },
+        "total": 220
+    },
+    "percentage": {
+        "dalam": "47.27%",
+        "luar": "52.73%",
+        "positif": "42.27%",
+        "netral": "48.64%",
+        "negatif": "9.09%"
+    }
+}

@@ -1,0 +1,5962 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 25.331,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PNL4fUjtXm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "x0Jn5RAYBP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Deiva Akram",
+      "category": "Gaming",
+      "comment": "Seandainya hidup semudah \"motherlode\"",
+      "like": "9",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 691.648,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "o3hTSvzRDD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "jQJimVoFik",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "최준호",
+      "category": "Gaming",
+      "comment": "The Sims 4 without cc and mod is nothing",
+      "like": "76",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 25.453,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "0NawI60eD1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TvQ6WOvxQU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "muhammad iqbal",
+      "category": "Gaming",
+      "comment": "Busseet, dia orang berkharisma ini, gapunya duit padahal\n\n\n-Lein Xceed 2019",
+      "like": "44",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 20.256,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "wymjfmrGT7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "m_xMadCX43",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Lein Xceed",
+      "category": "Gaming",
+      "comment": "Hayo lo yang bangun jam 2 pagi. Besok harus sekolah/kuliah/kerja oy :D.",
+      "like": "77",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 8.848,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T3K1FcmwvO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1Qsf-orVS4",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Riska W. T. P.",
+      "category": "Gaming",
+      "comment": "Kebalik kak, yg Foxbury institute itu lebih bagus yg bidang Science (IPA) lihat yg bagian Distinguished Degree, itu yg bagusnya.\nKalo yg University of Britechester itu bagus yg bidang seninya.",
+      "like": "46",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 10.186,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "M282R0hUSh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "PTIXDlIyZv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arlesienne Zidane",
+      "category": "Gaming",
+      "comment": "Memangnya siapa yg nonton channel Leinxceed jam 2 dini hari ?",
+      "like": "24",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 502.576,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Ua1viBS-ue",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "IdpNe2S8mq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "frnssc",
+      "category": "Gaming",
+      "comment": "24:38 cewenya Jhon Thor bang kepin piano😂",
+      "like": "18",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 12.649,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ytp7uN_rM7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "EcVhCHeHoM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "putry khairunisa",
+      "category": "Gaming",
+      "comment": "\"Buset dia orang berkharisma ini, ga punya duit padahal\" 😂",
+      "like": "5",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 10.036,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "5VVUe6L9Hj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "syDI3ercUQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zikry Reynaldi",
+      "category": "Gaming",
+      "comment": "5:55 kebalik coy. Distinguished malah yg terkenal alias yg lbh difokusin. Haha",
+      "like": "3",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 7.092,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vwIh_QbInF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XU_cqh4HF-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Faza Malika",
+      "category": "Gaming",
+      "comment": "Terusin sampe sukses ya sims nya,, bakal ditonton trus ko",
+      "like": "5",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 15.277,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "pa1LNK5LP-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XM1nuTM7yN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Suma The Man",
+      "category": "Gaming",
+      "comment": "YouTube adalah tempat share pengalaman dan cerita kan guys.\nGua mau share perasaan sih, hehe.\nPerasaan gua sama game seperti ini sangat bikin kangenin, karena ntah kenapa setiap main game ini gua kek ada rasa tersendiri gitu. Dimana yang gua barusan gua sadar, perasaan itu adalah rasa senang mencampuri dan mengatur proses kehidupan sebuah manusia (Sims). Kwkwkw emang aneh tapi ini perasaan gua aja, intinya game ini nostalgia bet dah buat gua.",
+      "like": "5",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 17.747,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lq-O1MUAEj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hrQzJX5j2C",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "RIN Febrian",
+      "category": "Gaming",
+      "comment": "24:35 CEPET AMAT RESPON NYA KALO LIAT YG BENING-BENING. 😂😂😂",
+      "like": "9",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 10.365,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "66c2Xrd08U",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8sGqItWoIW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aziz dwi septori",
+      "category": "Gaming",
+      "comment": "Bang cobain review game pc \" ghost parade\" yg kmaren halowen rilis yg dari developer indo bang",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 5.626,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "7YRd74ZBKV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3PgHFAhTgR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "MyLonely Days",
+      "category": "Gaming",
+      "comment": "Lanjutin Bang, seru",
+      "like": "3",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 11.66,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lxGnlkHq9X",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XrimO-IGn7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Suharti Hikmayani",
+      "category": "Gaming",
+      "comment": "\"merecet dong\"\n\"lekbong\" 🤣🤣🤣\n Sunda detected",
+      "like": "9",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 50.502,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IKzRlqZeWO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "z_QxHQ277f",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kinanti Putri",
+      "category": "Gaming",
+      "comment": "LANJUT BANG !!!11!",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 7.235,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "p_lHzza69J",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "P17sluaRmB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Boring LYF",
+      "category": "Gaming",
+      "comment": "Nice Content! ❤️ You just got a new Subscriber! 😊 Kayanya seru juga nih kuliah jurusan Villain haha 😅",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 7.209,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MZtYkG-Po_",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "K4Izuo53vE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "dian prasetya",
+      "category": "Gaming",
+      "comment": "di kasi nick dragonlord dong.. wkwkkw",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 11.749,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "254ySVUjCb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "GdFQq885sB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Restu Lienni",
+      "category": "Gaming",
+      "comment": "\"Dia orang berkarisma ini padahal ga punya duit\" 🤣🤣🤣🤣🤣 gini aja kok ngakak ya",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 10.415,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "6DUfezf9bb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "zmZSfgtiTC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gilbert Nicholas",
+      "category": "Gaming",
+      "comment": "kebalik cok, university britechester justru fokus di seni ama budaya, \"distinguished degree\" disitu artinya \"jurusan unggulan\", jadi foxbury institute jurusan unggulannya justru ilmu sains ama eksak cuy",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 6.801,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "45bv6rCHna",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "VgEv98J3S-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "renzes kurniawan",
+      "category": "Gaming",
+      "comment": "bang review kingdom under fire 2 dong XD",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 27.275,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3Pdkwp2nRe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1fRqmWr83i",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "{엘레인}E l i n",
+      "category": "Gaming",
+      "comment": "The sims part 3 banggg",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 8.327,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "zA_TUzufzL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uJocImE3f0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Max Violet",
+      "category": "Gaming",
+      "comment": "Bang part 2",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 23.028,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "cc0e5fsRbS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vw2UlciXbR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "vicious W",
+      "category": "Gaming",
+      "comment": "Akhirnya main Sims 4 lagi \nLanjut bang suka",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 19.72,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FOnbf_6snE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1f2EWhwhGm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ramadhanti Ekasari Putri",
+      "category": "Gaming",
+      "comment": "Bang kasih tau dong cara download ini di mac gimana :(",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 7.83,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xC40dKG4KU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rof0MovGAR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ines Septiani",
+      "category": "Gaming",
+      "comment": "Gw tungguin eps selanjutnya bang 😂",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 9.17,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "s-oUv9DfBC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "fGmanS1_P3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "RIN Febrian",
+      "category": "Gaming",
+      "comment": "Jadi daily record boleh juga nih karena ini seru liat nya 😂😂😂",
+      "like": "4",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 19.088,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tewnz0LzT1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vPyrrO8v29",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "BrokenSkull",
+      "category": "Gaming",
+      "comment": "Mas lein kira\" total duit yg Luh keluarin buat rakit PC brp yah?\nWa baru punya modal 10jtan buat rakit + tv 32' LCD :')",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 8.369,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NHcLH7f9wP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "m9XRrN5NUa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "영김 태",
+      "category": "Gaming",
+      "comment": "Kak mau nanya itu spek nya di deskripsi PC/laptop ?\n\nApa nama merek nya kak ?( Kalau laptop )",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 38.468,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "mNLsuevPrl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rIXi3l2sIx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ai Arra",
+      "category": "Gaming",
+      "comment": "buset pagi nya bang kwowkwoow. . .  ty tapi dah upload",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 9.611,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Pts6appEBK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Ss6l_2CL2t",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "michael chandra",
+      "category": "Gaming",
+      "comment": "Wkwkwkw upload jam 2 Bocah bocah fist kaga nongol",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 6.392,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1brJ5AbtAN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "B9HMdJjYSJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rswnd 26",
+      "category": "Gaming",
+      "comment": "Anjay jam segini upload😂",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 4.959,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "sEWLj7rtnJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ZmuisFXzcQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ryo stra",
+      "category": "Gaming",
+      "comment": "Yakali upload jam segini wkwkwk",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 9.773,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "93dld7Twf2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "ynt_QSa5IL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "True Buddy Ever",
+      "category": "Gaming",
+      "comment": "Game favorit ane di PS 😉 , di PC skip lah .. ga punya PC wkwkw",
+      "like": "4",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 10.906,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DpjDBtM6ZX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HJhYP7uQ2g",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Seiyaa",
+      "category": "Gaming",
+      "comment": "Download nya gimana bang?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 11.945,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dT4lpTEAw3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1UAnOnEv3d",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bbyy Angell",
+      "category": "Gaming",
+      "comment": "Kok the sims 4 aku gda discovery univesity ya? Kasih tau dongg",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 5.497,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "53S7UdIQ_L",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "d_ejuKexVH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Chris Hato",
+      "category": "Gaming",
+      "comment": "Bang Game SAO Alicization Lycoris PC",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 7.964,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "cwDhzHC3uB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XJnyp8scVx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ersandrina Devega Salsabila",
+      "category": "Gaming",
+      "comment": "Ka mau tanya, download the sims nya dimana?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 13.338,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "C4NPjzT6pc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Hu83UpqpXR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Andreas Rizano",
+      "category": "Gaming",
+      "comment": "Wkwkwk, dah lama gw ga liat video lw bang, gara2 dah ga main game hp lg...\nakhirnya main game pc lg,,, ahahahaha...",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 8.946,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "zWha8KMqpY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "u0FvrTvq_W",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Yuuta Nano",
+      "category": "Gaming",
+      "comment": "Sims 4 without mods and cc .. nah",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 7.677,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "cfgdJxp22-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Rk-p0egRPM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "SharkGames •",
+      "category": "Gaming",
+      "comment": "Bjir uploadnya jam 2 v:",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 12.524,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "JGuJvZJ7eG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-wMujnq2QZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Glen Charlie",
+      "category": "Gaming",
+      "comment": "Wah mantep lanjut terus bang part nyaa 👍👍",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 30.509,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Ape0KzN3QL",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "vBgT9aU266",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Altari Palvin",
+      "category": "Gaming",
+      "comment": "Halo kak mau tanya ini gamenya online apa offline? Terimakasih",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 14.403,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MVUU4RM9CX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "aJsokQgfYW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Putri Kania",
+      "category": "Gaming",
+      "comment": "Download the sims 4 nya gmna",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 7.397,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "HoDeW2_OU0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TGDBDYAFJb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gilbal Syahrefah",
+      "category": "Gaming",
+      "comment": "Biar bisa ada universitynya gmn bang? Sama biar baju dan barang2 rumahnya gitu banyak gimana caranya dah? Gua mainnya di PS4",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 11.595,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "KLT8Zccq1-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "rXPSLE5PTg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Pocky Flavor",
+      "category": "Gaming",
+      "comment": "Tanggung bang jadi simstuber aja 😂😂",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 8.521,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "AW0RV8Pu7K",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "LjA7I-nPeM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "aryu lovers",
+      "category": "Gaming",
+      "comment": "Lanjutin trs bang",
+      "like": "3",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 8.836,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "AP3_kXe6-d",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_ZtWITsdyP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "영김 태",
+      "category": "Gaming",
+      "comment": "Kak mau nanya itu spek nya di deskripsi PC/laptop ?\n\nApa nama merek nya kak ?( Kalau laptop )",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 18.292,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lOTstBgsOJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uuVWD2uScX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "ARDARI Official",
+      "category": "Gaming",
+      "comment": "Mancing bro, di laut atau sungai, biar dapet duit, sebenarnya gak usah kerja juga bisa, menulis novel, painting, atau bikin kerajinan nnti di jual... Dapet duitnya lumayan....",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 7.821,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "9f4kq8Ovgm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "inoriuu5EB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Alexia Pascalia",
+      "category": "Gaming",
+      "comment": "Kak Expansion packs yg Living Island dong kaaakkk 😍😍😍👍👍👍",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 7.357,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "-HiYMdzErB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "bZ_Uys7OrD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "iam Noobgaming10",
+      "category": "Gaming",
+      "comment": "Gampe PC MMORPG bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 10.989,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Fp2rAQHYtC",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "wCS2N8hyK-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "vira vita",
+      "category": "Gaming",
+      "comment": "Kak mau tanya dong,kira\"  the sims 4 di mainin di spek acer swift 3 intel gen 10 lancar ngga ya ?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 6.921,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1ffq_2ZyVh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JIPP8Rnf8a",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "karina ps",
+      "category": "Gaming",
+      "comment": "Ka cara downloadnya dong the Sims ini full?",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 6.424,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "89vSvLVuZe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "38U3J90o0Y",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rein Kakerissa",
+      "category": "Gaming",
+      "comment": "Bang download gamenya dmna ?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 9.965,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DcB7yydx2u",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "XqgEoS9PQV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hikigaya Shu",
+      "category": "Gaming",
+      "comment": "Gue nyari di steam g ada ya? bang downloadnya dimana?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 11.484,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3ALzKoVx_O",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8XP1GzccrU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kamaludin Yusuf",
+      "category": "Gaming",
+      "comment": "kalo mau download the sims 4 ini berbayar apa free?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 5.828,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "s5BUHqc8at",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sHFOOsSwCh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dian Dwi Lestari",
+      "category": "Gaming",
+      "comment": "mas realistis bgt mainnya :)",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 10.458,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NyoDtYUVTZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "dbg8-u2Wle",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fariz R.A",
+      "category": "Gaming",
+      "comment": "Gua kira lu rein xceed temen gua",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 7.546,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YSmB5adibB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Zv8xIrb4Zo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Afif Budi Utomo",
+      "category": "Gaming",
+      "comment": "Sekalian bang buat konten aja review game game pc, kayak rdr2 pc, atau mungkin game game tripleA?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 21.917,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "M29blgc3qu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "9qZwt1zq54",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "MIRO Channel",
+      "category": "Gaming",
+      "comment": "Pake nanya 2 peraknya kemana? Knp duit sisa 93 perak. Harga makanannya 7 perak, bukan 5. Ngelindur. Awkwk... Saking ngepresnya duit ank kuliahan sampe 2 perak aja diperhitungin, sampe lpa hrga sweet bread 7",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 6.74,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "eu7G2_vDc2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "S_fHJSUnEg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zulfian Sam",
+      "category": "Gaming",
+      "comment": "bakal dilanjutin ga nih bang?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 15.817,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FVWK8kEEU1",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0cIWNNWIhh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Wini Rizky Gustiani",
+      "category": "Gaming",
+      "comment": "Sama bang.. Aku jg ngambil jurusan drama tapi di britchester univ. Gampang bgt dpt nilai A+ soalnya jadwal kuliah nya ga trlalu padet kayak di foxbury.",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 7.207,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "YqL4N2xf2S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "44JHRZTkBD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Benny Marza Sugara",
+      "category": "Gaming",
+      "comment": "bang ini beli di oirigin ya?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 7.694,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "N2lUCBM0xe",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "MFrG7QQ4Dd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ildha desti",
+      "category": "Gaming",
+      "comment": "Bng permainan the sims 4 android bisa main ga?",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 12.446,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "A7SgTeEWxE",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4fbLAitlFt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Karunia Arya",
+      "category": "Gaming",
+      "comment": "Bang record ini gamenya software apa?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 8.578,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MMuT1D63Is",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "925xgO36sN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sandhi Irawan",
+      "category": "Gaming",
+      "comment": "Bang bang... Ets2 bang..... Beliin.. Haha",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 33.1,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "bXCWULDgWr",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "83PuHHPC5P",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "II o II",
+      "category": "Gaming",
+      "comment": "Bisa install wicked whims mod ga",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 19.026,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VTF7Ch5K2c",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1xs04-ODg5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nunik Alizar",
+      "category": "Gaming",
+      "comment": "Kayak lagi dengerin penyiar radio :D",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 8.306,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Hi6uqDNyOh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7FbpS4j6jM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Mr Unknown",
+      "category": "Gaming",
+      "comment": "semua jenis mod THE SIMS 4 udah gua mainin tinggal yg ini aja blm, dari 4 season, life pets, outcast, banyak,",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 12.073,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "KawhvxLkuN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "j_z6kB2hAD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rama Dhani",
+      "category": "Gaming",
+      "comment": "Lanjut the sims 4 nya bang.. walau gak pernah main tapi asik aja dengerin penjelasannya",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 15.698,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "2134Nsaig-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "3eQeAMjfsh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Asshyfa Rahmadianty",
+      "category": "Gaming",
+      "comment": "Download nya dimana game sims university??",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 21.072,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Pii-92uQ6o",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xAfBPjV_0A",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "BakaChibi [Bakachi]",
+      "category": "Gaming",
+      "comment": "sumpah nostalgia banget sama game PC...\nkali kali bini video game pc lagi walaupun offline kaya the sims,ngangenin soalnya\nauto like!",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 4.951,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PgdBqQRXZ-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "V1juSevZ7q",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "정향",
+      "category": "Gaming",
+      "comment": "Download dimana si yg full nya:\")",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 7.402,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "W2SnvqKHKM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sPzW5u6oKW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Stop Calling, I'm Playing",
+      "category": "Gaming",
+      "comment": "Pernah liat gim reaper nikah sama alien? cek chanelku. aku buat cerita the sims 4 juga lo.",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 12.614,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BYP5_UGaUQ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hhL6ZIXLtg",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "gamer indo",
+      "category": "Gaming",
+      "comment": "Lanjut lah bang. bosan gua game mobile terus!",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 15.072,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "73I49Iacr-",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HDSUtpA5Wa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "CrystaL Blinks",
+      "category": "Gaming",
+      "comment": "Biar hemat makan di kantin terus aja bang gratis.. atau ga biasanya temen dorm bawa makan masukin kulkas aja biar bisa awet tahan lama makanannya",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 6.695,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1tuijxLJCa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KVYhbITXl0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Tama Mahameru",
+      "category": "Gaming",
+      "comment": "Lost ark bang...",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 131.877,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "4yw9Bsv_bs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "mpnM4HKe_S",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "arya dhama",
+      "category": "Gaming",
+      "comment": "Seandainya kehidupan kayak the sims(nyari kerjaan gampang bet) dan gta san andreas(bisa ngecheat) betapa senangnya hidup ini",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 16.129,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "TlzBNCTqyB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "pPOIIFEAgB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "TY127 TY127",
+      "category": "Gaming",
+      "comment": "Bang itu kalo main game sims 4 dipc bisa pake stik ps gak sih? Karena game asiknya pake stik ps",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 12.748,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "v_HN7TocAU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "0oFh2w65wT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aditya Sean",
+      "category": "Gaming",
+      "comment": "Penjelasaannya salah, foxbury tuh lbih ke teknologi klo britechester itu lebih ke seni dan komunikasi.",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 14.857,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UKleW6Eypw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7Ibx-L3MpU",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Deriad Casty",
+      "category": "Gaming",
+      "comment": "keren sih bang kalo bisa lanjutin",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 13.194,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "j_IF5Zt097",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7WNGz06uG5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sana renaa",
+      "category": "Gaming",
+      "comment": "Kakkk lanjutin sims nya donkk",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 34.177,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tpFCNSYyPw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2WCjbGz630",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "THE KING",
+      "category": "Gaming",
+      "comment": "Mirip oness",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 10.983,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NiV5j6IG6w",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "X4uXN7nVRd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Maskhur vi Britannia",
+      "category": "Gaming",
+      "comment": "Kirain notif apaan, tengah malem judulnya masuk kuliah, pas banget lagi ngerjain tugas kuliah juga 😂",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 21.629,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "S8JILTob8O",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "LRJKR9BsDm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Arraha Minafe",
+      "category": "Gaming",
+      "comment": "Roti tadi harganya 7. Buat naikin quality presentasinya nya mungkin di Refine and Organize. Kaya nge refine equipment. 😂",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 6.226,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "_2omwrAPFF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "qRwOE0FI3v",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Devita N",
+      "category": "Gaming",
+      "comment": "Pengen game nyaaa, gimana cara downloadnya?",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 25.381,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "UNgdlzarWi",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "WN1A24DHiZ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Storm Nyx",
+      "category": "Gaming",
+      "comment": "Setelah kuperhatikan ternyata bang Lein mirip dengan Budi Setiawan fiks!",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 14.73,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "bfumZt7GLN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "r2xGWZxv9Q",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Tondy Harahap",
+      "category": "Gaming",
+      "comment": "Wkwk. Bang, ga suka liat cowok pake celana pendek?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 13.53,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "fKEZIzsMBS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "-XghasEeKx",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Devina Putri",
+      "category": "Gaming",
+      "comment": "Kak ini thesimsnya offline atau online?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 7.931,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "zdJTaQ-tlc",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "xfKg548eCK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zaki Adnan",
+      "category": "Gaming",
+      "comment": "besok gua bimbingan lagi, sial",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 6.054,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FOezRdX_1w",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sLnifnCU3b",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "yuki hime",
+      "category": "Gaming",
+      "comment": "tips agar nggak lelet gimana mas?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 8.211,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1QaiOXvIyb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iPnG4-bh1C",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dede Raditya",
+      "category": "Gaming",
+      "comment": "Black Desert di emulator kayanya berat ya bang?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 11.739,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "jn5ZWw18Li",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "CsMvFaeRya",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "clown Bee",
+      "category": "Gaming",
+      "comment": "Ini Online bang?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 11.419,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Ay0MvBP2mk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "krzYMQHev6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "IPunk alias Purnomo",
+      "category": "Gaming",
+      "comment": "2:23 Setuju deh sama kamu~ (nada Silver Queen)",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 10.317,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "hlQIQyddRG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "VBt9YwbCfq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rima Rachmawati",
+      "category": "Gaming",
+      "comment": "Ini the sims nya bukan asli dari origin ya wkwkwk",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 10.915,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Sy_o5Zt7Ap",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Lps8tSt1m5",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dayeng Lay",
+      "category": "Gaming",
+      "comment": "Baru ini ketemu youtuber yang gak nyiksa sims dan bahasanya enak di denger pas ngereview the sims haha mayan lah.. Ms nabung beli expansion pack yg ini",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 17.333,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "u9fAJWHhTN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "60whI5FSbS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nur Rifkahwati",
+      "category": "Gaming",
+      "comment": "Dia berkarisma, ga punya duit padahal",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 42.091,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "RRe1sIv1Kb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "od2pcD-iZh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dea Karina Andini",
+      "category": "Gaming",
+      "comment": "Kak bikin cara download the sims 4 nya dong",
+      "like": "3",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 8.264,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "r3ut6eB1-R",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "MP5JmZBNDT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Valien Diki",
+      "category": "Gaming",
+      "comment": "The sims . Seriusan bang. Game fav gua nih",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 6.425,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "MoeruR4iYA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "tUMzWnwQpY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Crazy Cavaliers",
+      "category": "Gaming",
+      "comment": "Lanjutin bang walau seminggu sekali ugha oke koq bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 99
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 7.259,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "VAq2pPtoXz",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "hbfGspxyo2",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Hazel Henzy",
+      "category": "Gaming",
+      "comment": "nih game online ya ?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 10.265,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IzYPKXmFJ9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7Vw5vMdMFv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Anggit Sarlito",
+      "category": "Gaming",
+      "comment": "Makanan di kantinnya gratis semua kok bang gausa kawatir",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 16.449,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "7NhwU1ugpM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "HRDBmdziU0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Austerity L2T",
+      "category": "Gaming",
+      "comment": "Review game2 pc yg bgs bang.  Or steam game yg bgs",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 9.007,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "3dkVdNQKvG",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "bupY2v_LBH",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Efendi Yulianto",
+      "category": "Gaming",
+      "comment": "jadi pengen beli game sims 4. kira2  bahasanya ada bahasa indonesia enggak ya?",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 5.538,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "evgrRtDJVo",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JC2E_hn4nF",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kofuka G",
+      "category": "Gaming",
+      "comment": "Cara sewa apartemen gimana",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "id": 105001,
+        "lead_time": 6.356,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "E8W3wpki6U",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "PMfKgi-f3W",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Aprilia Dwi Wijayanti",
+      "category": "Gaming",
+      "comment": "The sim versi Muslim bang. Keluaran baru.",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "id": 106001,
+        "lead_time": 16.832,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XaIy3hK0oP",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "cXHUczH5cM",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Zaf Nana",
+      "category": "Gaming",
+      "comment": "Mending kalo bikin presentasi refind dan organize aja soalnya semakin bagus presentasi nya semakin bagus nilainya",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "id": 107001,
+        "lead_time": 23.654,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "r4OPdk1LXu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JscadW6_1p",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Maryam Namira",
+      "category": "Gaming",
+      "comment": "bang bagi dong bang gamenya bang. gaada duit gua bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "id": 108001,
+        "lead_time": 5.461,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vqUjjzU2Bv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Qr8Xy3X7G8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "999ix",
+      "category": "Gaming",
+      "comment": "Sims 4 naik kembali",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "id": 109001,
+        "lead_time": 5.465,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T151UZ4Jdm",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "7a6XAIXjAb",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Nadhifa Rizki",
+      "category": "Gaming",
+      "comment": "kak share linknya dong",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "id": 110001,
+        "lead_time": 6.167,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "d6uy5mrE2h",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TySZ7hWyI3",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "HobiHobi An",
+      "category": "Gaming",
+      "comment": "Mantap bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "id": 111001,
+        "lead_time": 5.662,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "TnPtRCmOoh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TO5UET4-p8",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fadhil Usman",
+      "category": "Gaming",
+      "comment": "Lanjut part 2",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "id": 112001,
+        "lead_time": 7.796,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "rEkLZ4Vl7P",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "O3yXfBrWGd",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fadel Azra",
+      "category": "Gaming",
+      "comment": "Terlalu banyak ngomong bang.. we need gameplay:'",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "id": 113001,
+        "lead_time": 8.074,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "svQKiVB-vN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Gco-L7crAN",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "asa aditya norvin",
+      "category": "Gaming",
+      "comment": "bang dari the sim mobile sama the sims free play bagus mana",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "id": 114001,
+        "lead_time": 16.277,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "V7jR0MGdvl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "uS4LjMnJ66",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kiwi Peppermint",
+      "category": "Gaming",
+      "comment": "Baaang klo quality nya poor hrs di refune dloio",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "id": 115001,
+        "lead_time": 9.082,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "CeGeNZP158",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "U-KxZQ6oum",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "AP. Moon",
+      "category": "Gaming",
+      "comment": "Kalo bisa lanjutin bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "id": 116001,
+        "lead_time": 6.768,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "BEmtos5Kul",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "TZF2LYR_ct",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Saputra Annam",
+      "category": "Gaming",
+      "comment": "Motherlode",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "id": 117001,
+        "lead_time": 5.474,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "PwlDvzZkHO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "kv0TJS_uPn",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Bujur Banar",
+      "category": "Gaming",
+      "comment": "Lineage 2m udah pre download",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "id": 118001,
+        "lead_time": 7.184,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "FnRi-4Ldpa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "93z-Sx4Rmf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Kaonashi",
+      "category": "Gaming",
+      "comment": "Hoaaaaacchmmm",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "id": 119001,
+        "lead_time": 6.932,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "vu6ziERuZX",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "iW8k_TNDw9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "satrio the man of legend",
+      "category": "Gaming",
+      "comment": "Ada vid sims auto subs",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "id": 120001,
+        "lead_time": 9.293,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "k8VCEanHxA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_i140lR9Fl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Angga Arya S",
+      "category": "Gaming",
+      "comment": "Pengen gw tinggal di sana",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 120
+  },
+  {
+    "completions": [
+      {
+        "id": 121001,
+        "lead_time": 4.889,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "WwgjKTG3dR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "cyCVJdXwhf",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Adriandroid",
+      "category": "Gaming",
+      "comment": "Lanjuttt banggggggg",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "id": 122001,
+        "lead_time": 12.209,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "xK-i-wrgWV",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "k9XyhNP8uS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Keiko Katagawa",
+      "category": "Gaming",
+      "comment": "kebalik itu foxbury lebih bagus di sains, britechester lebih bagus seni. distinguished degree disini artinya lebih bagus dibanding degree aja. jadi kalo mau fokus ke ipa lebih pilih yg foxbury",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "id": 123001,
+        "lead_time": 5.343,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ISNMXpoJuY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "m4h4d5al0L",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ariana Grande",
+      "category": "Gaming",
+      "comment": "Nasib laptop w rusak asu",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "id": 124001,
+        "lead_time": 34.218,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "A6DwGcANHO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "_jihrTVirB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "iqbal toure42",
+      "category": "Gaming",
+      "comment": "Kelamaan bosen liatnya",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "id": 125001,
+        "lead_time": 27.628,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Bas2XsL6AS",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "a5gWICLlvD",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Gilang Setyawan",
+      "category": "Gaming",
+      "comment": "spek e gendengggggg",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "id": 126001,
+        "lead_time": 5.687,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "7-VSoRazvA",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "OHXBtIx4Yu",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ex xE",
+      "category": "Gaming",
+      "comment": "T e r n i a t",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "id": 127001,
+        "lead_time": 8.166,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NpG03somgq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "CxF00sTsiJ",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Super Legend",
+      "category": "Gaming",
+      "comment": "Bang dikit2 main game petualangan lah jgn review game mulu hihii.....",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "id": 128001,
+        "lead_time": 6.393,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ktVsqQLyy9",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "oY5FYZ1VLt",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "VVFRXX28",
+      "category": "Gaming",
+      "comment": "Gak main pokemon sword and shield bg?",
+      "like": "2",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "id": 129001,
+        "lead_time": 5.757,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "1W4kDMnM_0",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "JLbC8TKjAK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Wisnu Aji",
+      "category": "Gaming",
+      "comment": "Lanjut bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "id": 130001,
+        "lead_time": 4.553,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "9sB2KlEWD7",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "k94hiF0yTk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rijal Sadida",
+      "category": "Gaming",
+      "comment": "Lanjut bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "id": 131001,
+        "lead_time": 4.826,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "ZBOfWfm-36",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "UtPaQ9Vxdj",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rafii Fathul alim",
+      "category": "Gaming",
+      "comment": "Bang tolong lanjut",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "id": 132001,
+        "lead_time": 7.686,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "XNmB3h554b",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "4D1a63bScW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "R A",
+      "category": "Gaming",
+      "comment": "Untung besok saya nganggur",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "id": 133001,
+        "lead_time": 6.34,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "GUVzpA8VSs",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "BEpBNCQklT",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Jack Channel",
+      "category": "Gaming",
+      "comment": "Plotwist nama panjang lein, dragon lein d arc",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "id": 134001,
+        "lead_time": 16.458,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "Ix-s5fjU9j",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "8umzNvAj5A",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Natasha Emanuella",
+      "category": "Gaming",
+      "comment": "Interest itu bunga, student loan itu nyicil gitu. Aga2 gergetan nontonnya",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "id": 135001,
+        "lead_time": 7.971,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "IKlfpy4okR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "dAdAbtDUKW",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Dherawati Pratiwi",
+      "category": "Gaming",
+      "comment": "LANJUT IIIIII",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "id": 136001,
+        "lead_time": 6.921,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "wEVZKAEZvv",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "sfNCkPM4ZR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Adi Syafar",
+      "category": "Gaming",
+      "comment": "Bang main game pc oninaki",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 136
+  },
+  {
+    "completions": [
+      {
+        "id": 137001,
+        "lead_time": 7.618,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "tLZf74sHQk",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "KjTlewfTVK",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Ash Rasyid",
+      "category": "Gaming",
+      "comment": "bang.. main minecraft survival dung",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 137
+  },
+  {
+    "completions": [
+      {
+        "id": 138001,
+        "lead_time": 5.521,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "eKB6YtcOJw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "cLZfKv3_cq",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "NXL SYAHBANA",
+      "category": "Gaming",
+      "comment": "Bang lajut",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "id": 139001,
+        "lead_time": 6.369,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "7AZlpvBZEw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "SYY-Nd_I4h",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Caesarean Mewar",
+      "category": "Gaming",
+      "comment": "itu presentasi kalo poor di refine bang",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "id": 140001,
+        "lead_time": 4.633,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "TJhCA3oPmw",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "1Mmf_FbA2T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Sinatriyandika Harumawan",
+      "category": "Gaming",
+      "comment": "lanjut part 2 bang 👏",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "id": 141001,
+        "lead_time": 5.393,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "15ywyjcY9T",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "zgnquH6DbY",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Azmi Naufal",
+      "category": "Gaming",
+      "comment": "lanjut lah",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "id": 142001,
+        "lead_time": 7.556,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "8UXmbMAu53",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "50kqAc3f3V",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "meliana",
+      "category": "Gaming",
+      "comment": "cheering for you!! good video quality, good audio quality, good naration and also good personality~",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 142
+  },
+  {
+    "completions": [
+      {
+        "id": 143001,
+        "lead_time": 5.976,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "T82uDZ52Os",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "clmBGLNRp6",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Fab'S Gaming",
+      "category": "Gaming",
+      "comment": "Coba aja the Sims 4 ada di android 🤤",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 143
+  },
+  {
+    "completions": [
+      {
+        "id": 144001,
+        "lead_time": 7.623,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "DWYTNTYZrR",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "M2WaZg4TeB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Negatif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Admin Honcuk",
+      "category": "Gaming",
+      "comment": "ini yang main nggak bisa bahasa inggris apa gimana sih?",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 144
+  },
+  {
+    "completions": [
+      {
+        "id": 145001,
+        "lead_time": 5.646,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "dON_3r0MeO",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "2IXFKm1XWh",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Rama Dragneel",
+      "category": "Gaming",
+      "comment": "Lajut in bro...seru2",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 145
+  },
+  {
+    "completions": [
+      {
+        "id": 146001,
+        "lead_time": 5.448,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "gg7xbVCYPa",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "F92kQqQ1fB",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Choky Choky",
+      "category": "Gaming",
+      "comment": "Bikin tutorial wicked whims dong kak",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 146
+  },
+  {
+    "completions": [
+      {
+        "id": 147001,
+        "lead_time": 7.259,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "lHmyBpn2ki",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Dalam Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "Zv1-SG1lVl",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Positif"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "Muhajir Ucunawawa",
+      "category": "Gaming",
+      "comment": "jadi pengen main",
+      "like": "",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 147
+  },
+  {
+    "completions": [
+      {
+        "id": 148001,
+        "lead_time": 5.914,
+        "result": [
+          {
+            "from_name": "context",
+            "id": "NG1lw_Wmag",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Diluar Konteks"
+              ]
+            }
+          },
+          {
+            "from_name": "sentiment",
+            "id": "unWLUyjz0M",
+            "to_name": "comment",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Netral"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "author": "LMAO Lol",
+      "category": "Gaming",
+      "comment": "Susul",
+      "like": "1",
+      "title": "Masuk Kuliah! - The Sims 4 University (Indonesia) #1"
+    },
+    "id": 148
+  }
+]

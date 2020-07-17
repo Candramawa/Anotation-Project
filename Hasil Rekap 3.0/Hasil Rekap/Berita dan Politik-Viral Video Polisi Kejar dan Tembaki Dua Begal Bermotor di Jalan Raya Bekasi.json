@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Viral Video Polisi Kejar dan Tembaki Dua Begal Bermotor di Jalan Raya Bekasi, Ini Penjelasannya",
+        "context": {
+            "dalam": 165,
+            "luar": 35
+        },
+        "sentiment": {
+            "positif": 100,
+            "netral": 34,
+            "negatif": 66
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "82.5%",
+        "luar": "17.5%",
+        "positif": "50.0%",
+        "netral": "17.0%",
+        "negatif": "33.0%"
+    }
+}

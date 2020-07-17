@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Fungsi Pendidikan Selain Supaya Bisa Nyari Uang",
+        "context": {
+            "dalam": 119,
+            "luar": 81
+        },
+        "sentiment": {
+            "positif": 117,
+            "netral": 53,
+            "negatif": 30
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "59.5%",
+        "luar": "40.5%",
+        "positif": "58.5%",
+        "netral": "26.5%",
+        "negatif": "15.0%"
+    }
+}

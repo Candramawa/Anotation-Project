@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "\ud83e\uddea Apa Itu Ilmu 'Kimia' Sebenarnya? Apa Gunanya Di Hidup Kita? #BelajardiRumah",
+        "context": {
+            "dalam": 128,
+            "luar": 72
+        },
+        "sentiment": {
+            "positif": 107,
+            "netral": 83,
+            "negatif": 10
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "64.0%",
+        "luar": "36.0%",
+        "positif": "53.5%",
+        "netral": "41.5%",
+        "negatif": "5.0%"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "FIERSA BESARI - Bukan Lagu Valentine",
+        "context": {
+            "dalam": 130,
+            "luar": 70
+        },
+        "sentiment": {
+            "positif": 92,
+            "netral": 76,
+            "negatif": 32
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "65.0%",
+        "luar": "35.0%",
+        "positif": "46.0%",
+        "netral": "38.0%",
+        "negatif": "16.0%"
+    }
+}

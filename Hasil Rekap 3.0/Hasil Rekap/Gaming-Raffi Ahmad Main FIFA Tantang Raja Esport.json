@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Raffi Ahmad Main FIFA Tantang Raja Esport",
+        "context": {
+            "dalam": 142,
+            "luar": 78
+        },
+        "sentiment": {
+            "positif": 133,
+            "netral": 69,
+            "negatif": 18
+        },
+        "total": 220
+    },
+    "percentage": {
+        "dalam": "64.55%",
+        "luar": "35.45%",
+        "positif": "60.45%",
+        "netral": "31.36%",
+        "negatif": "8.18%"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Review Kim Ji-young Born 1982, Salah Satu Film Paling Penting di 2019",
+        "context": {
+            "dalam": 114,
+            "luar": 86
+        },
+        "sentiment": {
+            "positif": 112,
+            "netral": 63,
+            "negatif": 25
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "57.0%",
+        "luar": "43.0%",
+        "positif": "56.0%",
+        "netral": "31.5%",
+        "negatif": "12.5%"
+    }
+}

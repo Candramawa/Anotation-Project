@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Corona: Kepastian di Antara Ketidakpastian | Catatan Najwa",
+        "context": {
+            "dalam": 229,
+            "luar": 66
+        },
+        "sentiment": {
+            "positif": 140,
+            "netral": 141,
+            "negatif": 8
+        },
+        "total": 296
+    },
+    "percentage": {
+        "dalam": "77.36%",
+        "luar": "22.3%",
+        "positif": "48.44%",
+        "netral": "48.79%",
+        "negatif": "2.77%"
+    }
+}

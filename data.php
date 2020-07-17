@@ -137,7 +137,7 @@
 											<span class="icon"><i class="flaticon-church"></i></span>
 											<div class="desc">
 												<span class="colorlib-counter js-counter" data-from="0" data-to="2193" data-speed="5000" data-refresh-interval="50">2193</span>
-												<span class="colorlib-counter-label">From that are positive commentar</span>
+												<span class="colorlib-counter-label">From that are positive commentars</span>
 											</div>
 										</div>
 									</div>
@@ -146,7 +146,7 @@
 											<span class="icon"><i class="flaticon-dove"></i></span>
 											<div class="desc">
 												<span class="colorlib-counter js-counter" data-from="0" data-to="561" data-speed="5000" data-refresh-interval="50">561</span>
-												<span class="colorlib-counter-label">From that are negative commentar</span>
+												<span class="colorlib-counter-label">From that are negative commentars</span>
 											</div>
 										</div>
 									</div>

@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Yuk Lakukan Senam Aerobik Hanya 15 Menit Untuk Membakar Lemak Tubuh !",
+        "context": {
+            "dalam": 192,
+            "luar": 8
+        },
+        "sentiment": {
+            "positif": 186,
+            "netral": 8,
+            "negatif": 5
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "96.0%",
+        "luar": "4.0%",
+        "positif": "93.47%",
+        "netral": "4.02%",
+        "negatif": "2.51%"
+    }
+}

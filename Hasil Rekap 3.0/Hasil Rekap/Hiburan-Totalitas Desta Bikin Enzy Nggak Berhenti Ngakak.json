@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Totalitas Desta Bikin Enzy Nggak Berhenti Ngakak",
+        "context": {
+            "dalam": 138,
+            "luar": 62
+        },
+        "sentiment": {
+            "positif": 123,
+            "netral": 55,
+            "negatif": 22
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "69.0%",
+        "luar": "31.0%",
+        "positif": "61.5%",
+        "netral": "27.5%",
+        "negatif": "11.0%"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "INI GAME SERU JUGA TERNYATA!! - ANIMAL CROSSING",
+        "context": {
+            "dalam": 93,
+            "luar": 147
+        },
+        "sentiment": {
+            "positif": 60,
+            "netral": 157,
+            "negatif": 22
+        },
+        "total": 240
+    },
+    "percentage": {
+        "dalam": "38.75%",
+        "luar": "61.25%",
+        "positif": "25.1%",
+        "netral": "65.69%",
+        "negatif": "9.21%"
+    }
+}

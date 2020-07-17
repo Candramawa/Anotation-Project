@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "MASTERCHEF INDONESIA - Chef Arnold Minta Eric Fokus | FINAL",
+        "context": {
+            "dalam": 104,
+            "luar": 96
+        },
+        "sentiment": {
+            "positif": 91,
+            "netral": 73,
+            "negatif": 36
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "52.0%",
+        "luar": "48.0%",
+        "positif": "45.5%",
+        "netral": "36.5%",
+        "negatif": "18.0%"
+    }
+}

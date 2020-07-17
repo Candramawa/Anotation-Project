@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "Masalah Pendidikan Indonesia",
+        "context": {
+            "dalam": 98,
+            "luar": 102
+        },
+        "sentiment": {
+            "positif": 95,
+            "netral": 72,
+            "negatif": 33
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "49.0%",
+        "luar": "51.0%",
+        "positif": "47.5%",
+        "netral": "36.0%",
+        "negatif": "16.5%"
+    }
+}

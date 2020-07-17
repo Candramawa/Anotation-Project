@@ -1,0 +1,22 @@
+{
+    "total": {
+        "judul": "WARTEG FAVORIT",
+        "context": {
+            "dalam": 50,
+            "luar": 150
+        },
+        "sentiment": {
+            "positif": 100,
+            "netral": 90,
+            "negatif": 10
+        },
+        "total": 200
+    },
+    "percentage": {
+        "dalam": "25.0%",
+        "luar": "75.0%",
+        "positif": "50.0%",
+        "netral": "45.0%",
+        "negatif": "5.0%"
+    }
+}

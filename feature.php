@@ -24,7 +24,7 @@
                         </span>
                         <div class="desc">
                             <h3>Show Data</h3>
-                            <p>We will show the data after scraping comment from YouTube.</p>
+                            <p>Fitur ini akan menampilkan data setelah melakukan scraping komentar dari Youtube.</p>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@
                         </span>
                         <div class="desc">
                             <h3>User Scraping</h3>
-                            <p>Users can do scraping themselves, with the video they want.</p>
+                            <p>Pengguna dapat melakukan scraping sendiri menggunakan video yang mereka inginkan.</p>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                         </span>
                         <div class="desc">
                             <h3>Recommended Video</h3>
-                            <p>We will recommend YouTube video based on the anptation results.</p>
+                            <p>Kami akan memberikan rekomendasi berdasarkan hasil anotasi.</p>
                         </div>
                     </div>
                 </div>

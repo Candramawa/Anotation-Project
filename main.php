@@ -9,6 +9,7 @@
                             <h2>Insight Candramawa</h2>
                             <p>Explore The Insight</p>
                             <p><a href="index.php?page=feature" class="btn btn-primary btn-lg btn-custom">Get Started</a></p>
+                            <p>Sebuah aplikasi web yang mengimplementasikan anotasi teks.</p>
                         </div>
                     </div>
                 </div>

@@ -143,15 +143,6 @@
 									</div>
 									<div class="col-md-4 col-sm-4 text-center animate-box">
 										<div class="counter-entry">
-											<span class="icon"><i class="flaticon-church"></i></span>
-											<div class="desc">
-												<span class="colorlib-counter js-counter" data-from="0" data-to="1513" data-speed="5000" data-refresh-interval="50">1513</span>
-												<span class="colorlib-counter-label">From that are neutral commentar</span>
-											</div>
-										</div>
-									</div>
-									<div class="col-md-4 col-sm-4 text-center animate-box">
-										<div class="counter-entry">
 											<span class="icon"><i class="flaticon-dove"></i></span>
 											<div class="desc">
 												<span class="colorlib-counter js-counter" data-from="0" data-to="561" data-speed="5000" data-refresh-interval="50">561</span>
